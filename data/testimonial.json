@@ -1,0 +1,27 @@
+{
+    "sectionTitle": "Why do people praise<span> ARIA?</span>",
+    "sectionSubTitle": "Testimonials",
+    "testimonials": [
+        {
+            "subject": "The ARIA team works really hard to ensure high level of quality",
+            "desc": "I am New York City resident.   I want to thank Aria Diagnostic for their kindness and passion to help us in New York City.  I am so grateful and God bless.  Be safe.",
+            "thumb": "images/testimonial/female-profile.png",
+            "name": "Evelyn Diaz",
+            "designation": "COVID-19 Testing"
+        },
+        {
+            "subject": "The ARIA team works really hard to ensure high level of quality",
+            "desc": "Very thorough with testing for COVID and staff is great! Thank you for everything you guys are doing!",
+            "thumb": "images/testimonial/male-profile.png",
+            "name": "Richard Miller",
+            "designation": "COVID-19 Testing"
+        },
+        {
+            "subject": "The ARIA team works really hard to ensure high level of quality",
+            "desc": "I cannot fully express my appreciation and gratitude for Aria Diagnostics regarding the care and assistance I received in seeking COVID-19 testing for my 91 year-old mother.  I sent a note requesting assistance using their web interface, not really expecting much of a response.  I received an almost immediate response",
+            "thumb": "images/testimonial/female-profile.png",
+            "name": "Deborah Dahlke",
+            "designation": "COVID-19 Testing"
+        }
+    ]
+}

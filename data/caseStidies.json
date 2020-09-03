@@ -1,0 +1,72 @@
+{
+    "sectionTitle": " The best remedy for fear<span> is to gain knowledge.</span> ",
+    "sectionSubTitle": "Resources",
+    "projects": [
+        {
+            "id": "igG-service",
+            "image": "images/projects/case-study-01-480x298.jpg",
+            "heading": "Covid-19 Testing",
+            "category": "Information Technology",
+            "desc": "Offering a PCR and IgG antibody test for the novel corona virus associated with COVID-19.",
+            "link": "/"
+        },
+        {
+            "id": "BTWtoolkit",
+            "image": "images/projects/case-study-01-480x298.jpg",
+            "heading": "BACK TO WORK TOOLKIT",
+            "category": "Information Technology",
+            "desc": "Outline the steps that every employer and employee can take to reduce the risk of exposure to Covid-19."
+        },
+        {
+            "id": 3,
+            "image": "images/projects/case-study-03-480x298.jpg",
+            "heading": "Press Releases",
+            "category": "Web Development",
+            "desc": "Stay up to date with the latest news."
+        },
+        {
+            "id": 4,
+            "image": "images/projects/case-study-04-480x298.jpg",
+            "heading": "Helpful Links",
+            "category": "Cyber Security",
+            "desc": "Links to many of the same resources we utilize everyday to stay informed."
+        },
+        {
+            "id": 5,
+            "image": "images/projects/case-study-05-480x298.jpg",
+            "heading": "Toxicology Education",
+            "category": "Web Development",
+            "desc": "Information on metabolism and the detection window of drugs in urine "
+        },
+        {
+            "id": 6,
+            "image": "images/projects/case-study-06-480x298.jpg",
+            "heading": "FAQ",
+            "category": "Cyber Security",
+            "desc": "Frequently asked questions and answers on everything from Covid-19 to our other lab testing"
+        }
+    ],
+    "projectsTwo": [
+        {
+            "id": 1,
+            "image": "images/features/case-study-image-01.png",
+            "alt": "image",
+            "heading": "Aqua Technology Case Studies",
+            "category": "Cyber Security",
+            "desc": "ARM Holdings is the world's leading semiconductor Intellectual Property (IP) supplier. A semiconductor is the electronic controller at the heart of many devices that we use every day."
+        },
+        {
+            "id": 2,
+            "image": "images/features/case-study-image-02.png",
+            "alt": "image",
+            "heading": "Mitech-Smart Vision",
+            "category": "Information Technology",
+            "desc": "ARM Holdings is the world's leading semiconductor Intellectual Property (IP) supplier. A semiconductor is the electronic controller at the heart of many devices that we use every day."
+        }
+    ],
+    "underHeading": "Experience the Aria Advantage",
+    "link": "/",
+    "caseStudies": {
+        "bgImg": "images/bg/single-case-study-bg-01.jpg"
+    }
+}

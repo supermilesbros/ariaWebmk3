@@ -1,0 +1,80 @@
+{
+    "aboutCompany": {
+        "sectionTitle": "We’ve been thriving in <span>38 years</span>",
+        "sectionSubTitle": "Our company",
+        "desc": "Mitech specializes in technological and IT-related services such as product engineering, warranty management, building cloud, infrastructure, network, etc. We put a strong focus on the needs of your business to figure out solutions that best fits your demand and nail it."
+    },
+    "aboutCompanyTwo": {
+        "sectionTitle": "Our laboratory is a high-complexity<br><span> CLIA-certified, CAP-accredited facility</span>",
+        "sectionSubTitle": "ARIA ADVANTAGE",
+        "heading": "Years’ CLINICAL LAB EXPERIENCE",
+        "headingMarkText": "70",
+        "subHeading": "Fast . Accurate . Results",
+        "desc": "Our lab is designed to detect prescription narcotics, opiates/opioids, sedatives, gabapentanoids, antipsychotics/antidepressants, stimulants, and drugs of abuse. ",
+        "underHeading": "Experience The Aria Advantage",
+        "linkText": "Get Tested Today!"
+    },
+    "aboutItems": [
+        {
+            "icon": "images/icons/mitech-box-image-style-01-image-02-100x108.png",
+            "heading": "CAP Accredited",
+            "desc": "The goal of the CAP Laboratory Accreditation Program is to improve patient safety by advancing the quality of pathology and laboratory services, a standard met by 3% of testing labs",
+            "link": "https://www.cap.org/laboratory-improvement/accreditation/laboratory-accreditation-program"
+        },
+        {
+            "icon": "images/icons/mitech-box-image-style-01-image-01-100x108.png",
+            "heading": "CLIA Certified",
+            "desc": "The Clinical Laboratory Improvement Amendments (CLIA) establishes quality standards for all laboratories testing to ensure the accuracy, reliability, and timeliness of patient test results",
+            "link": "https://www.cdc.gov/clia/index.html"
+        },
+        {
+            "icon": "images/icons/mitech-box-image-style-01-image-06-100x108.png",
+            "heading": "CMS",
+            "desc": "The Centers for Medicare and Medicaid Services (CMS) has granted the CAP Laboratory Accreditation Program deeming authority. It is also recognized by the Joint Commission.",
+            "link": "https://www.cms.gov/"
+        }
+    ],
+    "aboutDelivery": {
+        "sectionTitle": "We Deliver Fast Accurate Results.",
+        "deliveryItems": [
+            {
+                "title": "Specimens",
+                "desc": "Are subjected to presumptive drug screen and validity testing through automated Enzyme-Linked Immunoassay."
+            },
+            {
+                "title": "Results",
+                "desc": "Manually approved results determine if the specimens qualify for confirmation."
+            },
+            {
+                "title": "Process",
+                "desc": "Using LC-MS/MS (liquid chromatography-tandem mass spectrometry), separation of more than 100 drugs and mass spectrometry analysis can be achieved in as little as six minutes per specimen. "
+            },
+            {
+                "title": "Laboratory Staff ",
+                "desc": "Our skilled team of lab personnel possesses over 70 years of clinical laboratory experience and review data a minimum of three times before reporting results to clients."
+            },
+            {
+                "title": "Quality",
+                "desc": "Never compromising quality for an increased rate of production, all procedures are implemented following CAP standards of patient care and safety."
+            },
+            {
+                "title": "Our Mission",
+                "desc": "Our lab yields results that enable clinicians to make informed decisions regarding care that will ultimately reduce abuse, misuse, and diversion of harmful drugs."
+            }
+        ]
+    },
+    "items": [
+        {
+            "no": "01",
+            "title": "How we can help your business?"
+        },
+        {
+            "no": "02",
+            "title": "Why become our partner?"
+        },
+        {
+            "no": "03",
+            "title": "What are the best of Mitech?"
+        }
+    ]
+}

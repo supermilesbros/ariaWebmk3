@@ -1,0 +1,16 @@
+{
+    "ctaOne": {
+        "title": "Aria Diagnostics is now offering IgG Antibody Testing for <span> COVID-19</span>",
+        "buttonTalk": "/contact",
+        "buttonInfo": "/igg-service"
+    },
+    "ctaTwo": {
+        "title": "IT Security & Computing",
+        "subTitle": "Challenges are just opportunities in disguise."
+    },
+    "ctaFour": {
+        "title": "Get a copy of brochure on <span> Brand New IT Tech.</span>",
+        "subTitle": "Resources",
+        "image": "images/banners/managed-it-services-book-cover.png"
+    }
+}

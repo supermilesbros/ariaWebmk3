@@ -1,0 +1,59 @@
+{
+    "sectionTitle": "THE PURPOSE OF THIS PLAN IS TO OUTLINE THE STEPS THAT EVERY EMPLOYER AND EMPLOYEE CAN TAKE TO REDUCE THE RISK OF EXPOSURE TO COVID-19. THE PLAN DESCRIBES HOW TO PREVENT WORKER EXPOSURE TO CORONAVIRUS, PROTECTIVE MEASURES TO BE TAKEN AT WORK, AND WORK PRACTICE CONTROLS TO BE USED, CLEANING AND DISINFECTING PROCEDURES, AND WHAT TO DO IF A WORKER BECOMES SICK. ",
+    "sectionSubTitle": "Resources",
+    "projects": [
+        {
+            "id": 1,
+            "image": "/btwBest.pdf",
+            "heading": "Back To Work Best Practices",
+            "category": "Information Technology",
+            "desc": "Guide to re-opening as businesses in the Indianapolis Metro begin re-opening and returning to work",
+            "dl" : ""
+        },
+        {
+            "id": 2,
+            "image": "/workQF.pdf",
+            "heading": "Work Place Quick Facts",
+            "category": "Cyber Security",
+            "desc": "General set of FAQs and high level Covid-19 information for your office and employees",
+            "dl": ""
+        },
+        {
+            "id": 3,
+            "heading": "Exposure Notification Template ",
+            "category": "Web Development",
+            "desc": "Guidance for what your workplace could use if there was an exposure incident",
+            "dl": "/ExposureNotification.docx"
+        },
+        {
+            "id": 4,
+            "heading": "Response Plan Template",
+            "category": "Cyber Security",
+            "desc": "It is highly recommended to review this guide and customize as needed for your workplace prior to opening",
+            "dl": ""
+        }
+    ],
+    "projectsTwo": [
+        {
+            "id": 1,
+            "image": "images/features/case-study-image-01.png",
+            "alt": "image",
+            "heading": "Aqua Technology Case Studies",
+            "category": "Cyber Security",
+            "desc": "ARM Holdings is the world's leading semiconductor Intellectual Property (IP) supplier. A semiconductor is the electronic controller at the heart of many devices that we use every day."
+        },
+        {
+            "id": 2,
+            "image": "images/features/case-study-image-02.png",
+            "alt": "image",
+            "heading": "Mitech-Smart Vision",
+            "category": "Information Technology",
+            "desc": "ARM Holdings is the world's leading semiconductor Intellectual Property (IP) supplier. A semiconductor is the electronic controller at the heart of many devices that we use every day."
+        }
+    ],
+    "underHeading": "Challenges are just opportunities in disguise.",
+    "link": "/",
+    "caseStudies": {
+        "bgImg": "images/bg/single-case-study-bg-01.jpg"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "heroInfotechno": {
+        "subTitle": "IT Design & Consulting",
+        "title": "Facilitate All <br>  Local IT-related Service Providers",
+        "desc": "Highly Tailored IT Design, Management & Support Services.",
+        "bgImg": "images/hero/infotechno-01.png",
+        "img": "images/hero/infotechno-02.png"
+    },
+    "heroAppointment": {
+        "subTitle": "Fast & Accurate",
+        "title": "COVID-19 Testing Available Now",
+        "videoText": "Learn More",
+        "videoLink": "https://www.youtube.com/watch?v=9No-FiEInLA",
+        "bgImg": "images/hero/appointment-hero-bg.jpg"
+    },
+    "heroProcessing": {
+        "subTitle": "IT Software and design",
+        "title": "Virtual technology in a <span>Refined IT System</span>",
+        "desc": "Set the trends for desktop & server virtualization technology",
+        "videoText": "How we work",
+        "videoLink": "https://www.youtube.com/watch?v=vqZuSUtczbU",
+        "bgImg": "images/hero/processing-hero-bg.jpg",
+        "image": "images/hero/slider-processing-slide-01-image-01.png"
+    },
+    "heroService": {
+        "subTitle": "Responsive Design",
+        "title": "For IT Services",
+        "desc": "Highly Tailored IT Design, Management & Support Services.",
+        "bgImg": "images/hero/home-services-hero-bg.jpg"
+    },
+    "heroResolution": {
+        "subTitle": "FAST & ACCURATE",
+        "title": "COVID-19 TESTING",
+        "desc": "Offering a PCR and IgG antibody test for the novel corona virus associated with COVID-19",
+        "bgImg": "images/hero/home-resolutions-hero-bg-image.jpg"
+    }
+}
