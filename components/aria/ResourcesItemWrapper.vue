@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import data from '../../data/caseStidies.json'
+import data from '../../data/resources.json'
 import AriaSectionTitle from '@/components/aria/sub-components/AriaSectionTitle'
 import ResourcesItem from '@/components/aria/sub-components/ResourcesItem'
 
