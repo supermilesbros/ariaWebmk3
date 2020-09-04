@@ -2,9 +2,7 @@
   <div class="main-container">
     <HeaderAria />
 
-    <ToolkitHero breadcrumb-title="Helpful Links" />
-
-    <ToolkitItemWrapper />
+    <HelpfulLinksItemWrapper />
 
     <AriaFooter />
 
@@ -14,16 +12,14 @@
 
 <script>
 import HeaderAria from '@/components/aria/HeaderAria'
-import ToolkitHero from '@/components/aria/ToolkitHero'
-import ToolkitItemWrapper from '@/components/aria/ToolkitItemWrapper'
+import HelpfulLinksItemWrapper from '@/components/aria/HelpfulLinksItemWrapper'
 import AriaFooter from '@/components/aria/AriaFooter'
 import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu'
 
 export default {
   components: {
     HeaderAria,
-    ToolkitHero,
-    ToolkitItemWrapper,
+    HelpfulLinksItemWrapper,
     AriaFooter,
     OffCanvasMobileMenu
   },

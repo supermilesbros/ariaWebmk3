@@ -1,0 +1,106 @@
+{
+    "sectionTitle": "THE PURPOSE OF THIS PLAN IS TO OUTLINE THE STEPS THAT EVERY EMPLOYER AND EMPLOYEE CAN TAKE TO REDUCE THE RISK OF EXPOSURE TO COVID-19. THE PLAN DESCRIBES HOW TO PREVENT WORKER EXPOSURE TO CORONAVIRUS, PROTECTIVE MEASURES TO BE TAKEN AT WORK, AND WORK PRACTICE CONTROLS TO BE USED, CLEANING AND DISINFECTING PROCEDURES, AND WHAT TO DO IF A WORKER BECOMES SICK. ",
+    "sectionSubTitle": "Resources",
+    "links": [
+        {
+            "id": 1,
+            "image": "/btwBest.pdf",
+            "heading": "Indiana Corona Virus Updates",
+            "category": "Information Technology",
+            "desc": "IN.gov official Corona Virus Resource",
+            "url" : "https://www.coronavirus.in.gov/"
+        },
+        {
+            "id": 2,
+            "image": "/workQF.pdf",
+            "heading": "Indiana Corona Virus Testing Information",
+            "category": "Cyber Security",
+            "desc": "Interactive map showing testing locations",
+            "url" : "https://www.coronavirus.in.gov/2524.htm"
+        },
+        {
+            "id": 3,
+            "heading": "Indiana Corona Virus Dashboard",
+            "category": "Web Development",
+            "desc": "Indiana Corona Virus related data",
+            "url" : "https://www.coronavirus.in.gov/2393.htm"
+        },
+        {
+            "id": 4,
+            "heading": "Department of Education Covid-19 Resources",
+            "category": "Cyber Security",
+            "desc": "COVID-19 Resources for Indiana Schools",
+            "url" : "https://www.doe.in.gov/covid-19"
+        },
+        {
+            "id": 5,
+            "heading": "Governor Holcomb’s Roadmap To Reopen Indiana",
+            "category": "Cyber Security",
+            "desc": "Back On Track Indiana",
+            "url" : "https://backontrack.in.gov/"
+        },
+        {
+            "id": 6,
+            "heading": "Indiana Government Orders",
+            "category": "Cyber Security",
+            "desc": "Executive Orders Archives",
+            "url" : "https://www.in.gov/gov/2384.htm"
+        },
+        {
+            "id": 7,
+            "heading": "FDA Emergency Response FAQs",
+            "category": "Cyber Security",
+            "desc": "COVID-19 Frequently Asked Questions",
+            "url" : "https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions"
+        },
+        {
+            "id": 8,
+            "heading": "CDC Link",
+            "category": "Cyber Security",
+            "desc": "Get the Facts About Coronavirus",
+            "url" : "https://www.cdc.gov/coronavirus/2019-ncov/index.html"
+        },
+        {
+            "id": 8,
+            "heading": "CDC Link",
+            "category": "Cyber Security",
+            "desc": "Prevent Getting Sick",
+            "url" : "https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html"
+        },
+        {
+            "id": 8,
+            "heading": "OSHA Saftey Guidelines",
+            "category": "Cyber Security",
+            "desc": "Information for workers and employers about the evolving coronavirus pandemic",
+            "url" : "http://www.osha.gov/SLTC/covid-19/"
+        },
+        {
+            "id": 8,
+            "heading": "Prevention Tips",
+            "category": "Cyber Security",
+            "desc": "Barnard Medical Center",
+            "url" : "https://www.pcrm.org/barnard-medical-center/coronavirus-prevention-tips"
+        },
+        {
+            "id": 8,
+            "heading": "Small Business Funding Assistance",
+            "category": "Cyber Security",
+            "desc": "SBA Disaster Assistance in Response to the Coronavirus",
+            "url" : "https://www.sba.gov/funding-programs/disaster-assistance/coronavirus-covid-19"
+        },
+        {
+            "id": 8,
+            "heading": "Free Printable Covid 19 Office Signage",
+            "category": "Cyber Security",
+            "desc": "Offering free printable health and closure sign templates related to Coronavirus.",
+            "url" : "https://www.signs.com/coronavirus-signage/"
+        },
+        {
+            "id": 8,
+            "heading": "Corona Virus Travel Guidelines",
+            "category": "Cyber Security",
+            "desc": "Travel during the COVID-19 Pandemic",
+            "url" : "https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html"
+        }
+    ]
+}

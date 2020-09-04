@@ -4,7 +4,17 @@
 
     <ToolkitHero breadcrumb-title="Frequently Asked Questions" />
 
-    <ToolkitItemWrapper />
+    <div class="accordion-wrapper pt-5 section-space--pb_100">
+      <div class="container">
+        <div class="row ">
+          <div class="col-lg-12 pr-5">
+            <div class="faq-two-wrapper">
+              <AccordionFAQ />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <AriaFooter />
 
@@ -15,7 +25,7 @@
 <script>
 import HeaderAria from '@/components/aria/HeaderAria'
 import ToolkitHero from '@/components/aria/ToolkitHero'
-import ToolkitItemWrapper from '@/components/aria/ToolkitItemWrapper'
+import AccordionFAQ from '@/components/aria/sub-components/AccordionFAQ'
 import AriaFooter from '@/components/aria/AriaFooter'
 import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu'
 
@@ -23,7 +33,7 @@ export default {
   components: {
     HeaderAria,
     ToolkitHero,
-    ToolkitItemWrapper,
+    AccordionFAQ,
     AriaFooter,
     OffCanvasMobileMenu
   },
