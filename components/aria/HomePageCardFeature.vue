@@ -5,7 +5,7 @@
         <div class="col-12">
           <div class="feature-images__five resolutions-hero-bottom">
             <div class="row">
-              <div v-for="service in data.services.slice(29, 32)" :key="service.id" class="col-lg-4 col-md-6 wow move-up">
+              <div v-for="service in data.services" :key="service.id" class="col-lg-4 col-md-6 wow move-up">
                 <HomePageCardItem :service="service" />
               </div>
             </div>
@@ -24,7 +24,7 @@
 </template>
 
 <script>
-import data from '../../data/service.json'
+import data from '../../data/homeCardData.json'
 
 import HomePageCardItem from '@/components/aria/sub-components/HomePageCardItem'
 export default {

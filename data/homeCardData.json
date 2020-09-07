@@ -1,0 +1,28 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "heading": "About IgG Antibodies",
+            "desc": "The SARS-COV2- IMMUNOASSAY (IgG) can provide a broader picture of the SARS-CoV-2 virus such that if someone has been previously infected with the virus, it can show up in the body long after the initial infection. This test is designed by trusted and leading Abbott scientists and manufactured in volumes required to support the urgent needs of ongoing patient care.",
+            "icon": "images/icons/mitech-box-image-style-01-image-05-100x108.png",
+            "hoverIcon": "images/icons/mitech-box-image-style-01-image-05-100x108White.png",
+            "link": "/igg-service"
+        },
+        {
+            "id": 2,
+            "heading": "Returning To Work Safely",
+            "desc": "The CDC recently released a Return to Work Criteria for HCPs with confirmed COVID-19, or suspected COVID-19. Decisions to return to work for HCP with confirmed OR suspected COVID-19 should be made in the context of local circumstances. Options include a symptom-based, or time-based strategy and most recently, a test-based strategy.",
+            "icon": "images/icons/mitech-home-resolutions-box-image-02-100x98.png",
+            "hoverIcon": "images/icons/mitech-home-resolutions-box-image-02-hover-100x98.png",
+            "link": "/BTW-Toolkit"
+        },
+        {
+            "id": 3,
+            "heading": "How To Get Tested",
+            "desc": "A sample of your blood is taken and loaded into a special instrument that detects whether IgG antibodies are present in the blood sample. This instrument can provide up to 6,000 tests per day. The Results are provided to the designated individual within 48 to 72 hours.",
+            "icon": "images/icons/mitech-home-resolutions-box-image-03-100x98.png",
+            "hoverIcon": "images/icons/mitech-home-resolutions-box-image-03-hover-100x98.png",
+            "link": "/CovidTesting"
+        }
+    ]
+}

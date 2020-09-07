@@ -1,5 +1,5 @@
 <template>
-  <div class="ht-box-images style-05">
+  <n-link :to="service.link" class="ht-box-images style-05">
     <div class="image-box-wrap">
       <div class="box-image">
         <div class="default-image">
@@ -24,7 +24,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </n-link>
 </template>
 
 <script>

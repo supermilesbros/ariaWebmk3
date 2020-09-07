@@ -143,7 +143,7 @@ export default {
         slidesPerGroup: 1,
         loop: true,
         speed: 1000,
-        autoplay: true,
+        autoplay: false,
         spaceBetween: 30,
         breakpoints: {
           1200: {

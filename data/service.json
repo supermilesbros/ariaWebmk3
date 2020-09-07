@@ -50,19 +50,22 @@
             "id": 1,
             "heading": "IgG Antibody Tests",
             "desc": "The SARS-COV2- IMMUNOASSAYS (IgG) can provide a broader picture of the SARS-CoV-2 virus.",
-            "icon": "images/icons/mitech-box-image-style-01-image-01-100x108.png"
+            "icon": "images/icons/mitech-box-image-style-01-image-01-100x108.png",
+            "link": "/igg-service"
         },
         {
             "id": 2,
             "heading": "Returning To Work Safely",
             "desc": "The CDC recently released a Return to Work Criteria for HCPs with confirmed COVID-19, or suspected COVID-19.",
-            "icon": "images/icons/mitech-box-image-style-01-image-02-100x108.png"
+            "icon": "images/icons/mitech-box-image-style-01-image-02-100x108.png",
+            "link": "/BTWtookit"
         },
         {
             "id": 3,
             "heading": "How To Get Tested",
             "desc": "We use a special instrument that detects whether IgG antibodies are present in the blood sample.",
-            "icon": "images/icons/mitech-box-image-style-01-image-03-100x108.png"
+            "icon": "images/icons/mitech-box-image-style-01-image-03-100x108.png",
+            "link": "/CovidTesting"
         },
         {
             "id": 4,
@@ -87,37 +90,37 @@
             "id": 7,
             "heading": "Comprehensive Drug Testing",
             "desc": "ARIA provides extensive testing for pain management, natural/semi-synthetic/synthetic opioids & opiates, antipsychotics, illicits (like MDMA, PCP, Ketamine & THC) and upon request designer drugs (like synthetic cannabinoids, synthetic cathinones, etc).",
-            "icon": "images/svg/linea-basic-heart.png"
+            "icon": "images/svg/basic_magnifier.png"
         },
         {
             "id": 8,
             "heading": "Proven Test Accuracy",
             "desc": "ARIA Diagnostics combines Presumptive Immunoassay testing with Definitive LC-MS/MS testing to ensure the most accurate analysis possible.",
-            "icon": "images/svg/linea-basic-case.png"
+            "icon": "images/svg/basic_bookmark.png"
         },
         {
             "id": 9,
             "heading": "Specimen Collectors",
             "desc": "ARIA can provide specimen collectors for observed and unobserved collection and courier services to help you accommodate the needs of our clients.",
-            "icon": "images/svg/linea-basic-alarm.png"
+            "icon": "images/svg/basic_calendar.png"
         },
         {
             "id": 10,
             "heading": "Specialized Lab Requests",
             "desc": "ARIA offers assistance in developing compliance and testing protocol for many applications including pain management, adherence monitoring, rehab abstinenceand workplace and student drug testing.",
-            "icon": "images/svg/linea-basic-geolocalize-05.png"
+            "icon": "images/svg/linea-basic-case.png"
         },
         {
             "id": 11,
             "heading": "Web-based Online Portal",
             "desc": "Paperless reports can be delivered conveniently and securely to the client. Sample analysis results are delivered in a comprehensive and easy-to-interpret report that highlights positive and inconsistent results.",
-            "icon": "images/svg/linea-ecommerce-money.png"
+            "icon": "images/svg/basic_webpage_img_txt.png"
         },
         {
             "id": 12,
             "heading": "Client Service Specialist",
             "desc": "Our greatest asset is our staff. Providing fast, accurate, and secure results requires highly qualified, professional lab personnel",
-            "icon": "images/svg/linea-basic-spread-text-bookmark.png"
+            "icon": "images/svg/basic_star.png"
         },
         {
             "id": 13,
