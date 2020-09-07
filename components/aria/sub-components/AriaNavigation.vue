@@ -76,6 +76,11 @@
         </li>
       </ul>
     </li>
+    <li>
+      <n-link to="/billing">
+        <span>Billing</span>
+      </n-link>
+    </li>
     <!-- <li class="has-children has-children--multilevel-submenu">
       <n-link to="/blog">
         <span>Blog</span>

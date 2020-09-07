@@ -1,0 +1,288 @@
+{
+    "payors": [
+        {
+            "name":     "AA Triple A Claim"
+        },
+        {
+            "name":     "AARP by UHC"
+        },
+        {
+            "name":     "Advantage "
+        },
+        {
+            "name":     "Aetna Medicare/Supplemental insurance"
+        },
+        {
+            "name":     "Aflac"
+        },
+        {
+            "name":     "AIG property Casualty"
+        },
+        {
+            "name":     "Alaska Medicaid"
+        },
+        {
+            "name":     "Ambetter"
+        },
+        {
+            "name":     "American Family"
+        },
+        {
+            "name":     "American Retirement Life"
+        },
+        {
+            "name":     "Anthem (Commercial/ Medicare)"
+        },
+        {
+            "name":     "Anthem Rail Road"
+        },
+        {
+            "name":     "Arizona Depart of Administrators (ADOA-WC)"
+        },
+        {
+            "name":     "Arizona Medicaid"
+        },
+        {
+            "name":     "ARIZONA Priority Care"
+        },
+        {
+            "name":     "AVMED "
+        },
+        {
+            "name":     "Bankers Fidelity Life Insurance"
+        },
+        {
+            "name":     "Bankers Life"
+        },
+        {
+            "name":     "Berkley Net"
+        },
+        {
+            "name":     "Blue Cross Blue Shield (Commercial/ Medicare)"
+        },
+        {
+            "name":     "Blue Cross Blue Shield of Arizona"
+        },
+        {
+            "name":     "Blue Cross Blue Shield of Illinois"
+        },
+        {
+            "name":     "Care Improvement Plus"
+        },
+        {
+            "name":     "Care Plus"
+        },
+        {
+            "name":     "Central State Indemnity"
+        },
+        {
+            "name":     "Cigna"
+        },
+        {
+            "name":     "Colonial Penn"
+        },
+        {
+            "name":     "Colorado Medicaid"
+        },
+        {
+            "name":     "Common Wealth of Massachusetts"
+        },
+        {
+            "name":     "DOL OWCP Workers Comp"
+        },
+        {
+            "name":     "Encore"
+        },
+        {
+            "name":     "Equitable and You"
+        },
+        {
+            "name":     "Equitable Life Casualty"
+        },
+        {
+            "name":     "Esis, Inc."
+        },
+        {
+            "name":     "Essence"
+        },
+        {
+            "name":     "Evolution (FL)"
+        },
+        {
+            "name":     "Florida Blue"
+        },
+        {
+            "name":     "Florida Medicaid"
+        },
+        {
+            "name":     "Freedom Health"
+        },
+        {
+            "name":     "Gov't Prod Claims"
+        },
+        {
+            "name":     "Health Net"
+        },
+        {
+            "name":     "Health New England"
+        },
+        {
+            "name":     "Heartland National life"
+        },
+        {
+            "name":     "Highmark Blue Sheild"
+        },
+        {
+            "name":     "Humana Medicare"
+        },
+        {
+            "name":     "Humana Military"
+        },
+        {
+            "name":     "Illinois Medicaid"
+        },
+        {
+            "name":     "Indiana Medicaid"
+        },
+        {
+            "name":     "IU Health Medicare Plans"
+        },
+        {
+            "name":     "Kansas Medicaid"
+        },
+        {
+            "name":     "Kentucky Care Source"
+        },
+        {
+            "name":     "Kentucky Medicaid"
+        },
+        {
+            "name":     "Life Style Health Plan"
+        },
+        {
+            "name":     "Louisiana Medicaid"
+        },
+        {
+            "name":     "Maine Medicaid"
+        },
+        {
+            "name":     "Mass Health Standard "
+        },
+        {
+            "name":     "MDwise (IN)"
+        },
+        {
+            "name":     "Medical Mutual of Ohio"
+        },
+        {
+            "name":     "Medico Ins Co"
+        },
+        {
+            "name":     "Members Health Insurance Co"
+        },
+        {
+            "name":     "Mercy Care Advantage"
+        },
+        {
+            "name":     "Meridian Health of Michigan"
+        },
+        {
+            "name":     "Michigan Medicaid"
+        },
+        {
+            "name":     "Missouri Medicaid"
+        },
+        {
+            "name":     "Molina Health Care"
+        },
+        {
+            "name":     "Multi Plan/PHCS"
+        },
+        {
+            "name":     "Mutual of Omaha"
+        },
+        {
+            "name":     "Neighborhood Health Plan of Rhode Island"
+        },
+        {
+            "name":     "New York State Com fund"
+        },
+        {
+            "name":     "NGS DEMPOS Operations"
+        },
+        {
+            "name":     "Ohio Bureau of Workers Comp"
+        },
+        {
+            "name":     "Ohio Medicaid"
+        },
+        {
+            "name":     "Optimcare by UHC"
+        },
+        {
+            "name":     "Parkview Signature Care"
+        },
+        {
+            "name":     "PassPort Health "
+        },
+        {
+            "name":     "Pennsylvania Medicaid"
+        },
+        {
+            "name":     "Philadelphia American Life"
+        },
+        {
+            "name":     "Summa Health"
+        },
+        {
+            "name":     "Sunshine Health (FL)"
+        },
+        {
+            "name":     "Trans America Life"
+        },
+        {
+            "name":     "Traveler Indemnity"
+        },
+        {
+            "name":     "Tri Care Select"
+        },
+        {
+            "name":     "UHC (Commercial/Medicare)"
+        },
+        {
+            "name":     "United Heartland Workers Comp"
+        },
+        {
+            "name":     "University of Arizona Health Plan"
+        },
+        {
+            "name":     "USAA Life Insurance"
+        },
+        {
+            "name":     "Veteran Administration"
+        },
+        {
+            "name":     "Well Care Health plans"
+        },
+        {
+            "name":     "Well Mark"
+        },
+        {
+            "name":     "West Virginia Care Source"
+        },
+        {
+            "name":     "West Virginia Medicaid"
+        },
+        {
+            "name":     "Western So. Financial Gr"
+        },
+        {
+            "name":     "Wisconsin Medicaid"
+        },
+        {  
+             "name":     "Zurich"
+        }
+    ]
+}
+
+
