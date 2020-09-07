@@ -10,7 +10,7 @@
           </div>
         </div>
       </div>
-      <div class="row justify-content-center\ ht-team-member-style-three">
+      <div class="row justify-content-center ht-team-member-style-three">
         <div v-for="teamMember in data.teamMembers.slice(0, 4)" :key="teamMember.id" class="col-lg-6 col-md-6  text-center wow move-up">
           <AriaTeamMember :team-member="teamMember" />
         </div>

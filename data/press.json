@@ -1,0 +1,50 @@
+{
+    "press": [
+        {
+            "id": 1,
+            "image": "/btwBest.pdf",
+            "heading": "Learn More",
+            "category": "Information Technology",
+            "desc": "How private labs like Aria can develop and provide COVID-19 testing.",
+            "link" : "https://www.aacc.org/publications/cln/articles/2020/march/how-laboratories-in-the-us-are-responding-to-covid19"
+        },
+        {
+            "id": 2,
+            "image": "/workQF.pdf",
+            "heading": "Press Release",
+            "category": "Cyber Security",
+            "desc": "Aria Diagnostics Partners with Northview Church ",
+            "link": "https://b2092daf-f52f-4aaf-b359-f8e1a2285be4.filesusr.com/ugd/9041d5_e798a107c086418c94147e14560a7764.pdf"
+        },
+        {
+            "id": 3,
+            "heading": "Press Release ",
+            "category": "Web Development",
+            "desc": "Aria Diagnostics Announces COVID-19 Antibody Testing ",
+            "link": "https://b2092daf-f52f-4aaf-b359-f8e1a2285be4.filesusr.com/ugd/9041d5_4d6a7e72f580434e88f5371a7b6e1165.pdf"
+        }
+    ],
+    "projectsTwo": [
+        {
+            "id": 1,
+            "image": "images/features/case-study-image-01.png",
+            "alt": "image",
+            "heading": "Aqua Technology Case Studies",
+            "category": "Cyber Security",
+            "desc": "ARM Holdings is the world's leading semiconductor Intellectual Property (IP) supplier. A semiconductor is the electronic controller at the heart of many devices that we use every day."
+        },
+        {
+            "id": 2,
+            "image": "images/features/case-study-image-02.png",
+            "alt": "image",
+            "heading": "Mitech-Smart Vision",
+            "category": "Information Technology",
+            "desc": "ARM Holdings is the world's leading semiconductor Intellectual Property (IP) supplier. A semiconductor is the electronic controller at the heart of many devices that we use every day."
+        }
+    ],
+    "underHeading": "Challenges are just opportunities in disguise.",
+    "link": "/",
+    "caseStudies": {
+        "bgImg": "images/bg/single-case-study-bg-01.jpg"
+    }
+}

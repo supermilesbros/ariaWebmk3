@@ -1,0 +1,61 @@
+{
+    "sectionTitle": "THE PURPOSE OF THIS PLAN IS TO OUTLINE THE STEPS THAT EVERY EMPLOYER AND EMPLOYEE CAN TAKE TO REDUCE THE RISK OF EXPOSURE TO COVID-19. THE PLAN DESCRIBES HOW TO PREVENT WORKER EXPOSURE TO CORONAVIRUS, PROTECTIVE MEASURES TO BE TAKEN AT WORK, AND WORK PRACTICE CONTROLS TO BE USED, CLEANING AND DISINFECTING PROCEDURES, AND WHAT TO DO IF A WORKER BECOMES SICK. ",
+    "sectionSubTitle": "Resources",
+    "projects": [
+        {
+            "id": 1,
+            "image": "https://ariadxs.stratusdx.net/testing/covid19.aspx?loc=antibody_selfpay",
+            "heading": "Covid-19 IgG Antbody Test",
+            "category": "Information Technology",
+            "desc": "COVID 19 IgG Antibody Cash Pay  $75",
+            "dl" : ""
+        },
+        {
+            "id": 2,
+            "image": "https://ariadxs.stratusdx.net/testing/covid19.aspx?loc=self_pay",
+            "heading": "Covid-19 Nasal PCR Test",
+            "category": "Cyber Security",
+            "desc": "COVID 19 PCR Cash Pay  $135",
+            "dl": ""
+        },
+        {
+            "id": 3,
+            "image": "https://ariadxs.stratusdx.net/testing/covid19.aspx?loc=self_pay",
+            "heading": "Covid-19 Nasal PCR Test",
+            "category": "Cyber Security",
+            "desc": "COVID 19 PCR Cash Pay  $135",
+            "dl": ""
+        },
+        {
+            "id": 4,
+            "image": "https://ariadxs.stratusdx.net/testing/covid19.aspx?loc=self_pay",
+            "heading": "Covid-19 Nasal PCR Test",
+            "category": "Cyber Security",
+            "desc": "COVID 19 PCR Cash Pay  $135",
+            "dl": ""
+        }
+    ],
+    "projectsTwo": [
+        {
+            "id": 1,
+            "image": "images/features/case-study-image-01.png",
+            "alt": "image",
+            "heading": "Aqua Technology Case Studies",
+            "category": "Cyber Security",
+            "desc": "ARM Holdings is the world's leading semiconductor Intellectual Property (IP) supplier. A semiconductor is the electronic controller at the heart of many devices that we use every day."
+        },
+        {
+            "id": 2,
+            "image": "images/features/case-study-image-02.png",
+            "alt": "image",
+            "heading": "Mitech-Smart Vision",
+            "category": "Information Technology",
+            "desc": "ARM Holdings is the world's leading semiconductor Intellectual Property (IP) supplier. A semiconductor is the electronic controller at the heart of many devices that we use every day."
+        }
+    ],
+    "underHeading": "Challenges are just opportunities in disguise.",
+    "link": "/",
+    "caseStudies": {
+        "bgImg": "images/bg/single-case-study-bg-01.jpg"
+    }
+}
