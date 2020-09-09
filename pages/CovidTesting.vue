@@ -13,6 +13,19 @@
     </div>
     <div class="col-12 align-center text-center">
       <div class="">
+        <b-button v-b-modal.modal-1>
+          Launch Test modal
+        </b-button>
+
+        <b-modal id="modal-1" size="xl" scrollable centered title="BootstrapVue">
+          <div style="height: 80vh; width: 80vw">
+            <iframe
+              style="width: 100%; height: 100%"
+              src="https://checkout.square.site/buy/NHNYMYSGN2L2WHHRJYBFREPM"
+              title="W3Schools Free Online Web Tutorials"
+            />
+          </div>
+        </b-modal>
         <div class="row">
           <a href="https://goo.gl/maps/8GYcxVjzUzcodq4v6" class="col-lg-6 col-md-6 ">
             <div class="ht-box-images style-06a">
@@ -46,7 +59,7 @@
               </div>
             </div>
           </a>
-          <a href="https://goo.gl/maps/WsMysfrCwyZeVKXx8" class="col-lg-6 col-md-6">
+          <a href="https://checkout.square.site/buy/NHNYMYSGN2L2WHHRJYBFREPM" class="col-lg-6 col-md-6">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
