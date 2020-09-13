@@ -1,177 +1,130 @@
 <template>
-    <div class="mobile-navigation">
-        <nav class="offcanvas-navigation" id="offcanvas-navigation">
-            <ul>
-                <li class="menu-item-has-children">
-                    <n-link to="/">Home</n-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <n-link to="/">
-                                <span>Infotechno</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/processing">
-                                <span>Processing</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/appointment">
-                                <span>Appointment</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/service">
-                                <span>Services</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/resolutions">
-                                <span>Resolutions</span>
-                            </n-link>
-                        </li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children">
-                    <n-link to="/about">
-                        <span>Company</span>
-                    </n-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <n-link to="/about">
-                                <span>About Us</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/contact">
-                                <span>Contact Us</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/leadership">
-                                <span>Leadership</span>
-                            </n-link>
-                        </li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children">
-                    <n-link to="/it-services">
-                        <span>Services</span>
-                    </n-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <n-link to="/it-services">
-                                <span>IT Services</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/it-solutions">
-                                <span>IT Solutions</span>
-                            </n-link>
-                        </li>
-                    </ul>
-                </li>
-                <li class="menu-item-has-children">
-                    <n-link to="/">
-                        <span>Elements</span>
-                    </n-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <n-link to="/element/accordion">
-                                <span>Accordion</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/element/box-icon">
-                                <span>Box Icon</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/element/box-image">
-                                <span>Box Image</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/element/box-large-image">
-                                <span>Box Large Image</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/element/call-to-action">
-                                <span>Call To Action</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/element/counters">
-                                <span>Counters</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/element/gradation">
-                                <span>Gradation</span>
-                            </n-link>
-                        </li>
-                        <li>
-                            <n-link to="/element/teams">
-                                <span>Teams</span>
-                            </n-link>
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <n-link to="/case-studies">
-                        <span>Case Studies</span>
-                    </n-link>
-                </li>
-                <li class="menu-item-has-children">
-                    <n-link to="/blog">
-                        <span>Blog</span>
-                    </n-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <n-link to="/blog/blog-details">
-                                <span>Blog Details</span>
-                            </n-link>
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-        </nav>
-    </div>
+  <div class="mobile-navigation">
+    <nav id="offcanvas-navigation" class="offcanvas-navigation">
+      <ul>
+        <li class="menu-item-has-children">
+          <n-link to="/">
+            Home
+          </n-link>
+        </li>
+        <li class="menu-item-has-children">
+          <n-link to="/resources">
+            Resources
+          </n-link>
+        </li>
+        <li class="menu-item-has-children">
+          <n-link to="/about">
+            <span>Company</span>
+          </n-link>
+          <ul class="sub-menu">
+            <li>
+              <n-link to="/about">
+                <span>About Us</span>
+              </n-link>
+            </li>
+            <li>
+              <n-link to="/contact">
+                <span>Contact Us</span>
+              </n-link>
+            </li>
+            <li>
+              <n-link to="/leadership">
+                <span>Leadership</span>
+              </n-link>
+            </li>
+          </ul>
+        </li>
+        <li class="menu-item-has-children">
+          <n-link to="/igg-service">
+            <span>Services</span>
+          </n-link>
+          <ul class="sub-menu">
+            <li>
+              <n-link to="/igg-service">
+                <span>IgG Antibody Testing</span>
+              </n-link>
+            </li>
+            <li>
+              <n-link to="/scope-service">
+                <span>Scope of Services</span>
+              </n-link>
+            </li>
+            <li>
+              <n-link to="/market-service">
+                <span>Markets</span>
+              </n-link>
+            </li>
+            <li>
+              <n-link to="/advantage-service">
+                <span>Aria Advantage</span>
+              </n-link>
+            </li>
+          </ul>
+        </li>
+        <li class="menu-item-has-children">
+          <n-link to="/contact-us">
+            <span>Contact</span>
+          </n-link>
+          <ul class="sub-menu">
+            <li>
+              <n-link to="/contact-us">
+                <span>Contact Us</span>
+              </n-link>
+            </li>
+            <li>
+              <n-link to="/portal">
+                <span>Portal</span>
+              </n-link>
+            </li>
+            <li>
+              <n-link to="/market-service">
+                <span>Carrers</span>
+              </n-link>
+            </li>
+          </ul>
+        </li>
+        <li class="menu-item">
+          <n-link to="/billing">
+            Billing
+          </n-link>
+        </li>
+      </ul>
+    </nav>
+  </div>
 </template>
 
 <script>
-    export default{
-        name: 'MobileNavMenu',
-        mounted() {
-            const offCanvasNav = document.querySelector('#offcanvas-navigation');
-            const offCanvasNavSubMenu = offCanvasNav.querySelectorAll('.sub-menu');
-            const anchorLinks = offCanvasNav.querySelectorAll('a');
-        
-            for (let i = 0; i < offCanvasNavSubMenu.length; i++){
-                offCanvasNavSubMenu[i].insertAdjacentHTML("beforebegin", "<span class='menu-expand'><i></i></span>");
-            }
-        
-            const menuExpand = offCanvasNav.querySelectorAll('.menu-expand');
-            const numMenuExpand = menuExpand.length;
-        
-            for (let i = 0; i < numMenuExpand; i++) {
-                menuExpand[i].addEventListener("click", (e) => {sideMenuExpand(e)});
-            }
-        
-            for (let i = 0; i < anchorLinks.length; i++) {
-                anchorLinks[i].addEventListener("click", () => {closeMobileMenu()});
-            }
+export default {
+  name: 'MobileNavMenu',
+  mounted () {
+    const offCanvasNav = document.querySelector('#offcanvas-navigation')
+    const offCanvasNavSubMenu = offCanvasNav.querySelectorAll('.sub-menu')
+    const anchorLinks = offCanvasNav.querySelectorAll('a')
 
-            const sideMenuExpand = (e) => {
-                e.currentTarget.parentElement.classList.toggle('active');
-            }
-            const closeMobileMenu = () => {
-                const offcanvasMobileMenu = document.querySelector('#offcanvas-mobile-menu');
-                offcanvasMobileMenu.classList.remove('active');
-            }
-        }
-    };
+    for (let i = 0; i < offCanvasNavSubMenu.length; i++) {
+      offCanvasNavSubMenu[i].insertAdjacentHTML('beforebegin', "<span class='menu-expand'><i></i></span>")
+    }
+
+    const menuExpand = offCanvasNav.querySelectorAll('.menu-expand')
+    const numMenuExpand = menuExpand.length
+
+    for (let i = 0; i < numMenuExpand; i++) {
+      menuExpand[i].addEventListener('click', (e) => { sideMenuExpand(e) })
+    }
+
+    for (let i = 0; i < anchorLinks.length; i++) {
+      anchorLinks[i].addEventListener('click', () => { closeMobileMenu() })
+    }
+
+    const sideMenuExpand = (e) => {
+      e.currentTarget.parentElement.classList.toggle('active')
+    }
+    const closeMobileMenu = () => {
+      const offcanvasMobileMenu = document.querySelector('#offcanvas-mobile-menu')
+      offcanvasMobileMenu.classList.remove('active')
+    }
+  }
+}
 </script>
 
 <style lang="scss">
