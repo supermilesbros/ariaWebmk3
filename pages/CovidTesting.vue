@@ -27,7 +27,7 @@
           </div>
         </b-modal>
         <div class="row">
-          <a href="https://goo.gl/maps/8GYcxVjzUzcodq4v6" class="col-lg-6 col-md-6 ">
+          <a href="https://goo.gl/maps/TaRKdBpaRyvqYMhy8" class="col-lg-6 col-md-6 ">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
@@ -37,13 +37,13 @@
                     </h6>
                   </div>
                   <h4 class="heading">
-                    Northview Church Carmel
+                    Carmel United Methodist Church
                   </h4>
                   <div class="text-left">
                     <h6 class="text-lg">
                       Address
                     </h6>
-                    <p>12900 Hazel Dell Parkway Carmel, IN  </p>
+                    <p>621 S Rangeline Rd Carmel, IN 46032  </p>
                   </div>
                   <div class="text-left">
                     <h6 class="text-lg">
