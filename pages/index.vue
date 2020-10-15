@@ -1,6 +1,6 @@
 <template>
   <div class="main-container">
-    <HeaderAria />
+    <!-- <HeaderAria />
 
     <HomePageHero />
 
@@ -20,7 +20,7 @@
 
     <AriaFooter />
 
-    <OffCanvasMobileMenu />
+    <OffCanvasMobileMenu /> -->
   </div>
 </template>
 
