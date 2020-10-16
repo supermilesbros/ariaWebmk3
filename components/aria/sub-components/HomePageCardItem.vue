@@ -17,10 +17,8 @@
           {{ service.desc }}
         </div>
         <div class="box-images-arrow">
-          <n-link to="/igg-service">
-            <span class="button-text">Discover now</span>
-            <i class="far fa-long-arrow-right" />
-          </n-link>
+          <span class="button-text">Discover now</span>
+          <i class="far fa-long-arrow-right" />
         </div>
       </div>
     </div>

@@ -10,13 +10,6 @@
               </div>
             </div>
           </div>
-
-          <div class="section-under-heading text-center section-space--mt_80">
-            Don't Guess, Know.
-            <a href="/pdfs/shouldTested.pdf">
-              Should you get tested
-            </a>
-          </div>
         </div>
       </div>
     </div>
