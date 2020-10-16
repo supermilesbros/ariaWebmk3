@@ -3,14 +3,6 @@
     "sectionSubTitle": "Resources",
     "projects": [
         {
-            "id": 1,
-            "image": "https://ariadxs.stratusdx.net/testing/covid19.aspx?loc=antibody_selfpay",
-            "heading": "Covid-19 IgG Antbody Test",
-            "category": "Information Technology",
-            "desc": "COVID 19 IgG Antibody Cash Pay  $75",
-            "dl" : ""
-        },
-        {
             "id": 2,
             "image": "https://ariadxs.stratusdx.net/testing/covid19.aspx?loc=self_pay",
             "heading": "Covid-19 Nasal PCR Test",

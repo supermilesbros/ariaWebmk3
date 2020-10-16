@@ -13,7 +13,7 @@
       </div>
 
       <div class="row">
-        <div v-for="project in data.projects" :key="project.id" class="col-lg-6 col-md-6">
+        <div v-for="project in data.projects" :key="project.id" class="col-lg-12 col-md-12">
           <a :href="project.image" class="projects-wrap style-01 wow move-up">
             <div class="projects-image-box">
               <div class="content text-color-primary">

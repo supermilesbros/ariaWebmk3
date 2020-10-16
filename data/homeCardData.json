@@ -11,7 +11,7 @@
         {
             "id": 2,
             "heading": "How To Get Tested",
-            "desc": "The CDC recently released a Return to Work Criteria for HCPs with confirmed COVID-19, or suspected COVID-19. Decisions to return to work for HCP with confirmed OR suspected COVID-19 should be made in the context of local circumstances. Options include a symptom-based, or time-based strategy and most recently, a test-based strategy.",
+            "desc": "Aria Diagnostics implements a simple and efficient testing process. Click below and select the PCR Nasal Test to begin the process. We will collect a little information within our online portal and then direct you to schedule your test at one of our 2 Drive-Thru Locations. After you make your appointment we will collect payment, then just arrive at your appointment time and get tested.",
             "icon": "images/icons/mitech-home-resolutions-box-image-02-100x98.png",
             "hoverIcon": "images/icons/mitech-home-resolutions-box-image-02-hover-100x98.png",
             "link": "/BTWToolkit"
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "heading": "Testing Results",
-            "desc": "A sample of your blood is taken and loaded into a special instrument that detects whether IgG antibodies are present in the blood sample. This instrument can provide up to 6,000 tests per day. The Results are provided to the designated individual within 48 to 72 hours.",
+            "desc": "Aria Diagnostics returns results via our online portal or directly to the requesting physician within 72 hours of collecting the sample.",
             "icon": "images/icons/mitech-home-resolutions-box-image-03-100x98.png",
             "hoverIcon": "images/icons/mitech-home-resolutions-box-image-03-hover-100x98.png",
             "link": "/CovidTesting"
