@@ -35,14 +35,6 @@
             "link": "HelpfulLinks"
         },
         {
-            "id": 5,
-            "image": "images/projects/case-study-05-480x298.jpg",
-            "heading": "Toxicology Education",
-            "category": "Web Development",
-            "desc": "Information on metabolism and the detection window of drugs in urine ",
-            "link": "ToxEdu"
-        },
-        {
             "id": 6,
             "image": "images/projects/case-study-06-480x298.jpg",
             "heading": "FAQ",
