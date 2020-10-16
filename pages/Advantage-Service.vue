@@ -2,7 +2,7 @@
   <div class="main-container">
     <HeaderAria />
 
-    <div class="about-banner-wrap banner-space bg-cover" :style="{ backgroundImage: `url('images/aria/advantage-hero.jpg')` }">
+    <div class="about-banner-wrap banner-space bg-cover" :style="{ backgroundImage: `url('images/hero/advantage-hero.jpg')` }">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 ml-auto mr-auto">

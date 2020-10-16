@@ -2,62 +2,77 @@
   <div class="mobile-navigation">
     <nav id="offcanvas-navigation" class="offcanvas-navigation">
       <ul>
-        <li class="menu-item-has-children">
+        <li>
           <n-link to="/">
-            Home
+            <span>Home</span>
           </n-link>
         </li>
-        <li class="menu-item-has-children">
+        <li>
           <n-link to="/resources">
-            Resources
+            <span>Covid-19</span>
           </n-link>
         </li>
-        <li class="menu-item-has-children">
+        <li class="has-children has-children--multilevel-submenu">
           <n-link to="/about">
-            <span>Company</span>
+            <span>Laboratory</span>
           </n-link>
-          <ul class="sub-menu">
+          <ul class="submenu">
             <li>
               <n-link to="/about">
                 <span>About Us</span>
               </n-link>
             </li>
             <li>
-              <n-link to="/contact">
-                <span>Contact Us</span>
-              </n-link>
-            </li>
-            <li>
-              <n-link to="/leadership">
-                <span>Leadership</span>
-              </n-link>
-            </li>
-          </ul>
-        </li>
-        <li class="menu-item-has-children">
-          <n-link to="/igg-service">
-            <span>Services</span>
-          </n-link>
-          <ul class="sub-menu">
-            <li>
-              <n-link to="/igg-service">
-                <span>IgG Antibody Testing</span>
+              <n-link to="/ToxEdu">
+                <span>Toxicology Education</span>
               </n-link>
             </li>
             <li>
               <n-link to="/scope-service">
-                <span>Scope of Services</span>
+                <span>Testing Process</span>
               </n-link>
             </li>
             <li>
-              <n-link to="/market-service">
-                <span>Markets</span>
+              <n-link to="/markets-service">
+                <span>Specialities</span>
               </n-link>
             </li>
             <li>
               <n-link to="/advantage-service">
                 <span>Aria Advantage</span>
               </n-link>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <n-link to="/billing">
+            <span>Billing</span>
+          </n-link>
+        </li>
+        <li>
+          <n-link to="/billing">
+            <span>Results Portal</span>
+          </n-link>
+        </li>
+        <li class="has-children has-children--multilevel-submenu">
+          <n-link to="/contact">
+            <span>Contact Us</span>
+          </n-link>
+          <ul class="submenu">
+            <li>
+              <n-link to="/contact">
+                <span>Contact Us</span>
+              </n-link>
+            </li>
+            <li>
+              <n-link to="/portal">
+                <span>Portal</span>
+              </n-link>
+            </li>
+            <li>
+              <a href="https://ariadxs.bamboohr.com/jobs/?source=filesusr">
+                <span>Careers</span>
+              </a>
             </li>
           </ul>
         </li>

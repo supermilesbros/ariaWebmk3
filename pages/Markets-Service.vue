@@ -2,7 +2,7 @@
   <div class="main-container">
     <HeaderAria />
 
-    <div class="about-banner-wrap banner-space bg-cover" :style="{ backgroundImage: `url('images/aria/market-hero.jpg')` }">
+    <div class="about-banner-wrap banner-space bg-cover" :style="{ backgroundImage: `url('images/hero/igg-hero.jpg')` }">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 ml-auto mr-auto">
@@ -26,18 +26,18 @@
             <div class="col-lg-4">
               <div class="modern-number-01">
                 <h3 class="heading mt-0">
-                  Learn More About Our <span class="text-color-primary"> Markets </span>
+                  Learn More About Our <span class="text-color-primary"> Specialties </span>
                 </h3>
               </div>
             </div>
             <div class="col-lg-7 offset-lg-1">
               <div class="conact-us-wrap-one managed-it">
                 <h5 class="heading ">
-                  We are now offering testing for <span class="text-color-primary"> SARS-COV2-IgG</span> This serology test (antibody test) is a critical next step in battling this virus.
+                  We are now offering <span class="text-color-primary">Nasal PCR</span> This test is a critical next step in battling this virus.
                 </h5>
 
                 <div class="sub-heading">
-                  Detecting these antibodies will help determine<br> if a person was previously infected with the virus that causes COVID-19.
+                  Using the PCR Test will help determine if a person is currently <br> infected with the virus that causes COVID-19.
                 </div>
               </div>
             </div>

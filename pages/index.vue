@@ -1,6 +1,6 @@
 <template>
   <div class="main-container">
-    <!-- <HeaderAria />
+    <HeaderAria />
 
     <HomePageHero />
 
@@ -8,19 +8,19 @@
 
     <AriaAdvantageFeature />
 
-    <AriaCtaOne />
+    <!-- <AriaCtaOne /> -->
 
-    <HomePageResourcesFeature />
+    <!-- <HomePageResourcesFeature /> -->
 
-    <AriaTestimonials />
+    <!-- <AriaTestimonials /> -->
 
-    <AriaStatsBar />
+    <!-- <AriaStatsBar /> -->
 
     <HomePageContactUsForm />
 
     <AriaFooter />
 
-    <OffCanvasMobileMenu /> -->
+    <OffCanvasMobileMenu />
   </div>
 </template>
 
@@ -28,10 +28,6 @@
 import HeaderAria from '@/components/aria/HeaderAria'
 import HomePageHero from '@/components/aria/HomePageHero'
 import AriaAdvantageFeature from '@/components/aria/AriaAdvantageFeature'
-import AriaCtaOne from '@/components/aria/AriaCtaOne'
-import HomePageResourcesFeature from '@/components/aria/HomePageResourcesFeature'
-import AriaTestimonials from '@/components/aria/AriaTestimonials'
-import AriaStatsBar from '@/components/aria/AriaStatsBar'
 import HomePageContactUsForm from '@/components/aria/HomePageContactUsForm'
 import AriaFooter from '@/components/aria/AriaFooter'
 import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu'
@@ -41,10 +37,6 @@ export default {
   components: {
     HeaderAria,
     AriaAdvantageFeature,
-    AriaCtaOne,
-    HomePageResourcesFeature,
-    AriaTestimonials,
-    AriaStatsBar,
     HomePageContactUsForm,
     AriaFooter,
     OffCanvasMobileMenu,

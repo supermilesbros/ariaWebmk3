@@ -8,15 +8,11 @@
     "footerWidgetTitleOne": "Services",
     "navListOne": [
         {
-            "navTitle": "IgG Antibody Testing",
-            "navUrl": "/igg-service" 
-        },
-        {
-            "navTitle": "Scope of Testing",
+            "navTitle": "Testing Process",
             "navUrl": "/scope-service" 
         },
         {
-            "navTitle": "Markets",
+            "navTitle": "Specialities",
             "navUrl": "/markets-service" 
         },
         {
@@ -28,7 +24,7 @@
     "navListTwo": [
         {
             "navTitle": "Testing Locations",
-            "navUrl": "/" 
+            "navUrl": "/CovidTesting" 
         },
         {
             "navTitle": "Covid-19 Back to Work Toolkit",

@@ -2,7 +2,7 @@
   <div class="main-container">
     <HeaderAria />
 
-    <div class="about-banner-wrap banner-space bg-cover" :style="{ backgroundImage: `url('images/aria/scope-hero.jpg')` }">
+    <div class="about-banner-wrap banner-space bg-cover" :style="{ backgroundImage: `url('images/hero/pcr-hero.jpg')` }">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 ml-auto mr-auto">
@@ -26,7 +26,7 @@
             <div class="col-lg-4">
               <div class="modern-number-01">
                 <h3 class="heading mt-0">
-                  Learn More About Our <span class="text-color-primary"> Scope <br> Of Testing</span>
+                  Learn More About Our <span class="text-color-primary"> Testing <br> Process</span>
                 </h3>
               </div>
             </div>

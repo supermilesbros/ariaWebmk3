@@ -7,12 +7,12 @@
     </li>
     <li>
       <n-link to="/resources">
-        <span>Resources</span>
+        <span>Covid-19</span>
       </n-link>
     </li>
     <li class="has-children has-children--multilevel-submenu">
       <n-link to="/about">
-        <span>Company</span>
+        <span>Laboratory</span>
       </n-link>
       <ul class="submenu">
         <li>
@@ -21,30 +21,18 @@
           </n-link>
         </li>
         <li>
-          <n-link to="/leadership">
-            <span>Leadership</span>
-          </n-link>
-        </li>
-      </ul>
-    </li>
-    <li class="has-children has-children--multilevel-submenu">
-      <n-link to="/igg-service">
-        <span>Services</span>
-      </n-link>
-      <ul class="submenu">
-        <li>
-          <n-link to="/igg-service">
-            <span>IgG Antibody Testing</span>
+          <n-link to="/ToxEdu">
+            <span>Toxicology Education</span>
           </n-link>
         </li>
         <li>
           <n-link to="/scope-service">
-            <span>Scope of Testing</span>
+            <span>Testing Process</span>
           </n-link>
         </li>
         <li>
           <n-link to="/markets-service">
-            <span>Markets</span>
+            <span>Specialities</span>
           </n-link>
         </li>
         <li>
@@ -54,9 +42,19 @@
         </li>
       </ul>
     </li>
+    <li>
+      <n-link to="/billing">
+        <span>Billing</span>
+      </n-link>
+    </li>
+    <li>
+      <n-link to="/Portal">
+        <span>Results Portal</span>
+      </n-link>
+    </li>
     <li class="has-children has-children--multilevel-submenu">
       <n-link to="/contact">
-        <span>Contact</span>
+        <span>Contact Us</span>
       </n-link>
       <ul class="submenu">
         <li>
@@ -65,21 +63,11 @@
           </n-link>
         </li>
         <li>
-          <n-link to="/portal">
-            <span>Portal</span>
-          </n-link>
-        </li>
-        <li>
           <a href="https://ariadxs.bamboohr.com/jobs/?source=filesusr">
             <span>Careers</span>
           </a>
         </li>
       </ul>
-    </li>
-    <li>
-      <n-link to="/billing">
-        <span>Billing</span>
-      </n-link>
     </li>
     <!-- <li class="has-children has-children--multilevel-submenu">
       <n-link to="/blog">
