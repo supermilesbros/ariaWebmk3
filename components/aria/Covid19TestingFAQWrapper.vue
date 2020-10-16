@@ -10,7 +10,7 @@
       <div class="row">
         <div class="pb-5 col-lg-12">
           <div class="feature-list-button-box mt-30 text-center">
-            <a href="/COVID-19FAQs.pdf" class="ht-btn ht-btn-md ht-btn--outline">
+            <a href="/COVID-19FAQs.pdf" class="ht-btn ht-btn-md ht-btn">
               PCR Test FAQ
             </a>
             <a href="https://b2092daf-f52f-4aaf-b359-f8e1a2285be4.filesusr.com/ugd/9041d5_96f2717245fa41d2b5aa4a86a367227e.pdf" class="ht-btn ht-btn-md ht-btn--outline">
