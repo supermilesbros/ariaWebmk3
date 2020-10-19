@@ -13,7 +13,7 @@
     </div>
     <div class="col-12 align-center text-center">
       <div class="">
-        <b-button v-b-modal.modal-1>
+        <!-- <b-button v-b-modal.modal-1>
           Launch Test modal
         </b-button>
 
@@ -25,7 +25,7 @@
               title="W3Schools Free Online Web Tutorials"
             />
           </div>
-        </b-modal>
+        </b-modal> -->
         <div class="row">
           <a href="https://goo.gl/maps/TaRKdBpaRyvqYMhy8" class="col-lg-6 col-md-6 ">
             <div class="ht-box-images style-06a">
