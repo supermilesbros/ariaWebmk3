@@ -102,7 +102,8 @@ export default {
       }
       const mailDoc = {
         to: [
-          'jared@supermilesbros.com'
+          'jared@supermilesbros.com',
+          'labsupport@ariadxs.com'
         ],
         message: {
           subject: fName + ' ' + 'New Cancel Form',
