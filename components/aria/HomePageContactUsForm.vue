@@ -106,7 +106,7 @@ export default {
           'labsupport@ariadxs.com'
         ],
         message: {
-          subject: fName + ' ' + 'New Cancel Form',
+          subject: fName + ' ' + 'New Site Form',
           text:
             this.formdata.comments +
             ' ' +
