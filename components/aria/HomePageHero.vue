@@ -16,9 +16,11 @@
               </p>
 
               <div class="hero-button-group section-space--mt_50">
-                <button class="ht-btn ht-btn-md">
-                  Schedule A Test
-                </button>
+                <nuxt-link to="/CovidTesting">
+                  <button class="ht-btn ht-btn-md">
+                    Schedule A Test
+                  </button>
+                </nuxt-link>
                 <button class="ht-btn ht-btn-md btn--white">
                   <a href="/doctorOrder.pdf">Physician Order Form</a>
                 </button>

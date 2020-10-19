@@ -121,7 +121,7 @@ export default {
         // TODO: error handling
       }
       this.writeSuccessful = true
-      this.reset()
+      // this.reset()
     }
   }
 }
