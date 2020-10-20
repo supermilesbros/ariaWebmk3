@@ -18,14 +18,14 @@
                   MEETING YOUR DEMANDS
                 </h5>
 
-                <div class="hero-button-group section-space--mt_50">
+                <!-- <div class="hero-button-group section-space--mt_50">
                   <button class="ht-btn ht-btn-md">
                     <a href="https://sdx.stratusdx.net/testing/covid19.aspx?loc=self_pay" target="_blank">Schedule A Test</a>
                   </button>
                   <button class="ht-btn ht-btn-md btn--white">
                     <a href="/doctorOrder.pdf">Physician Order Form</a>
                   </button>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>

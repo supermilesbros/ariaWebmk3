@@ -14,6 +14,9 @@
                 <h2 class="font-weight--bold text-color-primary">
                   TESTING PROCESS
                 </h2>
+                <h5 class="text-white">
+                  MEETING YOUR DEMANDS
+                </h5>
 
                 <div class="hero-button-group section-space--mt_50">
                   <button class="ht-btn ht-btn-md">

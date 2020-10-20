@@ -162,14 +162,14 @@ export default {
     }
   },
   mounted () {
-    (function (d, m) {
-      const kommunicateSettings =
-            { appId: '38cbaee05dc3f5c4448d0319dfa307d2c', popupWidget: true, automaticChatOpenOnNavigation: true }
-      const s = document.createElement('script'); s.type = 'text/javascript'; s.async = true
-      s.src = 'https://widget.kommunicate.io/v2/kommunicate.app'
-      const h = document.getElementsByTagName('head')[0]; h.appendChild(s)
-      window.kommunicate = m; m._globals = kommunicateSettings
-    })(document, window.kommunicate || {})
+    // (function (d, m) {
+    //   const kommunicateSettings =
+    //         { appId: '38cbaee05dc3f5c4448d0319dfa307d2c', popupWidget: true, automaticChatOpenOnNavigation: true }
+    //   const s = document.createElement('script'); s.type = 'text/javascript'; s.async = true
+    //   s.src = 'https://widget.kommunicate.io/v2/kommunicate.app'
+    //   const h = document.getElementsByTagName('head')[0]; h.appendChild(s)
+    //   window.kommunicate = m; m._globals = kommunicateSettings
+    // })(document, window.kommunicate || {})
   },
   methods: {
     // offcanvas mobilemenu open
