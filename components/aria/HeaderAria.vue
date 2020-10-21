@@ -39,7 +39,7 @@
                 <!-- brand logo -->
                 <div class="header__logo">
                   <n-link to="/">
-                    <img src="images/logo/ariaRed.png" class="img-fluid" alt="logo">
+                    <img src="images/logo/AriaRed.png" class="img-fluid" alt="logo">
                   </n-link>
                 </div>
 
