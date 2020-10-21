@@ -70,9 +70,9 @@
         max-width: 100%;
         margin: 0 auto; 
         & select {
-            border-color: #086ad8;
-            background-color: #086ad8;
-            // background: #086ad8 url("images/icons/hero-selector-icon.png") no-repeat center right 20px !important;
+            border-color: #d31037;
+            background-color: #d31037;
+            // background: #d31037 url("images/icons/hero-selector-icon.png") no-repeat center right 20px !important;
             background-repeat: no-repeat;
             background-position: center right 20px !important;
             color: #fff;
@@ -80,7 +80,7 @@
             padding: 3px 30px;
             height: 60px;
             &:focus {
-                // background: #086ad8 url("images/icons/hero-selector-icon.png") no-repeat center right 20px !important;
+                // background: #d31037 url("images/icons/hero-selector-icon.png") no-repeat center right 20px !important;
             }
         }
     }

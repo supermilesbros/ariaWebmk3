@@ -1,39 +1,41 @@
 <template>
-  <div class="resolutions-hero-space position-relative bg-cover" :style="{ backgroundImage: `url(${data.heroResolution.bgImg})` }">
+  <div class="service-hero-wrapper service-hero-space service-hero-bg" style=" backgroundImage: url('images/hero/igg-hero.jpg') ">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12 ml-auto mr-auto">
           <div class="service-hero-wrap wow move-up">
             <div class="service-hero-text text-center">
-              <h3 class="text-white">
+              <h3 class="text-brand">
                 {{ data.heroResolution.subTitle }}
               </h3>
               <h1 class="font-weight--reguler text-white mb-30">
                 {{ data.heroResolution.title }}
               </h1>
+              <div class="service-solution-form-wrap mr-auto ml-auto">
+                <form action="#" method="post">
+                  <div class="hero-select-form">
+                    <div class="contact-select">
+                      <div class="form-item contact-inner">
+                        <span class="inquiry">
+                          <select v-model="newRoute" class="select-item" :style="{ backgroundImage: `url('images/icons/hero-selector-icon.png')` }" @change="changeRoute()">
+                            <option value="HowCanWeHelpYou">How Can We Help You?</option>
+                            <option value="CovidTesting">Covid 19 Testing</option>
+                            <option value="resources">Covid-19 Information</option>
+                            <option value="markets-service">Other Drug Testing</option>
+                          </select>
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </form>
+              </div>
               <p class="text-white">
                 {{ data.heroResolution.desc }}
               </p>
-
-              <div class="hero-button-group section-space--mt_50">
-                <nuxt-link to="/CovidTesting">
-                  <button class="ht-btn ht-btn-md">
-                    Schedule A Test
-                  </button>
-                </nuxt-link>
-                <button class="ht-btn ht-btn-md btn--white">
-                  <a href="/doctorOrder.pdf">Physician Order Form</a>
-                </button>
-              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
-    <div class="vc_row-separator center_curve_alt bottom">
-      <svg xmlns="http://www.w3.org/2000/svg" version="1.1" preserveAspectRatio="none" viewBox="0 0 100 100">
-        <path d="M 0 0 L0 100 L100 100 L100 0 Q 50 200 0 0" />
-      </svg>
     </div>
   </div>
 </template>
@@ -43,7 +45,13 @@ import data from '../../data/hero.json'
 export default {
   data () {
     return {
-      data
+      data,
+      newRoute: 'HowCanWeHelpYou'
+    }
+  },
+  methods: {
+    changeRoute () {
+      this.$router.push({ path: '/' + this.newRoute })
     }
   }
 }
