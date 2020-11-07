@@ -78,7 +78,7 @@
       <b-collapse id="accordion-four" accordion="my-accordion">
         <b-card-body>
           <b-card-text>
-            ARIA offers assistance in developing compliance and testing protocol for many applications including pain management, adherence monitoring, rehab abstinenceand workplace and student drug testing.
+            ARIA offers assistance in developing compliance and testing protocol for many applications including pain management, adherence monitoring, rehab abstinence and workplace and student drug testing.
           </b-card-text>
         </b-card-body>
       </b-collapse>

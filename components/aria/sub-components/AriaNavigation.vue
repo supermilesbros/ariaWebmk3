@@ -20,11 +20,11 @@
             <span>About Us</span>
           </n-link>
         </li>
-        <li>
+        <!-- <li>
           <n-link to="/ToxEdu">
             <span>Toxicology Education</span>
           </n-link>
-        </li>
+        </li> -->
         <li>
           <n-link to="/scope-service">
             <span>Testing Process</span>
@@ -63,7 +63,7 @@
           </n-link>
         </li>
         <li>
-          <a href="https://ariadxs.bamboohr.com/jobs/?source=filesusr">
+          <a href="https://ariadxs.bamboohr.com/jobs/?source=filesusr" target="_blank">
             <span>Careers</span>
           </a>
         </li>

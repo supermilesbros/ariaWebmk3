@@ -14,9 +14,6 @@
             <n-link to="/contact" class="btn btn--white btn-one">
               <span class="btn-icon mr-2"><i class="far fa-comment-alt-dots" /></span> Let's talk
             </n-link>
-            <n-link to="CovidTesting" class="btn btn--secondary btn-two">
-              <span class="btn-icon mr-2"><i class="far fa-info-circle" /></span> Get info
-            </n-link>
           </div>
         </div>
       </div>

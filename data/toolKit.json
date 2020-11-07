@@ -20,6 +20,7 @@
         },
         {
             "id": 3,
+            "image": "/ExposureNotification.docx",
             "heading": "Exposure Notification Template ",
             "category": "Web Development",
             "desc": "Guidance for what your workplace could use if there was an exposure incident",
@@ -27,6 +28,7 @@
         },
         {
             "id": 4,
+            "image": "/ResponsePlanTemplate.docx",
             "heading": "Response Plan Template",
             "category": "Cyber Security",
             "desc": "It is highly recommended to review this guide and customize as needed for your workplace prior to opening",

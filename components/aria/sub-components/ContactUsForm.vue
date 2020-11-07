@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-expressions */
 <template>
   <div>
     <div class="contact-us-section-wrappaer section-space--pt_100 section-space--pb_70">
@@ -16,35 +17,42 @@
 
           <div class="col-lg-6 col-lg-6">
             <div class="contact-form-wrap">
-              <form id="contact-form">
-                <div class="contact-form">
-                  <div class="contact-input">
-                    <div class="contact-inner">
-                      <input v-model="formdata.name" name="con_name" type="text" placeholder="Name *">
-                    </div>
-                    <div class="contact-inner">
-                      <input v-model="formdata.email" name="con_email" type="email" placeholder="Email *">
-                    </div>
+              <div class="contact-form">
+                <div class="contact-input">
+                  <div class="contact-inner">
+                    <input v-model="formdata.name" name="con_name" type="text" placeholder="Name *">
                   </div>
                   <div class="contact-inner">
-                    <input v-model="formdata.catagory" name="con_subject" type="text" placeholder="Subject *">
-                  </div>
-                  <div class="contact-inner contact-message">
-                    <textarea v-model="formdata.comments" name="con_message" placeholder="Please describe what you need." />
-                  </div>
-                  <div class="submit-btn mt-20">
-                    <button class="ht-btn ht-btn-md" @click="writeToFirestore">
-                      Send message
-                    </button>
-                    <p class="form-messege" />
+                    <input v-model="formdata.email" name="con_email" type="email" placeholder="Email *">
                   </div>
                 </div>
-              </form>
+                <div class="contact-inner">
+                  <input v-model="formdata.catagory" name="con_subject" type="text" placeholder="Subject *">
+                </div>
+                <div class="contact-inner contact-message">
+                  <textarea v-model="formdata.comments" name="con_message" placeholder="Please describe what you need." />
+                </div>
+                <div class="submit-btn mt-20">
+                  <button class="ht-btn ht-btn-md" @click="writeToFirestore">
+                    Send message
+                  </button>
+                  <p class="form-messege" />
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
+    <b-alert
+      v-model="showBottom"
+      class="position-fixed fixed-bottom m-0 rounded-0"
+      style="z-index: 2000;"
+      variant="danger"
+      dismissible
+    >
+      We will contact you shortly. Thank You
+    </b-alert>
   </div>
 </template>
 <script>
@@ -57,10 +65,17 @@ export default {
         catagory: '',
         email: '',
         comments: ''
-      }
+      },
+      showBottom: false
     }
   },
   methods: {
+    reset () {
+      this.name = '',
+      this.catagory = '',
+      this.email = '',
+      this.comments = ''
+    },
     async writeToFirestore () {
       console.log('started submit')
       const fName = this.formdata.name
@@ -97,6 +112,7 @@ export default {
       }
       this.writeSuccessful = true
       // this.reset()
+      this.showBottom = true
     }
   }
 }

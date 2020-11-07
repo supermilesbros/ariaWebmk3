@@ -19,7 +19,7 @@
           </div>
           <div class="section-under-heading text-center section-space--mt_40">
             {{ data.underHeading }}
-            <n-link to="/">
+            <n-link to="/CovidTesting">
               GET TESTED TODAY!
             </n-link>
           </div>

@@ -2,28 +2,17 @@
   <div class="main-container">
     <HeaderAria />
 
-    <div class="about-banner-wrap service-banner-space bg-cover" :style="{ backgroundImage: `url('images/hero/advantage-hero.jpg')` }">
+    <div class="about-banner-wrap banner-space about-us-bg bg-cover" :style="{ backgroundImage: `url('images/aria/advantage-hero.jpg')` }">
       <div class="container">
         <div class="row">
-          <div class="col-lg-12 col-md-12 ml-auto mr-auto">
-            <div class="service-hero-wrap wow move-up">
-              <div class="service-hero-text text-center">
-                <h3 class="text-white mb-1">
-                  Fast and Accurate
-                </h3>
-                <h2 class="font-weight--bold text-color-primary">
-                  ARIA ADVANTAGE
-                </h2>
-
-                <!-- <div class="hero-button-group section-space--mt_50">
-                  <button class="ht-btn ht-btn-md">
-                    <a href="https://sdx.stratusdx.net/testing/covid19.aspx?loc=self_pay" target="_blank">Schedule A Test</a>
-                  </button>
-                  <button class="ht-btn ht-btn-md btn--white">
-                    <a href="/doctorOrder.pdf">Physician Order Form</a>
-                  </button>
-                </div> -->
-              </div>
+          <div class="col-lg-8 ml-auto mr-auto">
+            <div class="about-banner-content text-center">
+              <h1 class="mb-15 text-white">
+                ARIA ADVANTAGE
+              </h1>
+              <h5 class="font-weight--normal text-white">
+                Our greatest asset is our staff. Providing fast, accurate, and secure results requires highly qualified, professional lab personnel.
+              </h5>
             </div>
           </div>
         </div>
@@ -44,7 +33,7 @@
             <div class="col-lg-7 offset-lg-1">
               <div class="conact-us-wrap-one managed-it">
                 <h5 class="heading ">
-                  Our greatest asset is our staff. Providing fast, accurate, and secure results requires highly qualified, professional lab personnel. Our team combines over 70 years of diagnostic laboratory and clinical toxicology experience with the highest quality equipment and a world-class Laboratory Information System (LIS).
+                  Our team combines over 70 years of diagnostic laboratory and clinical toxicology experience with the highest quality equipment and a world-class Laboratory Information System (LIS).
                 </h5>
 
                 <div class="sub-heading">

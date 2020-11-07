@@ -27,7 +27,7 @@
           </div>
         </b-modal> -->
         <div class="row">
-          <a href="https://goo.gl/maps/TaRKdBpaRyvqYMhy8" class="col-lg-6 col-md-6 ">
+          <a href="https://goo.gl/maps/TaRKdBpaRyvqYMhy8" target="_blank" class="col-lg-6 col-md-6 ">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
@@ -37,7 +37,7 @@
                     </h6>
                   </div>
                   <h4 class="heading">
-                    Carmel United Methodist Church
+                    Carmel United Methodist
                   </h4>
                   <div class="text-left">
                     <h6 class="text-lg">
@@ -59,7 +59,7 @@
               </div>
             </div>
           </a>
-          <a href="https://checkout.square.site/buy/NHNYMYSGN2L2WHHRJYBFREPM" class="col-lg-6 col-md-6">
+          <a href="https://goo.gl/maps/a15kXkxUB1avdCwWA" target="_blank" class="col-lg-6 col-md-6">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">

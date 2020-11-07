@@ -8,8 +8,6 @@
 
     <AboutAriaFeatures />
 
-    <AriaStatsBar />
-
     <AriaTestimonials class="pb-0 bg-white" />
 
     <AriaFooter />
@@ -23,7 +21,6 @@ import HeaderAria from '@/components/aria/HeaderAria'
 import AboutPageHeader from '@/components/aria/AboutPageHeader'
 import AboutAria from '@/components/aria/AboutAria'
 import AboutAriaFeatures from '@/components/aria/AboutAriaFeatures'
-import AriaStatsBar from '@/components/aria/AriaStatsBar'
 import AriaTestimonials from '@/components/aria/AriaTestimonials'
 import AriaFooter from '@/components/aria/AriaFooter'
 import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu'
@@ -35,7 +32,6 @@ export default {
     AboutPageHeader,
     AboutAria,
     AboutAriaFeatures,
-    AriaStatsBar,
     AriaTestimonials,
     AriaFooter,
     OffCanvasMobileMenu

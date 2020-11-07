@@ -2,31 +2,17 @@
   <div class="main-container">
     <HeaderAria />
 
-    <div class="about-banner-wrap service-banner-space bg-cover" :style="{ backgroundImage: `url('images/hero/pcr-hero.jpg')` }">
+    <div class="about-banner-wrap banner-space about-us-bg bg-cover" :style="{ backgroundImage: `url('images/aria/process-hero.jpg')` }">
       <div class="container">
         <div class="row">
-          <div class="col-lg-12 col-md-12 ml-auto mr-auto">
-            <div class="service-hero-wrap wow move-up">
-              <div class="service-hero-text text-center">
-                <h3 class="text-white mb-1">
-                  Fast and Accurate
-                </h3>
-                <h2 class="font-weight--bold text-color-primary">
-                  TESTING PROCESS
-                </h2>
-                <h5 class="text-white">
-                  MEETING YOUR DEMANDS
-                </h5>
-
-                <div class="hero-button-group section-space--mt_50">
-                  <button class="ht-btn ht-btn-md">
-                    <a href="https://sdx.stratusdx.net/testing/covid19.aspx?loc=self_pay" target="_blank">Schedule A Test</a>
-                  </button>
-                  <button class="ht-btn ht-btn-md btn--white">
-                    <a href="/doctorOrder.pdf">Physician Order Form</a>
-                  </button>
-                </div>
-              </div>
+          <div class="col-lg-8 ml-auto mr-auto">
+            <div class="about-banner-content text-center">
+              <h1 class="mb-15 text-white">
+                TESTING PROCESS
+              </h1>
+              <h5 class="font-weight--normal text-white">
+                Our process is designed to produce fast, reliable testing services while maintaining the highest level of accuracy.
+              </h5>
             </div>
           </div>
         </div>

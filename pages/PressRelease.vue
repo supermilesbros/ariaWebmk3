@@ -29,13 +29,13 @@
         <b-collapse id="accordion-two" accordion="my-accordion">
           <b-card-body class="row">
             <div v-for="press in data.pastPress" :key="press.name" class="col-12 py-1">
-              <a :href="press.link"> {{ press.name }} - {{ press.desc }}</a>
+              <a :href="press.link" target="_blank"> {{ press.name }} - {{ press.desc }}</a>
             </div>
           </b-card-body>
         </b-collapse>
       </b-card>
     </div>
-    <AriaFooter />
+  <AriaFooter />
 
     <OffCanvasMobileMenu />
   </div>

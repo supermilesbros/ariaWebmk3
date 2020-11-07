@@ -1,5 +1,5 @@
 <template>
-  <div class="service-hero-wrapper service-hero-space service-hero-bg" style=" backgroundImage: url('images/hero/igg-hero.jpg') ">
+  <div class="service-hero-wrapper service-hero-space service-hero-bg" style=" backgroundImage: url('images/aria/home-hero.jpg') ">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 col-md-12 ml-auto mr-auto">

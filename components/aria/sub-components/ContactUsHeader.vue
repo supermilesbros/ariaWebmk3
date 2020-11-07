@@ -1,15 +1,12 @@
 <template>
-  <div class="breadcrumb-area bg-cover" :style="{ backgroundImage: `url('images/bg/title-bar-01-bg.jpg')` }">
+  <div class="about-banner-wrap banner-space about-us-bg bg-cover" :style="{ backgroundImage: `url('images/aria/contact-hero.jpg')` }">
     <div class="container">
       <div class="row">
-        <div class="col-12">
-          <div class="breadcrumb_box text-center">
-            <h2 class="breadcrumb-title">
-              {{ breadcrumbTitle }}
-            </h2>
-            <ul class="breadcrumb-list">
-              <b-breadcrumb class="breadcrumb-item" :items="items" />
-            </ul>
+        <div class="col-lg-8 ml-auto mr-auto">
+          <div class="about-banner-content text-center">
+            <h1 class="mb-15 text-white">
+              CONTACT US
+            </h1>
           </div>
         </div>
       </div>

@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-expressions */
 <template>
   <div class="contact-us-area appointment-contact-bg section-space--ptb_100" :style="{ backgroundImage: `url('images/bg/home-appointment-contact-bg-image.png')` }">
     <div class="container">
@@ -64,13 +65,22 @@
             <div class="location-button mt-20">
               <button class="location-text-button">
                 <span class="button-icon" />
-                <a href="https://goo.gl/maps/2Wz7rLhigtNuUe4KA" class="button-text">View on Google map</a>
+                <a href="https://goo.gl/maps/2Wz7rLhigtNuUe4KA" target="_blank" class="button-text">View on Google map</a>
               </button>
             </div>
           </div>
         </div>
       </div>
     </div>
+    <b-alert
+      v-model="showBottom"
+      class="position-fixed fixed-bottom m-0 rounded-0"
+      style="z-index: 2000;"
+      variant="danger"
+      dismissible
+    >
+      We will contact you shortly. Thank You
+    </b-alert>
   </div>
 </template>
 <script>
@@ -80,13 +90,20 @@ export default {
     return {
       formdata: {
         name: '',
-        catagory: '',
+        catagory: 'Your inquiry about',
         email: '',
         comments: ''
-      }
+      },
+      showBottom: false
     }
   },
   methods: {
+    reset () {
+      this.name = '',
+      this.catagory = '',
+      this.email = '',
+      this.comments = ''
+    },
     async writeToFirestore () {
       console.log('started submit')
       const fName = this.formdata.name
@@ -122,7 +139,8 @@ export default {
         // TODO: error handling
       }
       this.writeSuccessful = true
-      // this.reset()
+      this.showBottom = true
+      this.reset()
     }
   }
 }

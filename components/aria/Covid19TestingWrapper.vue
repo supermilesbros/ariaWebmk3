@@ -36,10 +36,10 @@
         </div>
         <div class="pb-5 col-lg-12">
           <div class="feature-list-button-box mt-30 text-center">
-            <a href="https://b2092daf-f52f-4aaf-b359-f8e1a2285be4.filesusr.com/ugd/9041d5_3072334b9f144d5592741763738f98cf.pdf" class="ht-btn ht-btn-md">
+            <a href="https://b2092daf-f52f-4aaf-b359-f8e1a2285be4.filesusr.com/ugd/9041d5_3072334b9f144d5592741763738f98cf.pdf" target="_blank" class="ht-btn ht-btn-md">
               Should I Get An Antibody Test?
             </a>
-            <a href="https://b2092daf-f52f-4aaf-b359-f8e1a2285be4.filesusr.com/ugd/9041d5_aceeaddbdade4affa2a5f4596b066a96.pdf" class="ht-btn ht-btn-md ht-btn--outline">
+            <a href="https://b2092daf-f52f-4aaf-b359-f8e1a2285be4.filesusr.com/ugd/9041d5_aceeaddbdade4affa2a5f4596b066a96.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn--outline">
               Physician Order Form
             </a>
           </div>

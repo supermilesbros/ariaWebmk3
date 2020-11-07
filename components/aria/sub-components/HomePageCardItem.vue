@@ -17,7 +17,7 @@
           {{ service.desc }}
         </div>
         <div class="box-images-arrow">
-          <span class="button-text">Discover now</span>
+          <span>Discover now</span>
           <i class="far fa-long-arrow-right" />
         </div>
       </div>
