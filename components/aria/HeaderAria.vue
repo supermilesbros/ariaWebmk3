@@ -51,14 +51,6 @@
                     </nav>
                   </div>
 
-                  <div class="header-search-form-two">
-                    <div id="search-overlay-trigger" class="search-icon" @click="toggleClass('addClass', 'active')">
-                      <a href="javascript:void(0)">
-                        <i class="fa fa-search" />
-                      </a>
-                    </div>
-                  </div>
-
                   <!-- mobile menu -->
                   <div id="mobile-menu-trigger" class="mobile-navigation-icon d-block d-xl-none" @click="mobiletoggleClass('addClass', 'active')">
                     <i />
