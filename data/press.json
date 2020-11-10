@@ -1,14 +1,6 @@
 {
     "press": [
         {
-            "id": 1,
-            "image": "/btwBest.pdf",
-            "heading": "Learn More",
-            "category": "Information Technology",
-            "desc": "How private labs like Aria can develop and provide COVID-19 testing.",
-            "link" : "https://www.aacc.org/publications/cln/articles/2020/march/how-laboratories-in-the-us-are-responding-to-covid19"
-        },
-        {
             "id": 2,
             "image": "/workQF.pdf",
             "heading": "Press Release",
