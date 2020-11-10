@@ -157,19 +157,19 @@
         {
             "id": 18,
             "heading": "Testing Process",
-            "icon": "images/icons/mitech-processing-service-image-01-80x83.png",
+            "icon": "images/aria/aria-clipboard.png",
             "link": "scope-service"
         },
         {
             "id": 19,
             "heading": "Specialities",
-            "icon": "images/icons/mitech-processing-service-image-02-80x83.png",
+            "icon": "images/aria/aria-folder.png",
             "link": "markets-service"
         },
         {
             "id": 20,
             "heading": "Aria Advantage",
-            "icon": "images/icons/mitech-processing-service-image-03-80x83.png",
+            "icon": "images/aria/aria-expenses.png",
             "link": "advantage-service"
         },
         {

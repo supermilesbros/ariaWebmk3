@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div v-for="project in data.press" :key="project.id" class="col-lg-4 col-md-6">
-          <a :href="project.link" target="_blank" class="projects-wrap style-01 wow move-up">
+          <nuxt-link :to="project.link" target="_blank" class="projects-wrap style-01 wow move-up">
             <div class="projects-image-box">
               <div class="content text-color-primary">
                 <h6 class="heading">
@@ -18,7 +18,7 @@
                 </div>
               </div>
             </div>
-          </a>
+          </nuxt-link>
         </div>
       </div>
     </div>

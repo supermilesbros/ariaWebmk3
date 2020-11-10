@@ -35,7 +35,7 @@
         </b-collapse>
       </b-card>
     </div>
-  <AriaFooter />
+    <AriaFooter />
 
     <OffCanvasMobileMenu />
   </div>
