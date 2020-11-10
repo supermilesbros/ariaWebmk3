@@ -9,7 +9,7 @@
 
       <div class="row">
         <div v-for="links in data.links" :key="links.id" class="col-lg-4 col-md-4">
-          <a :href="links.url" class="projects-wrap style-01 wow move-up">
+          <a :href="links.url" target="_blank" class="projects-wrap style-01 wow move-up">
             <div class="projects-image-box">
               <div class="content text-color-primary">
                 <h6 class="heading">
