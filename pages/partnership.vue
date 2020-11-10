@@ -128,7 +128,7 @@ export default {
   },
   head () {
     return {
-      title: 'Blog Details'
+      title: 'Press Release'
     }
   }
 }
