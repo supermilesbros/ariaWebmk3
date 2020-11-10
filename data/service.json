@@ -9,8 +9,8 @@
         "sectionSubTitle": "ARIA ADVANTAGE SERVICES"
     },
     "serviceFour": {
-        "sectionTitle": "For your very specific industry, <br> we have <span> highly-tailored IT solutions.</span>",
-        "sectionSubTitle": "our services",
+        "sectionTitle": "MAXIMIZING COMPLIANCE <br><span> MINIMIZING RISK</span>",
+        "sectionSubTitle": "our laboratory",
         "underHeading": "Challenges are just opportunities in disguise. "
     },
     "fourSteps": {
@@ -156,18 +156,21 @@
 
         {
             "id": 18,
-            "heading": "Backup and recovery",
-            "icon": "images/icons/mitech-processing-service-image-01-80x83.png"
+            "heading": "Testing Process",
+            "icon": "images/icons/mitech-processing-service-image-01-80x83.png",
+            "link": "scope-service"
         },
         {
             "id": 19,
-            "heading": "Cloud Managed Services",
-            "icon": "images/icons/mitech-processing-service-image-02-80x83.png"
+            "heading": "Specialities",
+            "icon": "images/icons/mitech-processing-service-image-02-80x83.png",
+            "link": "markets-service"
         },
         {
             "id": 20,
-            "heading": "IT Security & Compliance",
-            "icon": "images/icons/mitech-processing-service-image-03-80x83.png"
+            "heading": "Aria Advantage",
+            "icon": "images/icons/mitech-processing-service-image-03-80x83.png",
+            "link": "advantage-service"
         },
         {
             "id": 21,

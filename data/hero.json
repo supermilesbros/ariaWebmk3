@@ -14,13 +14,13 @@
         "bgImg": "images/hero/appointment-hero-bg.jpg"
     },
     "heroProcessing": {
-        "subTitle": "IT Software and design",
-        "title": "Virtual technology in a <span>Refined IT System</span>",
-        "desc": "Set the trends for desktop & server virtualization technology",
+        "subTitle": "Accurate | Accessible | Affordable",
+        "title": "Lab Testing<span> Services</span>",
+        "desc": "Now offering a PCR test for the novel corona virus",
         "videoText": "How we work",
         "videoLink": "https://www.youtube.com/watch?v=vqZuSUtczbU",
         "bgImg": "images/hero/processing-hero-bg.jpg",
-        "image": "images/hero/slider-processing-slide-01-image-01.png"
+        "image": "images/aria/hero-image.jpg"
     },
     "heroService": {
         "subTitle": "Responsive Design",
