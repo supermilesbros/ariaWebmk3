@@ -54,49 +54,10 @@
             <span>Results Portal</span>
           </n-link>
         </li>
-        <li class="has-children has-children--multilevel-submenu">
+        <li>
           <n-link to="/contact">
             <span>Contact Us</span>
           </n-link>
-          <ul class="submenu">
-            <li>
-              <n-link to="/contact">
-                <span>Contact Us</span>
-              </n-link>
-            </li>
-            <li>
-              <n-link to="/portal">
-                <span>Portal</span>
-              </n-link>
-            </li>
-            <li>
-              <a href="https://ariadxs.bamboohr.com/jobs/?source=filesusr">
-                <span>Careers</span>
-              </a>
-            </li>
-          </ul>
-        </li>
-        <li class="menu-item-has-children">
-          <n-link to="/contact-us">
-            <span>Contact</span>
-          </n-link>
-          <ul class="sub-menu">
-            <li>
-              <n-link to="/contact-us">
-                <span>Contact Us</span>
-              </n-link>
-            </li>
-            <li>
-              <n-link to="/portal">
-                <span>Portal</span>
-              </n-link>
-            </li>
-            <li>
-              <n-link to="/market-service">
-                <span>Carrers</span>
-              </n-link>
-            </li>
-          </ul>
         </li>
         <li class="menu-item">
           <n-link to="/billing">

@@ -38,6 +38,8 @@
                 </swiper>
               </div>
             </div>
+            <div slot="button-prev" class="swiper-button-prev pr-5" style="color: #c12443" />
+            <div slot="button-next" class="swiper-button-next pl-5" style="color: #c12443" />
             <div class="swiper-pagination swiper-pagination-t01 section-space--mt_30" />
           </div>
         </div>

@@ -17,7 +17,7 @@
         },
         {
             "navTitle": "ARIA Advantage",
-            "navUrl": "/advantage-serviec" 
+            "navUrl": "/advantage-service" 
         }
     ],
     "footerWidgetTitleTwo": "Quick Links",
@@ -32,22 +32,22 @@
         },
         {
             "navTitle": "Resouces",
-            "navUrl": "/resouces" 
+            "navUrl": "/resources" 
         }
     ],
     "footerWidgetTitleThree": "Support",
     "navListThree": [
         {
             "navTitle": "FAQ",
-            "navUrl": "/" 
+            "navUrl": "/FAQ" 
         },
         {
             "navTitle": "Contact Us",
-            "navUrl": "/" 
+            "navUrl": "/contact" 
         },
         {
             "navTitle": "Privacy Policy",
-            "navUrl": "/" 
+            "navUrl": "/ariaprivacypolicy.pdf" 
         }
     ],
     "footerAppData": {
