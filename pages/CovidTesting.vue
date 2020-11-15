@@ -59,7 +59,7 @@
               </div>
             </div>
           </a>
-          <a href="https://goo.gl/maps/a15kXkxUB1avdCwWA" target="_blank" class="col-lg-6 col-md-6">
+          <a href="https://goo.gl/maps/D1EoLf7SyKQoWXvL8" target="_blank" class="col-lg-6 col-md-6">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
@@ -69,13 +69,13 @@
                     </h6>
                   </div>
                   <h4 class="heading">
-                    St Luke's United Methodist
+                    Traders Point Christian Church
                   </h4>
                   <div class="text-left">
                     <h6 class="text-lg">
                       Address
                     </h6>
-                    <p>100 W 86th Street Indianapolis,IN 46260 </p>
+                    <p>6590 S Indianapolis Rd Whitestown, IN 46075 </p>
                   </div>
                   <div class="text-left">
                     <h6 class="text-lg">
