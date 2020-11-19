@@ -1,19 +1,19 @@
 {
     "press": [
         {
+            "id": 3,
+            "heading": "Press Release ",
+            "category": "Web Development",
+            "desc": "Mouthwash Kit and Telehealth Line",
+            "link": "/announcement"
+        },
+        {
             "id": 2,
             "image": "/workQF.pdf",
             "heading": "Press Release",
             "category": "Cyber Security",
             "desc": "Aria Diagnostics Partners with Northview Church ",
             "link": "/partnership"
-        },
-        {
-            "id": 3,
-            "heading": "Press Release ",
-            "category": "Web Development",
-            "desc": "Aria Diagnostics Announces COVID-19 Antibody Testing ",
-            "link": "/announcement"
         }
     ],
     "projectsTwo": [

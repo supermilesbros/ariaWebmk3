@@ -10,8 +10,12 @@
                 To make requests for <br>further information, <br><span class="text-color-primary">contact us.</span>
               </h3>
               <div class="sub-heading">
-                We just need a couple of hours! <br> No more than 2 working days since receiving your issue ticket.
+                No more than a business day to return your call and less to return your email.
               </div>
+              <div class="sub-heading">
+                Don't have a doctor's order? For insurance covered Telehealth visit and COVID 19 testing Call <a style="color: #c12443;" href="tel:3176234003">3176234003</a>
+              </div>
+              <div class="sub-heading" />
             </div>
           </div>
 

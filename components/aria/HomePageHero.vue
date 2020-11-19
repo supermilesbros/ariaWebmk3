@@ -19,7 +19,7 @@
                         <span class="inquiry">
                           <select v-model="newRoute" class="select-item" :style="{ backgroundImage: `url('images/icons/hero-selector-icon.png')` }" @change="changeRoute()">
                             <option value="HowCanWeHelpYou">How Can We Help You?</option>
-                            <option value="CovidTesting">Covid 19 Testing</option>
+                            <option value="CovidTesting">COVID 19 Testing</option>
                             <option value="resources">Covid-19 Information</option>
                             <option value="markets-service">Other Drug Testing</option>
                           </select>

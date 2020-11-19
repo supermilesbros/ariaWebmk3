@@ -10,6 +10,9 @@
       <div class="row">
         <div class="pb-5 col-lg-12">
           <div class="feature-list-button-box mt-30 text-center">
+            <a href="https://b2092daf-f52f-4aaf-b359-f8e1a2285be4.filesusr.com/ugd/9041d5_28f0f43abbc1449faf9066088165bcde.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn--outline">
+              Physician Order Form
+            </a>
             <a href="/COVID-19FAQs.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn">
               PCR Test FAQ
             </a>

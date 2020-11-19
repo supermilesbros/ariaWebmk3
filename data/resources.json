@@ -7,13 +7,13 @@
             "image": "images/projects/case-study-01-480x298.jpg",
             "heading": "Covid-19 Testing",
             "category": "Information Technology",
-            "desc": "Offering a PCR and IgG antibody test for the novel corona virus associated with COVID-19.",
+            "desc": "Offering a PCR test for the novel corona virus associated with COVID-19.",
             "link": "CovidTesting"
         },
         {
             "id": "BTWtoolkit",
             "image": "images/projects/case-study-01-480x298.jpg",
-            "heading": "BACK TO WORK TOOLKIT",
+            "heading": "Back to Work Toolkit",
             "category": "Information Technology",
             "desc": "Outline the steps that every employer and employee can take to reduce the risk of exposure to Covid-19.",
             "link": "BTWtoolkit"
@@ -33,14 +33,6 @@
             "category": "Cyber Security",
             "desc": "Links to many of the same resources we utilize everyday to stay informed.",
             "link": "HelpfulLinks"
-        },
-        {
-            "id": 6,
-            "image": "images/projects/case-study-06-480x298.jpg",
-            "heading": "FAQ",
-            "category": "Cyber Security",
-            "desc": "Frequently asked questions and answers on everything from Covid-19 to our other lab testing",
-            "link": "FAQ"
         }
     ],
     "projectsTwo": [

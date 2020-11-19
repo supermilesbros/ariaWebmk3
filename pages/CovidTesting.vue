@@ -26,7 +26,7 @@
             />
           </div>
         </b-modal> -->
-        <div class="row">
+        <div class="row px-5">
           <a href="https://goo.gl/maps/TaRKdBpaRyvqYMhy8" target="_blank" class="col-lg-6 col-md-6 ">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
