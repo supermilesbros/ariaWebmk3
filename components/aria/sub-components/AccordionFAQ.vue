@@ -145,7 +145,7 @@
       <b-collapse id="accordion-seven" accordion="my-accordion">
         <b-card-body>
           <b-card-text>
-            Testing is performed at our headquarters located at: 5635 W. 96th Street, Suite 300, Indianapolis, IN 46278.
+            Specimen analysis is performed at our headquarters located at: <span style="color: #c12443;"><a href="https://goo.gl/maps/R1NQ4muHRHtWbYBF7" target="_blank"> 5635 W. 96th Street, Suite 300, Indianapolis, IN 46278</a></span>.
           </b-card-text>
         </b-card-body>
       </b-collapse>
