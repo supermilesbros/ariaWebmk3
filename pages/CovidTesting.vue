@@ -37,7 +37,7 @@
                     </h6>
                   </div>
                   <h4 class="heading">
-                    Faith Aposolic <br> Church
+                    Faith Aposolic Church
                   </h4>
                   <div class="text-left">
                     <h6 class="text-lg">
