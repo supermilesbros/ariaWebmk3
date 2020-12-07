@@ -1,20 +1,26 @@
 {
     "press": [
         {
+            "id": 2,
+            "heading": "Press Release ",
+            "category": "Web Development",
+            "desc": "Indiana expands lab partnership to decrease testing delays",
+            "link": "https://fox59.com/news/coronavirus/indiana-expands-lab-partnership-to-decrease-testing-delays/?anvplayer-autoplay=0"
+        },
+        {
+            "id": 2,
+            "heading": "Press Release ",
+            "category": "Web Development",
+            "desc": "Indiana hospitals, test sites prep for post-Thanksgiving COVID-19 surge",
+            "link": "https://fox59.com/news/indiana-hospitals-test-sites-prep-for-post-thanksgiving-covid-19-surge/?anvplayer-autoplay=0"
+        },
+        {
             "id": 3,
             "heading": "Press Release ",
             "category": "Web Development",
             "desc": "Mouthwash Kit and Telehealth Line",
             "link": "/announcement"
-        },
-        {
-            "id": 2,
-            "image": "/workQF.pdf",
-            "heading": "Press Release",
-            "category": "Cyber Security",
-            "desc": "Aria Diagnostics Partners with Northview Church ",
-            "link": "/partnership"
-        }
+        }        
     ],
     "projectsTwo": [
         {
