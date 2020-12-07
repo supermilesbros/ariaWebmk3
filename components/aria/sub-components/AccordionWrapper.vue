@@ -46,7 +46,7 @@
                 <b-collapse id="accordion-2" visible accordion="my-accordion">
                   <b-card-body>
                     <b-card-text>
-                      You need a simple solution to manage your re-employment drug testing, random testing program, reasonable suspicion, post-incident and back-to-work drug and Covid-19 testing
+                      You need a simple solution to manage your pre-employment drug testing, random testing program, reasonable suspicion, post-incident and back-to-work drug and Covid-19 testing
                     </b-card-text>
                   </b-card-body>
                 </b-collapse>
@@ -55,7 +55,7 @@
               <b-card no-body>
                 <b-card-header header-tag="header">
                   <b-button v-b-toggle.accordion-3 block class="faq-title">
-                    We can create custom operations.
+                    We create custom operations.
                     <span>
                       <i class="fas fa-chevron-down" />
                       <i class="fas fa-chevron-up" />

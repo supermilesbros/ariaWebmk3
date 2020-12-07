@@ -27,7 +27,7 @@
           </div>
         </b-modal> -->
         <div class="row px-5">
-          <a href="https://goo.gl/maps/TaRKdBpaRyvqYMhy8" target="_blank" class="col-lg-6 col-md-6 ">
+          <a href="https://goo.gl/maps/aeyT9MpNzyaHND4HA" target="_blank" class="col-lg-6 col-md-6 ">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
@@ -37,19 +37,19 @@
                     </h6>
                   </div>
                   <h4 class="heading">
-                    Carmel United Methodist
+                    Faith Aposolic <br> Church
                   </h4>
                   <div class="text-left">
                     <h6 class="text-lg">
                       Address
                     </h6>
-                    <p>621 S Rangeline Rd Carmel, IN 46032  </p>
+                    <p>212 E 116th St, Carmel, IN 46032</p>
                   </div>
                   <div class="text-left">
                     <h6 class="text-lg">
                       Hours
                     </h6>
-                    <p>M-Thurs 10am- 3:30 F- Sat 10am-3pm</p>
+                    <p>M-Thurs 10am- 3:30pm F-Sat 10am-3pm</p>
                   </div>
                   <div class="box-images-arrow">
                     <p class="button-text">Open Maps</p>

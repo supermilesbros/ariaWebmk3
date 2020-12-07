@@ -57,7 +57,7 @@
       <b-collapse id="accordion-three" accordion="my-accordion">
         <b-card-body>
           <b-card-text>
-            ARIA can provide specimen collectors for observed and unobserved collection and courier services to help you accommodate the needs of our clients. Combined with Specimen Adulteration Testing, these added services help ensure your specimens are viable, preventing rejection.
+            ARIA has trained specimen collectors upon request for observed and unobserved collection and courier services to help you accommodate the needs of our clients. Combined with Specimen Adulteration Testing, these added services help ensure your specimens are viable, preventing rejection.
           </b-card-text>
         </b-card-body>
       </b-collapse>

@@ -19,8 +19,10 @@
                     </a>
                   </li>
                   <li class="info-item">
-                    <i class="info-icon fa fa-map-marker-alt" />
-                    <span class="info-text">5635 W. 96th St, Suite 300, Indianapolis, IN 46278</span>
+                    <a href="https://goo.gl/maps/R1NQ4muHRHtWbYBF7" target="_blank">
+                      <i class="info-icon fa fa-map-marker-alt" />
+                      <span class="info-text">5635 W. 96th St, Suite 300, Indianapolis, IN 46278</span>
+                    </a>
                   </li>
                 </ul>
               </div>

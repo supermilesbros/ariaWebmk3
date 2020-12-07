@@ -11,7 +11,7 @@
                 ARIA ADVANTAGE
               </h1>
               <h5 class="font-weight--normal text-white">
-                Our greatest asset is our staff. Providing fast, accurate, and secure results requires highly qualified, professional lab personnel.
+                Our greatest asset is our staff. Providin g fast, accurate, and secure results requires highly qualified, professional lab personnel.
               </h5>
             </div>
           </div>
