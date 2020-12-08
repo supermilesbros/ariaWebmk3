@@ -49,7 +49,7 @@
                     <h6 class="text-lg">
                       Hours
                     </h6>
-                    <p>M-Thurs 10am- 3:30pm F-Sat 10am-3pm</p>
+                    <p>Mon, Tues, Thurs 9am- 7pm <br> Wed 9am - 5pm <br> F-Sat 9am-3pm</p>
                   </div>
                   <div class="box-images-arrow">
                     <p class="button-text">Open Maps</p>
@@ -75,13 +75,13 @@
                     <h6 class="text-lg">
                       Address
                     </h6>
-                    <p>6590 S Indianapolis Rd Whitestown, IN 46075 </p>
+                    <p>6590 S Indianapolis Rd <br> Whitestown, IN 46075 </p>
                   </div>
                   <div class="text-left">
                     <h6 class="text-lg">
                       Hours
                     </h6>
-                    <p>M-Thurs 9am-7pm  F- Sat 9am-3pm</p>
+                    <p>M-Thurs 9am-7pm <br> F- Sat 9am-3pm</p>
                   </div>
                   <div class="box-images-arrow">
                     <p class="button-text">Open Maps</p>
