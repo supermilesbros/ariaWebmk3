@@ -43,13 +43,13 @@
                     <h6 class="text-lg">
                       Address
                     </h6>
-                    <p>212 E 116th St, Carmel, IN 46032</p>
+                    <p>212 E 116th St Carmel, IN 46032</p>
                   </div>
                   <div class="text-left">
                     <h6 class="text-lg">
-                      Hours
+                      Holiday Hours
                     </h6>
-                    <p>Mon, Tues, Thurs 9am- 7pm <br> Wed 9am - 5pm <br> F-Sat 9am-3pm</p>
+                    <p>12/22 &nbsp; 9am - 7pm<br> 12/23 &nbsp;  9am - 5pm <br> 12/24 &nbsp;  9am - 7pm <br> 12/25 &nbsp; Closed <br> 12/26 &nbsp; 9am - 3pm</p>
                   </div>
                   <div class="box-images-arrow">
                     <p class="button-text">Open Maps</p>
@@ -75,13 +75,13 @@
                     <h6 class="text-lg">
                       Address
                     </h6>
-                    <p>6590 S Indianapolis Rd <br> Whitestown, IN 46075 </p>
+                    <p>6590 S Indianapolis Rd Whitestown, IN 46075 </p>
                   </div>
                   <div class="text-left">
                     <h6 class="text-lg">
-                      Hours
+                      Holiday Hours
                     </h6>
-                    <p>M-Thurs 9am-7pm <br> F- Sat 9am-3pm</p>
+                    <p>12/22 &nbsp; 9am - 5:30pm<br> 12/23 &nbsp;  9am-3:30pm <br> 12/24 &nbsp;  9am - 11:30pm <br> 12/25 &nbsp; Closed <br> 12/26 &nbsp; 9am - 3pm</p>
                   </div>
                   <div class="box-images-arrow">
                     <p class="button-text">Open Maps</p>
