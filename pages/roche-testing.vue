@@ -15,7 +15,7 @@ import ContactUsForm from '@/components/aria/sub-components/TestingContactForm'
 import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu'
 
 export default {
-  name: 'Contact',
+  name: 'RocheTesting',
   components: {
     HeaderAria,
     ContactUsForm,
