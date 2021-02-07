@@ -47,9 +47,9 @@
                   </div>
                   <div class="text-left">
                     <h6 class="text-lg">
-                      Holiday Hours
+                      Hours
                     </h6>
-                    <p>12/22 &nbsp; 9am - 7pm<br> 12/23 &nbsp;  9am - 5pm <br> 12/24 &nbsp;  9am - 7pm <br> 12/25 &nbsp; Closed <br> 12/26 &nbsp; 9am - 3pm</p>
+                    <p>Mon &nbsp; 9am - 7pm<br> Tues &nbsp;  9am - 7pm <br> Wed &nbsp;  9am - 5pm <br> Thurs &nbsp; 9am - 7pm <br> Fri &nbsp; 9am - 3pm <br> Sat &nbsp; 9am - 3pm</p>
                   </div>
                   <div class="box-images-arrow">
                     <p class="button-text">Open Maps</p>
@@ -79,9 +79,9 @@
                   </div>
                   <div class="text-left">
                     <h6 class="text-lg">
-                      Holiday Hours
+                      Hours
                     </h6>
-                    <p>12/22 &nbsp; 9am - 5:30pm<br> 12/23 &nbsp;  9am-3:30pm <br> 12/24 &nbsp;  9am - 11:30pm <br> 12/25 &nbsp; Closed <br> 12/26 &nbsp; 9am - 3pm</p>
+                    <p>Mon &nbsp; 9am - 7pm<br> Tues &nbsp;  9am - 7pm <br> Wed &nbsp;  9am - 7pm <br> Thurs &nbsp; 9am - 7pm <br> Fri &nbsp; 9am - 3pm <br> Sat &nbsp; 9am - 3pm</p>
                   </div>
                   <div class="box-images-arrow">
                     <p class="button-text">Open Maps</p>
