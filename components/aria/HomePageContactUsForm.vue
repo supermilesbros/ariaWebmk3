@@ -34,7 +34,7 @@
                       <option value="General Information Request">General Information Request</option>
                       <option value="Partner Relations">Remote Testing</option>
                       <option value="Careers">Testing Municipalities</option>
-                      <option value="Software Licencing">Covid-19</option>
+                      <option value="Software Licencing">COVID-19</option>
                     </select>
                   </span>
                 </div>

@@ -72,7 +72,7 @@
                       After successfully providing thousands of COVID-19 test kits to area municipalities and New York City, as well as
                       numerous companies and first responders, Aria Diagnostics has continued to seek out solutions to help get
                       Hoosiers and people around the country get back to resuming normal activity with the peace of mind that they are
-                      not carrying or contagious of the virus that causes Covid-19.”It’s not just about getting back to work,” Khan said. “It’s
+                      not carrying or contagious of the virus that causes COVID-19.”It’s not just about getting back to work,” Khan said. “It’s
                       about getting back to Life.” Aria Diagnostics will also donate 10% of the proceeds from the tests at this site to the
                       American Red Cross.
                     </p>

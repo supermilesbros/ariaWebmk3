@@ -9,7 +9,7 @@
         </li>
         <li>
           <n-link to="/resources">
-            <span>Covid-19</span>
+            <span>COVID-19</span>
           </n-link>
         </li>
         <li class="has-children has-children--multilevel-submenu">

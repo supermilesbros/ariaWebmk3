@@ -6,7 +6,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center pb-5">
-            <h2>Covid-19 Testing</h2>
+            <h2>COVID-19 Testing</h2>
           </div>
         </div>
       </div>

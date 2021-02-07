@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h6>More Covid-19 Testing Resources</h6>
+          <h6>More COVID-19 Testing Resources</h6>
         </div>
       </div>
 

@@ -5,7 +5,7 @@
         {
             "id": "CovidTesting",
             "image": "images/projects/case-study-01-480x298.jpg",
-            "heading": "Covid-19 Testing",
+            "heading": "COVID-19 Testing",
             "category": "Information Technology",
             "desc": "Offering a PCR test for the novel corona virus associated with COVID-19.",
             "link": "CovidTesting"
@@ -15,7 +15,7 @@
             "image": "images/projects/case-study-01-480x298.jpg",
             "heading": "Back to Work Toolkit",
             "category": "Information Technology",
-            "desc": "Outline the steps that every employer and employee can take to reduce the risk of exposure to Covid-19.",
+            "desc": "Outline the steps that every employer and employee can take to reduce the risk of exposure to COVID-19.",
             "link": "BTWtoolkit"
         },
         {
