@@ -81,7 +81,7 @@
                     <h6 class="text-lg">
                       Hours
                     </h6>
-                    <p>Mon &nbsp; 9am - 7pm<br> Tues &nbsp;  9am - 7pm <br> Wed &nbsp;  9am - 7pm <br> Thurs &nbsp; 9am - 7pm <br> Fri &nbsp; 9am - 3pm <br> Sat &nbsp; 9am - 3pm</p>
+                    <p>Mon &nbsp; 9am - 5pm<br> Tues &nbsp;  9am - 5pm <br> Wed &nbsp;  9am - 5pm <br> Thurs &nbsp; 9am - 5pm <br> Fri &nbsp; Closed <br> Sat &nbsp; Closed</p>
                   </div>
                   <div class="box-images-arrow">
                     <p class="button-text">Open Maps</p>
