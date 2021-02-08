@@ -6,7 +6,10 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center pb-5">
-            <h2>COVID-19 Testing</h2>
+            <h2>COVID-19 Testing Locations</h2>
+          </div>
+          <div class="col-lg-12 text-center pb-5">
+            <h5>Call <a class="text-color-primary" href="tel:317-623-4003">317-623-4003</a> for eligibility to qualify for <span class="text-color-primary">$0</span> out of pocket cost testing with insurance</h5>
           </div>
         </div>
       </div>
@@ -33,7 +36,7 @@
                 <div class="content">
                   <div class="text">
                     <h6 class="text-lg">
-                      Same Day COVID 19 PCR Cash Pay $165
+                      Same Day COVID 19 PCR Cash Pay
                     </h6>
                   </div>
                   <h4 class="heading">
@@ -67,7 +70,7 @@
                 <div class="content">
                   <div class="text">
                     <h6 class="text-lg">
-                      Drive-thru Location
+                      Next Day COVID 19 PCR Cash Pay
                     </h6>
                   </div>
                   <h4 class="heading">
@@ -99,7 +102,7 @@
                 <div class="content">
                   <div class="text">
                     <h6 class="text-lg">
-                      Drive-thru Location
+                      Next Day COVID 19 PCR Cash Pay
                     </h6>
                   </div>
                   <h4 class="heading">
