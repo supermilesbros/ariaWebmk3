@@ -12,7 +12,7 @@
             <p>{{ data.heroProcessing.desc }}</p>
             <div class="hero-button mt-30">
               <n-link to="/CovidTesting" class="btn btn--secondary" style="background-color: #810831;">
-                Get Tested
+                GET TESTED
               </n-link>
             </div>
           </div>
