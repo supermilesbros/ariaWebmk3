@@ -588,10 +588,10 @@
 .top-bar-left {
     flex-grow: 1;
     .top-bar-text {
-        font-size: 14px;
+        font-size: 20px;
         line-height: 1.78;
         & .font-medium {
-            font-weight: 500;
+            font-weight: 900;
         }
     }
 }
@@ -599,7 +599,7 @@
 .top-bar-wrap {
     display: flex;
     align-items: center;
-    height: 50px;
+    height: 75px;
     & .top-bar-right {
         & .top-bar-info {
             & .info-item {
