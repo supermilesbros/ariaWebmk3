@@ -1,6 +1,6 @@
 <template>
   <div class="main-container">
-    <HeaderAria />
+    <HeaderAria2 />
 
     <div class="projects-wrapper pt-5">
       <div class="container">
@@ -40,7 +40,7 @@
                 <div class="content">
                   <div class="text">
                     <h6 class="text-lg">
-                      Same Day COVID 19 PCR Cash Pay
+                      Same Day COVID-19 PCR
                     </h6>
                   </div>
                   <h4 class="heading">
@@ -74,7 +74,7 @@
                 <div class="content">
                   <div class="text">
                     <h6 class="text-lg">
-                      Next Day COVID 19 PCR Cash Pay
+                      Two Day COVID-19 PCR
                     </h6>
                   </div>
                   <h4 class="heading">
@@ -106,7 +106,7 @@
                 <div class="content">
                   <div class="text">
                     <h6 class="text-lg">
-                      Next Day COVID 19 PCR Cash Pay
+                      Two Day COVID-19 PCR
                     </h6>
                   </div>
                   <h4 class="heading">
@@ -146,7 +146,7 @@
 
 <script>
 import data from '../data/about.json'
-import HeaderAria from '@/components/aria/HeaderAria'
+import HeaderAria2 from '@/components/aria/HeaderAria2'
 import Covid19TestingWrapper from '@/components/aria/Covid19TestingWrapper'
 import Covid19TestingWrapper2 from '@/components/aria/Covid19TestingWrapper2'
 import Covid19TestingFAQWrapper from '@/components/aria/Covid19TestingFAQWrapper'
@@ -155,7 +155,7 @@ import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu'
 
 export default {
   components: {
-    HeaderAria,
+    HeaderAria2,
     Covid19TestingWrapper,
     Covid19TestingWrapper2,
     Covid19TestingFAQWrapper,
