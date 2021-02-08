@@ -27,6 +27,40 @@
           </div>
         </b-modal> -->
         <div class="row px-5">
+          <a href="https://goo.gl/maps/5cGr2pLZdDtYF1kB7" target="_blank" class="col-lg-12 col-md-12 ">
+            <div class="ht-box-images style-06a">
+              <div class="image-box-wrap">
+                <div class="content">
+                  <div class="text">
+                    <h6 class="text-lg">
+                      Same Day COVID 19 PCR Cash Pay $165
+                    </h6>
+                  </div>
+                  <h4 class="heading">
+                    Cornerstone Lutheran Church
+                  </h4>
+                  <div class="text-left">
+                    <h6 class="text-lg">
+                      Address
+                    </h6>
+                    <p>13450 E 116th St, Fishers, IN 46037</p>
+                  </div>
+                  <div class="text-left">
+                    <h6 class="text-lg">
+                      Hours
+                    </h6>
+                    <p>Mon - Fri &nbsp; 7am - 2pm<br> Sat &nbsp;  7am - 12pm</p>
+                  </div>
+                  <div class="box-images-arrow">
+                    <p class="button-text">Open Maps</p>
+                    <i class="far fa-long-arrow-right" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="row px-5">
           <a href="https://goo.gl/maps/aeyT9MpNzyaHND4HA" target="_blank" class="col-lg-6 col-md-6 ">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
@@ -109,6 +143,7 @@
 import data from '../data/about.json'
 import HeaderAria from '@/components/aria/HeaderAria'
 import Covid19TestingWrapper from '@/components/aria/Covid19TestingWrapper'
+import Covid19TestingWrapper2 from '@/components/aria/Covid19TestingWrapper2'
 import Covid19TestingFAQWrapper from '@/components/aria/Covid19TestingFAQWrapper'
 import AriaFooter from '@/components/aria/AriaFooter'
 import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu'
@@ -117,6 +152,7 @@ export default {
   components: {
     HeaderAria,
     Covid19TestingWrapper,
+    Covid19TestingWrapper2,
     Covid19TestingFAQWrapper,
     AriaFooter,
     OffCanvasMobileMenu
