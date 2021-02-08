@@ -5,16 +5,20 @@
     <div class="projects-wrapper pt-5">
       <div class="container">
         <div class="row">
-          <div class="col-lg-12 text-center pb-5">
-            <h2>COVID-19 Testing Locations</h2>
+          <div class="col-lg-12 text-center">
+            <h1>COVID-19 Testing</h1>
           </div>
           <div class="col-lg-12 text-center pb-5">
-            <h5>Call <a class="text-color-primary" href="tel:317-623-4003">317-623-4003</a> for eligibility to qualify for <span class="text-color-primary">$0</span> out of pocket cost testing with insurance</h5>
+            <h6>Call <a class="text-color-primary" href="tel:317-623-4003">317-623-4003</a> for eligibility to qualify for <span class="text-color-primary">$0</span> out of pocket cost testing with insurance</h6>
           </div>
         </div>
       </div>
     </div>
-    <div class="col-12 align-center text-center">
+    <Covid19TestingWrapper />
+    <div class="col-lg-12 text-center pt-5">
+      <h2>Testing Locations</h2>
+    </div>
+    <div class="col-12 align-center pb-5 text-center">
       <div class="">
         <!-- <b-button v-b-modal.modal-1>
           Launch Test modal
@@ -131,8 +135,6 @@
         </div>
       </div>
     </div>
-
-    <Covid19TestingWrapper />
 
     <Covid19TestingFAQWrapper />
 
