@@ -1,7 +1,35 @@
 {
-    "sectionTitle": "Why do people praise<span> ARIA?</span>",
+    "sectionTitle": "Why do people say about<span> ARIA?</span>",
     "sectionSubTitle": "Testimonials",
     "testimonials": [
+        {
+            "subject": "The ARIA team works really hard to ensure high level of quality",
+            "desc": "The staff was very professional and super helpful. First when I couldn't access my patient portal, a callback was received in a timely manner and appointments were made for my husband and I to get tested. Upon arrival at the testing site, the nurse was friendly, professional and got us in and out in no time at all. Overall a smooth experience due to capable staff.",
+            "thumb": "images/testimonial/female-profile.png",
+            "name": "Donna Brouder",
+            "designation": "COVID-19 Testing"
+        },
+        {
+            "subject": "The ARIA team works really hard to ensure high level of quality",
+            "desc": "Gina, Gina, Gina! She’s the absolute best nurse! I actually look forward to seeing her for my Covid swab each week. Thank you to everyone at the Carmel location for making our testing quick, accurate, end somehow enjoyable!",
+            "thumb": "images/testimonial/female-profile.png",
+            "name": "Christina Jesse",
+            "designation": "COVID-19 Testing"
+        },
+        {
+            "subject": "The ARIA team works really hard to ensure high level of quality",
+            "desc": "So kind and helpful! The nurses at the 116th St. location were so great and lifted my spirits!! I highly recommend using them! Quick and easy!!!",
+            "thumb": "images/testimonial/female-profile.png",
+            "name": "Amy Clem",
+            "designation": "COVID-19 Testing"
+        },
+        {
+            "subject": "The ARIA team works really hard to ensure high level of quality",
+            "desc": "This place is amazing! They were quick, officiant, and professional. Connor was extremely helpful and I appreciate the time that he took to care for me while I was in a panic. He was very kind and helpful with all of my questions that I had! I would highly recommend this place and Connor specifically to help you out with your process! I will be telling everyone to use this place!",
+            "thumb": "images/testimonial/female-profile.png",
+            "name": "Victoria Chavez",
+            "designation": "COVID-19 Testing"
+        },
         {
             "subject": "The ARIA team works really hard to ensure high level of quality",
             "desc": "I am New York City resident.   I want to thank Aria Diagnostic for their kindness and passion to help us in New York City.  I am so grateful and God bless.  Be safe.",
