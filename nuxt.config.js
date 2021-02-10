@@ -42,6 +42,7 @@ export default {
   buildModules: [
     // Doc: https://github.com/nuxt-community/eslint-module
     // '@nuxtjs/eslint-module'
+    '@nuxtjs/google-analytics'
   ],
   /*
    ** Nuxt.js modules
@@ -57,6 +58,9 @@ export default {
       disabled: false
     }]
   ],
+  googleAnalytics: {
+    id: 'UA-189379505-1'
+  },
 
   styleResources: {
     scss: ['assets/scss/_variables.scss']
