@@ -95,7 +95,6 @@ export default {
       }
       const mailDoc = {
         to: [
-          'jared@supermilesbros.com',
           'labsupport@ariadxs.com'
         ],
         message: {
