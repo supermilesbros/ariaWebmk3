@@ -34,7 +34,7 @@
           </div>
         </b-modal> -->
         <div class="row px-5">
-          <a href="https://goo.gl/maps/5cGr2pLZdDtYF1kB7" target="_blank" class="col-lg-12 col-md-12 ">
+          <a href="https://goo.gl/maps/5cGr2pLZdDtYF1kB7" target="_blank" class="col-lg-6 col-md-6 ">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
@@ -56,7 +56,7 @@
                     <h6 class="text-lg">
                       Hours
                     </h6>
-                    <p>Mon - Fri &nbsp; 7am - 2pm<br> Sat &nbsp;  7am - 12pm</p>
+                    <p>Mon &nbsp; 7am - 2pm<br> Tues &nbsp;  7am - 2pm <br> Wed &nbsp;  7am - 2pm <br> Thurs &nbsp; 7am - 2pm <br> Fri &nbsp; 7am - 2pm <br> Sat &nbsp; 7am - 12pm</p>
                   </div>
                   <div class="box-images-arrow">
                     <p class="button-text">Open Maps</p>
@@ -66,8 +66,6 @@
               </div>
             </div>
           </a>
-        </div>
-        <div class="row px-5">
           <a href="https://goo.gl/maps/aeyT9MpNzyaHND4HA" target="_blank" class="col-lg-6 col-md-6 ">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
@@ -91,38 +89,6 @@
                       Hours
                     </h6>
                     <p>Mon &nbsp; 9am - 7pm<br> Tues &nbsp;  9am - 7pm <br> Wed &nbsp;  9am - 5pm <br> Thurs &nbsp; 9am - 7pm <br> Fri &nbsp; 9am - 3pm <br> Sat &nbsp; 9am - 3pm</p>
-                  </div>
-                  <div class="box-images-arrow">
-                    <p class="button-text">Open Maps</p>
-                    <i class="far fa-long-arrow-right" />
-                  </div>
-                </div>
-              </div>
-            </div>
-          </a>
-          <a href="https://goo.gl/maps/D1EoLf7SyKQoWXvL8" target="_blank" class="col-lg-6 col-md-6">
-            <div class="ht-box-images style-06a">
-              <div class="image-box-wrap">
-                <div class="content">
-                  <div class="text">
-                    <h6 class="text-lg">
-                      Two Day COVID-19 PCR
-                    </h6>
-                  </div>
-                  <h4 class="heading">
-                    Traders Point Christian Church
-                  </h4>
-                  <div class="text-left">
-                    <h6 class="text-lg">
-                      Address
-                    </h6>
-                    <p>6590 S Indianapolis Rd Whitestown, IN 46075 </p>
-                  </div>
-                  <div class="text-left">
-                    <h6 class="text-lg">
-                      Hours
-                    </h6>
-                    <p>Mon &nbsp; 9am - 5pm<br> Tues &nbsp;  9am - 5pm <br> Wed &nbsp;  9am - 5pm <br> Thurs &nbsp; 9am - 5pm <br> Fri &nbsp; Closed <br> Sat &nbsp; Closed</p>
                   </div>
                   <div class="box-images-arrow">
                     <p class="button-text">Open Maps</p>
