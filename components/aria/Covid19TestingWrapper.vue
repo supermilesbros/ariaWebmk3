@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div v-for="project in data.projects" :key="project.id" class="col-lg-6 col-md-6">
-          <a href="https://ariadxs.stratusdx.net/testing/covid19.aspx?loc=sameday_selfpay" class="projects-wrap style-01 wow move-up">
+          <a href="https://ariadxs.stratusdx.net/testing/covid19.aspx?loc=sameday_selfpay" class="projects-wrap style-01 wow move-up" @click="googleTrack('Same Day')">
             <div class="projects-image-box">
               <div class="content text-color-primary">
                 <h6 class="heading text-right" />
@@ -22,7 +22,7 @@
           </a>
         </div>
         <div v-for="project in data.projects" :key="project.id" class="col-lg-6 col-md-6">
-          <a href="https://ariadxs.stratusdx.net/testing/covid19.aspx?loc=self_pay" class="projects-wrap style-01 wow move-up">
+          <a href="https://ariadxs.stratusdx.net/testing/covid19.aspx?loc=self_pay" class="projects-wrap style-01 wow move-up" @click="googleTrack('Two Day')">
             <div class="projects-image-box">
               <div class="content text-color-primary">
                 <h6 class="heading text-right" />
@@ -51,6 +51,15 @@ export default {
   data () {
     return {
       data
+    }
+  },
+  methods: {
+    googleTrack (label) {
+      this.$ga.event({
+        eventCategory: 'PurchaseUrl',
+        eventAction: 'click',
+        eventLabel: `${label}`
+      })
     }
   }
 }
