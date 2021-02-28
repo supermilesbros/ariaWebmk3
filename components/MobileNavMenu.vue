@@ -50,7 +50,7 @@
           </n-link>
         </li>
         <li>
-          <n-link to="/billing">
+          <n-link to="/Portal">
             <span>Results Portal</span>
           </n-link>
         </li>
