@@ -82,7 +82,7 @@
                     <h6 class="text-lg">
                       Address
                     </h6>
-                    <p>212 E 116th St Carmel, IN 46032</p>
+                    <p>1212 E 116th St Carmel, IN 46032</p>
                   </div>
                   <div class="text-left">
                     <h6 class="text-lg">
