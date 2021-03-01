@@ -16,7 +16,8 @@ export default {
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' }],
     script: [
-      { src: 'https://assets.calendly.com/assets/external/widget.js' }
+      { src: 'https://assets.calendly.com/assets/external/widget.js' },
+      { src: 'https://www.googletagmanager.com/gtag/js?id=G-2M90197RZJ' }
     ]
   },
   /*
@@ -35,7 +36,7 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: ['~/plugins/vue-awesome-swiper.js', '~/plugins/vuejs-paginate.js'],
+  plugins: ['~/plugins/vue-awesome-swiper.js', '~/plugins/vuejs-paginate.js', '@/plugins/gtag'],
   /*
    ** Nuxt.js dev-modules
    */
@@ -59,10 +60,7 @@ export default {
     }]
   ],
   googleAnalytics: {
-    id: [
-      'UA-189379505-1',
-      'G-2M90197RZJ'
-    ]
+    id: 'UA-189379505-1'
   },
 
   styleResources: {
