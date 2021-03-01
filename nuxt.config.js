@@ -59,7 +59,10 @@ export default {
     }]
   ],
   googleAnalytics: {
-    id: 'UA-189379505-1'
+    id: [
+      'UA-189379505-1',
+      'G-2M90197RZJ'
+    ]
   },
 
   styleResources: {
