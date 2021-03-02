@@ -100,7 +100,14 @@ export default {
   },
   head () {
     return {
-      title: 'Resources'
+      title: 'Billing',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'About our description'
+        }
+      ]
     }
   }
 }

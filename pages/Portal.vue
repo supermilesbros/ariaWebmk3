@@ -81,7 +81,7 @@ export default {
   },
   head () {
     return {
-      title: 'Resources'
+      title: 'Client Portal'
     }
   }
 }

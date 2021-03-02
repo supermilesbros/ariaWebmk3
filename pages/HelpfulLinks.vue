@@ -39,7 +39,7 @@ export default {
   },
   head () {
     return {
-      title: 'Resources'
+      title: 'Helpful Links'
     }
   }
 }

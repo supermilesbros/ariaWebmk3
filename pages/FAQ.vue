@@ -53,7 +53,7 @@ export default {
   },
   head () {
     return {
-      title: 'Resources'
+      title: 'Facts and Questions'
     }
   }
 }

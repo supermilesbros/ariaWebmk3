@@ -72,7 +72,7 @@ export default {
   },
   head () {
     return {
-      title: 'Resources'
+      title: 'Press Releases'
     }
   }
 }

@@ -37,7 +37,7 @@ export default {
   },
   head () {
     return {
-      title: 'Contact Us'
+      title: 'Shapiros Testing'
     }
   }
 }

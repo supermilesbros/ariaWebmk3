@@ -145,7 +145,7 @@ export default {
   },
   head () {
     return {
-      title: 'Resources'
+      title: 'COVID Testing Resources'
     }
   }
 }

@@ -83,6 +83,18 @@ export default {
       data,
       id: this.$route.params.id
     }
+  },
+  head () {
+    return {
+      title: 'IGG Service',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'About our description'
+        }
+      ]
+    }
   }
 }
 </script>

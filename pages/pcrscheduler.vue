@@ -10,6 +10,18 @@
 
 <script>
 export default {
+  head () {
+    return {
+      title: 'PCR Scheduler Page',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'About our description'
+        }
+      ]
+    }
+  }
 
 }
 </script>

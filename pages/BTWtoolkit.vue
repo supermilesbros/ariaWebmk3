@@ -49,7 +49,7 @@ export default {
   },
   head () {
     return {
-      title: 'Resources'
+      title: 'Back to Work Toolkit'
     }
   }
 }

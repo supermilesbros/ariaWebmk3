@@ -33,6 +33,18 @@ export default {
     AriaTestimonials,
     AriaFooter,
     OffCanvasMobileMenu
+  },
+  head () {
+    return {
+      title: 'Processing',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'About our description'
+        }
+      ]
+    }
   }
 }
 </script>

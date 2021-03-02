@@ -243,7 +243,7 @@ export default {
   },
   head () {
     return {
-      title: 'Blog Details'
+      title: 'Privacy Policy'
     }
   }
 }
