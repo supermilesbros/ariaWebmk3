@@ -114,7 +114,6 @@
 import data from '../data/about.json'
 import HeaderAria2 from '@/components/aria/HeaderAria2'
 import Covid19TestingWrapper from '@/components/aria/Covid19TestingWrapper'
-import Covid19TestingWrapper2 from '@/components/aria/Covid19TestingWrapper2'
 import Covid19TestingFAQWrapper from '@/components/aria/Covid19TestingFAQWrapper'
 import AriaFooter from '@/components/aria/AriaFooter'
 import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu'
@@ -123,7 +122,6 @@ export default {
   components: {
     HeaderAria2,
     Covid19TestingWrapper,
-    Covid19TestingWrapper2,
     Covid19TestingFAQWrapper,
     AriaFooter,
     OffCanvasMobileMenu
