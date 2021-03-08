@@ -18,7 +18,7 @@
     <div class="col-lg-12 text-center pt-5">
       <h2>Testing Locations</h2>
     </div>
-    <div class="col-12 align-center pb-5 text-center">
+    <div class="col-lg-12 align-center pb-5 text-center">
       <div class="">
         <!-- <b-button v-b-modal.modal-1>
           Launch Test modal
