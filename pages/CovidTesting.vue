@@ -34,7 +34,7 @@
           </div>
         </b-modal> -->
         <div class="row align-items-center px-5">
-          <a href="https://goo.gl/maps/5cGr2pLZdDtYF1kB7" target="_blank" class="col-xl-6 col-lg-12 col-md-12 ">
+          <a href="https://goo.gl/maps/5cGr2pLZdDtYF1kB7" target="_blank" class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
@@ -66,7 +66,7 @@
               </div>
             </div>
           </a>
-          <a href="https://goo.gl/maps/aeyT9MpNzyaHND4HA" target="_blank" class="col-xl-6 col-lg-12 col-md-12 ">
+          <a href="https://goo.gl/maps/aeyT9MpNzyaHND4HA" target="_blank" class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
