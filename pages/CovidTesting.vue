@@ -33,7 +33,7 @@
             />
           </div>
         </b-modal> -->
-        <div class="row align-items-center">
+        <div class="row align-items-center px-1">
           <a href="https://goo.gl/maps/5cGr2pLZdDtYF1kB7" target="_blank" class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
