@@ -54,7 +54,7 @@
                   </div>
                   <div class="text-left">
                     <h6 class="text-lg">
-                      Same Day Testing Hours
+                      Same Day Results Hours
                     </h6>
                     <p>Mon &nbsp; 7am - 12:30pm<br> Tues &nbsp;  7am - 12:30pm <br> Wed &nbsp;  7am - 12:30pm <br> Thurs &nbsp; 7am - 12:30pm <br> Fri &nbsp; 7am - 12:30pm <br> Sat &nbsp; 7am - 12:30pm</p>
                   </div>
