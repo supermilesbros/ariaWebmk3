@@ -71,8 +71,8 @@
               <div class="image-box-wrap">
                 <div class="content">
                   <div class="text">
-                    <h6 class="text-lg">
-                      Now Offering Same Day Testing
+                    <h6 class="text-lg text-color-red">
+                      *Now Offering Same Day Testing*
                     </h6>
                   </div>
                   <h4 class="heading">
