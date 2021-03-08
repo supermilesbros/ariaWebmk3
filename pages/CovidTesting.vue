@@ -85,13 +85,13 @@
                     <p class="pb-3">1212 E 116th St Carmel, IN 46032</p>
                   </div>
                   <div class="row">
-                    <div class="text-left col-lg-6 col-md-6 col-sm-6">
+                    <div class="text-left col-lg-6 col-md-6 col-sm-12">
                       <h6 class="text-lg">
                         2 Day Results Hours
                       </h6>
                       <p>Mon &nbsp; 9am - 7pm<br> Tues &nbsp;  9am - 7pm <br> Wed &nbsp;  9am - 5pm <br> Thurs &nbsp; 9am - 7pm <br> Fri &nbsp; 9am - 3pm <br> Sat &nbsp; 9am - 3pm</p>
                     </div>
-                    <div class="text-right col-lg-4 col-md-6 col-sm-6">
+                    <div class="text-left col-lg-4 col-md-6 col-sm-12">
                       <h6 class="text-lg">
                         Same Day Results Hours
                       </h6>
