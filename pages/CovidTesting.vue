@@ -33,8 +33,8 @@
             />
           </div>
         </b-modal> -->
-        <div class="row align-items-center px-1">
-          <a href="https://goo.gl/maps/5cGr2pLZdDtYF1kB7" target="_blank" class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
+        <div class="col align-items-center px-1">
+          <!-- <a href="https://goo.gl/maps/5cGr2pLZdDtYF1kB7" target="_blank" class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
@@ -65,7 +65,7 @@
                 </div>
               </div>
             </div>
-          </a>
+          </a> -->
           <a href="https://goo.gl/maps/aeyT9MpNzyaHND4HA" target="_blank" class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
@@ -79,23 +79,23 @@
                     Faith Aposolic Church
                   </h4>
                   <div class="text-left">
-                    <h6 class="text-lg">
+                    <h4 class="text-lg pt-5">
                       Address
-                    </h6>
-                    <p class="pb-3">1212 E 116th St Carmel, IN 46032</p>
+                    </h4>
+                    <h6 class="pb-3">1212 E 116th St Carmel, IN 46032</h6>
                   </div>
                   <div class="row">
                     <div class="text-left col-lg-6 col-md-6 col-sm-12">
-                      <h6 class="text-lg">
+                      <h5 class="text-lg">
                         2 Day Results Hours
-                      </h6>
-                      <p class="pb-3">Mon &nbsp; 9am - 7pm<br> Tues &nbsp;  9am - 7pm <br> Wed &nbsp;  9am - 5pm <br> Thurs &nbsp; 9am - 7pm <br> Fri &nbsp; 9am - 3pm <br> Sat &nbsp; 9am - 3pm</p>
+                      </h5>
+                      <h6 class="pb-3">Mon &nbsp; 9am - 7pm<br> Tues &nbsp;  9am - 7pm <br> Wed &nbsp;  9am - 5pm <br> Thurs &nbsp; 9am - 7pm <br> Fri &nbsp; 9am - 3pm <br> Sat &nbsp; 9am - 3pm</h6>
                     </div>
                     <div class="text-left col-lg-4 col-md-6 col-sm-12">
-                      <h6 class="text-lg">
+                      <h5 class="text-lg">
                         Same Day Results Hours
-                      </h6>
-                      <p>Mon &nbsp; 7am - 12:30pm<br> Tues &nbsp;  7am - 12:30pm <br> Wed &nbsp;  7am - 12:30pm <br> Thurs &nbsp; 7am - 12:30pm <br> Fri &nbsp; 7am - 12:30pm <br> Sat &nbsp; 7am - 12:30pm</p>
+                      </h5>
+                      <h6>Mon &nbsp; 7am - 12:30pm<br> Tues &nbsp;  7am - 12:30pm <br> Wed &nbsp;  7am - 12:30pm <br> Thurs &nbsp; 7am - 12:30pm <br> Fri &nbsp; 7am - 12:30pm <br> Sat &nbsp; 7am - 12:30pm</h6>
                     </div>
                   </div>
                   <div class="box-images-arrow">
