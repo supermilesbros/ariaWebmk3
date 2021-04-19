@@ -95,7 +95,7 @@
                       <h5 class="text-lg">
                         Same Day Results Hours
                       </h5>
-                      <h6>Mon &nbsp; 7am - 12:30pm<br> Tues &nbsp;  7am - 12:30pm <br> Wed &nbsp;  7am - 12:30pm <br> Thurs &nbsp; 7am - 12:30pm <br> Fri &nbsp; 7am - 12:30pm <br> Sat &nbsp; 7am - 12:30pm</h6>
+                      <h6>Mon &nbsp; 7am - 12pm<br> Tues &nbsp;  7am - 12pm <br> Wed &nbsp;  7am - 12pm <br> Thurs &nbsp; 7am - 12pm <br> Fri &nbsp; 7am - 12pm <br> Sat &nbsp; 7am - 12pm</h6>
                     </div>
                   </div>
                   <div class="box-images-arrow">
