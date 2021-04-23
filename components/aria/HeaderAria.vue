@@ -5,12 +5,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="top-bar-wrap">
-              <div class="top-bar-left">
-                <div class="top-bar-text">
-                  <a href="tel:317-623-4003" class="font-medium display-inline" style="color: #d31037;">Call 317-623-4003</a> for eligibility to qualify for <span class="text-color-primary">$0</span> out of pocket cost testing with insurance
-                </div>
-              </div>
-              <!-- <div class="top-bar-right">
+              <div class="top-bar-right">
                 <ul class="top-bar-info">
                   <li class="info-item">
                     <a href="tel:317-733-9454" class="info-link">
@@ -25,7 +20,7 @@
                     </a>
                   </li>
                 </ul>
-              </div> -->
+              </div>
             </div>
           </div>
         </div>

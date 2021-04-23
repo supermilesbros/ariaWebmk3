@@ -12,9 +12,6 @@
               <div class="sub-heading">
                 No more than a business day to return your call and less to return your email.
               </div>
-              <div class="sub-heading">
-                Don't have a doctor's order? For insurance covered Telehealth visit and COVID 19 testing Call <a style="color: #c12443;" href="tel:3176234003">317-623-4003</a>
-              </div>
               <div class="sub-heading" />
             </div>
           </div>

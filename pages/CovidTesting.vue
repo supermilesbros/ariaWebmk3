@@ -8,9 +8,6 @@
           <div class="col-lg-12 text-center">
             <h1>COVID-19 Testing</h1>
           </div>
-          <div class="col-lg-12 text-center pb-5">
-            <h6>Call <a class="text-color-primary" href="tel:317-623-4003">317-623-4003</a> for eligibility to qualify for <span class="text-color-primary">$0</span> out of pocket cost testing with insurance</h6>
-          </div>
         </div>
       </div>
     </div>
