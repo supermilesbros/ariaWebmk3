@@ -10,7 +10,7 @@
       <div class="row">
         <div class="pb-5 col-lg-12">
           <div class="feature-list-button-box mt-30 text-center">
-            <a style="width: 250px;" href="/doctorOrderRevised.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn--outline">
+            <a style="width: 250px;" href="/doctorOrder.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn--outline">
               Physician Order Form
             </a>
             <a href="/COVID-19FAQs.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn" style="width: 250px;">
