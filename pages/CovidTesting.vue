@@ -13,7 +13,7 @@
     </div>
     <Covid19TestingWrapper />
     <div class="col-lg-12 text-center pt-5">
-      <h2>Testing Locations</h2>
+      <h2>Testing Location</h2>
     </div>
     <div class="col-lg-12 align-center pb-5 text-center">
       <div class="">
@@ -73,7 +73,7 @@
                     </h6>
                   </div>
                   <h4 class="heading">
-                    Faith Aposolic Church
+                    Faith Apostolic Church
                   </h4>
                   <div class="text-left">
                     <h4 class="text-lg pt-5">

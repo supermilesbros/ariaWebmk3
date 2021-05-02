@@ -43,7 +43,7 @@ export default {
   },
   head () {
     return {
-      title: 'Testing Locations'
+      title: 'Testing Location'
     }
   }
 }
