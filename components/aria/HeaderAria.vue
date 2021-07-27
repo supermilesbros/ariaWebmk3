@@ -1,32 +1,5 @@
 <template>
   <div class="header-area">
-    <div class="header-top-bar-info bg-gray d-none d-lg-block">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="top-bar-wrap">
-              <div class="top-bar-right">
-                <ul class="top-bar-info">
-                  <li class="info-item">
-                    <a href="tel:317-733-9454" class="info-link">
-                      <i class="info-icon fa fa-phone" />
-                      <span class="info-text"><strong>317-733-9454</strong></span>
-                    </a>
-                  </li>
-                  <li class="info-item">
-                    <a href="https://goo.gl/maps/R1NQ4muHRHtWbYBF7" target="_blank">
-                      <i class="info-icon fa fa-map-marker-alt" />
-                      <span class="info-text">5635 W. 96th St, Suite 300, Indianapolis, IN 46278</span>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <fixed-header :threshold="300">
       <div class="header-bottom-wrap  bg-white header-sticky">
         <div class="container">
