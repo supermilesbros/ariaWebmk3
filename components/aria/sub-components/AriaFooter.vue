@@ -27,11 +27,6 @@
           <div class="col-md-6 text-center text-md-right">
             <ul class="list ht-social-networks solid-rounded-icon">
               <li class="item">
-                <a :href="data.footerBottom.twitterUrl" target="_blank" aria-label="Twitter" class="social-link hint--bounce hint--top hint--primary">
-                  <i class="fab fa-twitter link-icon" />
-                </a>
-              </li>
-              <li class="item">
                 <a :href="data.footerBottom.fbUrl" target="_blank" aria-label="Facebook" class="social-link hint--bounce hint--top hint--primary">
                   <i class="fab fa-facebook-f link-icon" />
                 </a>

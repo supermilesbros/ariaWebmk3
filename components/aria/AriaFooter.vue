@@ -27,8 +27,8 @@
           <div class="col-md-6 text-center text-md-right">
             <ul class="list ht-social-networks solid-rounded-icon">
               <li class="item">
-                <a :href="data.footerBottom.twitterUrl" target="_blank" aria-label="Twitter" class="social-link hint--bounce hint--top hint--primary">
-                  <i class="fab fa-twitter link-icon" />
+                <a :href="data.footerBottom.linkedinUrl" target="_blank" aria-label="Linkedin" class="social-link hint--bounce hint--top hint--primary">
+                  <i class="fab fa-linkedin link-icon" />
                 </a>
               </li>
               <li class="item">
@@ -39,11 +39,6 @@
               <li class="item">
                 <a :href="data.footerBottom.instagramUrl" target="_blank" aria-label="Instagram" class="social-link hint--bounce hint--top hint--primary">
                   <i class="fab fa-instagram link-icon" />
-                </a>
-              </li>
-              <li class="item">
-                <a :href="data.footerBottom.linkedinUrl" target="_blank" aria-label="Linkedin" class="social-link hint--bounce hint--top hint--primary">
-                  <i class="fab fa-linkedin link-icon" />
                 </a>
               </li>
             </ul>
