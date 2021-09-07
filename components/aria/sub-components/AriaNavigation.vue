@@ -41,6 +41,11 @@
           </n-link>
         </li>
         <li>
+          <n-link to="/laboratory-forms">
+            <span>Forms</span>
+          </n-link>
+        </li>
+        <li>
           <nuxt-link to="/FAQ">
             <span>FAQ</span>
           </nuxt-link>
