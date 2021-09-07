@@ -16,7 +16,7 @@
                   {{ form.heading }}
                 </h6>
                 <div class="box-projects-arrow">
-                  <span class="button-text">Download </span>
+                  <span class="button-text">Coming Soon </span>
                   <i class="fa fa-long-arrow-right ml-1" />
                 </div>
               </div>
