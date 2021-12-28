@@ -86,13 +86,13 @@
                       <h5 class="text-lg">
                         2 Day Results Hours
                       </h5>
-                      <h6 class="pb-3">Mon &nbsp; 7am - 4pm<br> Tues &nbsp;  7am - 4pm <br> Wed &nbsp;  7am - 4pm <br> Thurs &nbsp; 7am - 4pm <br> Fri &nbsp; 7am - 3pm</h6>
+                      <h6 class="pb-3">Mon &nbsp; 7am - 5:30pm<br> Tues &nbsp;  7am - 5:30pm <br> Wed &nbsp;  7am - 5:30pm <br> Thurs &nbsp; 7am - 5:30pm <br> Fri &nbsp; 7am - 5:30pm</h6>
                     </div>
                     <div class="text-left col-lg-4 col-md-6 col-sm-12">
                       <h5 class="text-lg">
                         Same Day Results Hours
                       </h5>
-                      <h6>Mon &nbsp; 7am - 12pm<br> Tues &nbsp;  7am - 12pm <br> Wed &nbsp;  7am - 12pm <br> Thurs &nbsp; 7am - 12pm <br> Fri &nbsp; 7am - 12pm</h6>
+                      <h6>Mon &nbsp; 7am - 1pm<br> Tues &nbsp;  7am - 1pm <br> Wed &nbsp;  7am - 1pm <br> Thurs &nbsp; 7am - 1pm <br> Fri &nbsp; 7am - 1pm</h6>
                     </div>
                   </div>
                   <div class="box-images-arrow">

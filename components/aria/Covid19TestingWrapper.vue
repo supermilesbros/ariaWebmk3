@@ -11,7 +11,7 @@
                   Same Day COVID-19 PCR Test
                 </h5>
                 <div class="text">
-                  COVID 19 PCR - $165
+                  COVID 19 PCR - $175
                 </div>
                 <div class="box-projects-arrow">
                   <span class="button-text">Schedule Now</span>
@@ -30,7 +30,7 @@
                   Two Day COVID-19 PCR Test
                 </h5>
                 <div class="text">
-                  COVID 19 PCR - $135
+                  COVID 19 PCR - $105
                 </div>
                 <div class="box-projects-arrow">
                   <span class="button-text">Schedule Now</span>
