@@ -86,7 +86,7 @@
                       <h5 class="text-lg">
                         2 Day Results Hours
                       </h5>
-                      <h6 class="pb-3">Mon &nbsp; 7am - 5:30pm<br> Tues &nbsp;  7am - 5:30pm <br> Wed &nbsp;  7am - 5:30pm <br> Thurs &nbsp; 7am - 5:30pm <br> Fri &nbsp; 7am - 5:30pm</h6>
+                      <h6 class="pb-3">Mon &nbsp; 7am - 4:30pm<br> Tues &nbsp;  7am - 4:30pm <br> Wed &nbsp;  7am - 4:30pm <br> Thurs &nbsp; 7am - 4:30pm <br> Fri &nbsp; 7am - 4:30pm</h6>
                     </div>
                     <div class="text-left col-lg-4 col-md-6 col-sm-12">
                       <h5 class="text-lg">
