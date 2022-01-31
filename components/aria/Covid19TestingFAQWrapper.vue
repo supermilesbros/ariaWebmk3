@@ -13,9 +13,6 @@
             <a style="width: 250px;" href="/doctorOrder.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn">
               Physician Order Form
             </a>
-            <a style="width: 250px;" href="/orderInstructions.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn--outline">
-              Order Instructions
-            </a>
             <a href="/COVID-19FAQs.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn" style="width: 250px;">
               PCR Test FAQ
             </a>
