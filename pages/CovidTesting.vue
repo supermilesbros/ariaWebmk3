@@ -53,12 +53,14 @@
                         Same Day Results
                       </h5>
                       <h6 class="pb-3">Mon &nbsp; 8am - 4:30pm<br> Tues &nbsp;  8am - 4:30pm <br> Wed &nbsp;  8am - 4:30pm <br> Thurs &nbsp; 8am - 4:30pm <br> Fri &nbsp; 8am - 4:30pm</h6>
+                      <p style="font-size: 14px;">*Same day results are available before 8pm</p>
                     </div>
                     <div class="text-left col-lg-4 col-md-6 col-sm-12">
                       <h5 class="text-lg">
                         Next Day Results
                       </h5>
                       <h6>Mon &nbsp; 8am - 1pm<br> Tues &nbsp;  8am - 1pm <br> Wed &nbsp;  8am - 1pm <br> Thurs &nbsp; 8am - 1pm <br> Fri &nbsp; 8am - 1pm</h6>
+                      <p style="font-size: 14px;">*Next day results are available by end of next business day</p>
                     </div>
                   </div>
                   <div class="box-images-arrow">
@@ -88,12 +90,14 @@
                         Same Day Results
                       </h5>
                       <h6 class="pb-3">Mon &nbsp; 8am - 12pm<br> Tues &nbsp;  8am - 12pm <br> Wed &nbsp;  8am - 12pm <br> Thurs &nbsp; 8am - 12pm <br> Fri &nbsp; 8am - 12pm</h6>
+                      <p style="font-size: 14px;">*Same day results are available before 8pm</p>
                     </div>
                     <div class="text-left col-lg-4 col-md-6 col-sm-12">
                       <h5 class="text-lg">
                         Next Day Results
                       </h5>
                       <h6>Mon &nbsp; 8am - 6pm<br> Tues &nbsp;  8am - 6pm <br> Wed &nbsp;  8am - 6pm <br> Thurs &nbsp; 8am - 6pm <br> Fri &nbsp; 8am - 6pm <br> Sat &nbsp; 9am - 2pm</h6>
+                      <p style="font-size: 14px;">*Next day results are available by end of next business day</p>
                     </div>
                   </div>
                   <div class="box-images-arrow">
