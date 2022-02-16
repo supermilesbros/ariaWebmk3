@@ -80,7 +80,7 @@
                     <h4 class="text-lg pt-5">
                       Address
                     </h4>
-                    <h6 class="pb-3">17 N Pennsylvania Street Indianapolis, IN 46204</h6>
+                    <h6 class="pb-3">17 N Pennsylvania Street Indianapolis,IN 46204</h6>
                   </div>
                   <div class="row">
                     <div class="text-left col-lg-6 col-md-6 col-sm-12">
