@@ -93,7 +93,7 @@
                       <h5 class="text-lg">
                         Next Day Results
                       </h5>
-                      <h6>Mon &nbsp; 8am - 6pm<br> Tues &nbsp;  8am - 6pm <br> Wed &nbsp;  8am - 6pm <br> Thurs &nbsp; 8am - 6pm <br> Fri &nbsp; 8am - 6pm <br> Sat &nbsp; 8am - 2pm</h6>
+                      <h6>Mon &nbsp; 8am - 6pm<br> Tues &nbsp;  8am - 6pm <br> Wed &nbsp;  8am - 6pm <br> Thurs &nbsp; 8am - 6pm <br> Fri &nbsp; 8am - 6pm <br> Sat &nbsp; 9am - 2pm</h6>
                     </div>
                   </div>
                   <div class="box-images-arrow">
