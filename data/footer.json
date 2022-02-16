@@ -23,7 +23,7 @@
     "footerWidgetTitleTwo": "Quick Links",
     "navListTwo": [
         {
-            "navTitle": "Testing Location",
+            "navTitle": "Testing Locations",
             "navUrl": "/CovidTesting" 
         },
         {
