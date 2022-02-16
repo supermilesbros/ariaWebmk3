@@ -13,7 +13,10 @@
     </div>
     <Covid19TestingWrapper />
     <div class="col-lg-12 text-center pt-5">
-      <h2>Testing Location</h2>
+      <h2>Testing Locations</h2>
+      <h6 class="text-lg text-color-red">
+        *Now Offering Same Day Testing*
+      </h6>
     </div>
     <div class="col-lg-12 align-center pb-5 text-center">
       <div class="">
@@ -30,50 +33,13 @@
             />
           </div>
         </b-modal> -->
-        <div class="col align-items-center px-1">
-          <!-- <a href="https://goo.gl/maps/5cGr2pLZdDtYF1kB7" target="_blank" class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
+        <div class="row  px-1">
+          <a href="https://goo.gl/maps/aeyT9MpNzyaHND4HA" target="_blank" class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
-                  <div class="text">
-                    <h6 class="text-lg">
-                      Same Day COVID-19 PCR
-                    </h6>
-                  </div>
                   <h4 class="heading">
-                    Cornerstone Lutheran Church
-                  </h4>
-                  <div class="text-left">
-                    <h6 class="text-lg">
-                      Address
-                    </h6>
-                    <p class="pb-3">13450 E 116th St, Fishers, IN 46037</p>
-                  </div>
-                  <div class="text-left">
-                    <h6 class="text-lg">
-                      Same Day Results Hours
-                    </h6>
-                    <p>Mon &nbsp; 7am - 12:30pm<br> Tues &nbsp;  7am - 12:30pm <br> Wed &nbsp;  7am - 12:30pm <br> Thurs &nbsp; 7am - 12:30pm <br> Fri &nbsp; 7am - 12:30pm <br> Sat &nbsp; 7am - 12:30pm</p>
-                  </div>
-                  <div class="box-images-arrow">
-                    <p class="button-text">Open Maps</p>
-                    <i class="far fa-long-arrow-right" />
-                  </div>
-                </div>
-              </div>
-            </div>
-          </a> -->
-          <a href="https://goo.gl/maps/aeyT9MpNzyaHND4HA" target="_blank" class="col-xl-6 col-lg-12 col-md-12 col-sm-12">
-            <div class="ht-box-images style-06a">
-              <div class="image-box-wrap">
-                <div class="content">
-                  <div class="text">
-                    <h6 class="text-lg text-color-red">
-                      *Now Offering Same Day Testing*
-                    </h6>
-                  </div>
-                  <h4 class="heading">
-                    Faith Apostolic Church
+                    Carmel Faith Apostolic Church
                   </h4>
                   <div class="text-left">
                     <h4 class="text-lg pt-5">
@@ -84,15 +50,50 @@
                   <div class="row">
                     <div class="text-left col-lg-6 col-md-6 col-sm-12">
                       <h5 class="text-lg">
-                        2 Day Results Hours
+                        Same Day Results
                       </h5>
                       <h6 class="pb-3">Mon &nbsp; 8am - 4:30pm<br> Tues &nbsp;  8am - 4:30pm <br> Wed &nbsp;  8am - 4:30pm <br> Thurs &nbsp; 8am - 4:30pm <br> Fri &nbsp; 8am - 4:30pm</h6>
                     </div>
                     <div class="text-left col-lg-4 col-md-6 col-sm-12">
                       <h5 class="text-lg">
-                        Same Day Results Hours
+                        Next Day Results
                       </h5>
                       <h6>Mon &nbsp; 8am - 1pm<br> Tues &nbsp;  8am - 1pm <br> Wed &nbsp;  8am - 1pm <br> Thurs &nbsp; 8am - 1pm <br> Fri &nbsp; 8am - 1pm</h6>
+                    </div>
+                  </div>
+                  <div class="box-images-arrow">
+                    <p class="button-text">Open Maps</p>
+                    <i class="far fa-long-arrow-right" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </a>
+          <a href="https://goo.gl/maps/Jt9adbnq4ixPAFHL6" target="_blank" class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+            <div class="ht-box-images style-06a">
+              <div class="image-box-wrap">
+                <div class="content">
+                  <h4 class="heading">
+                    Downtown Off the Circle
+                  </h4>
+                  <div class="text-left">
+                    <h4 class="text-lg pt-5">
+                      Address
+                    </h4>
+                    <h6 class="pb-3">17 N Pennsylvania Street Indianapolis, IN 46204</h6>
+                  </div>
+                  <div class="row">
+                    <div class="text-left col-lg-6 col-md-6 col-sm-12">
+                      <h5 class="text-lg">
+                        Same Day Results
+                      </h5>
+                      <h6 class="pb-3">Mon &nbsp; 8am - 12pm<br> Tues &nbsp;  8am - 12pm <br> Wed &nbsp;  8am - 12pm <br> Thurs &nbsp; 8am - 12pm <br> Fri &nbsp; 8am - 12pm</h6>
+                    </div>
+                    <div class="text-left col-lg-4 col-md-6 col-sm-12">
+                      <h5 class="text-lg">
+                        Next Day Results
+                      </h5>
+                      <h6>Mon &nbsp; 8am - 6pm<br> Tues &nbsp;  8am - 6pm <br> Wed &nbsp;  8am - 6pm <br> Thurs &nbsp; 8am - 6pm <br> Fri &nbsp; 8am - 6pm Fri <br> Sat &nbsp; 8am - 6pm</h6>
                     </div>
                   </div>
                   <div class="box-images-arrow">
