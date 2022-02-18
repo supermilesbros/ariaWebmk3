@@ -34,7 +34,7 @@
           </div>
         </b-modal> -->
         <div class="row  px-1">
-          <a href="http://maps.apple.com/?daddr=1212+E+116th+St+Carmel,+IN+46032&dirflg=w&t=m" target="_blank" class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+          <a href="http://maps.apple.com/?daddr=1212+E+116th+St+Carmel,+IN+46032&dirflg=d&t=m" target="_blank" class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
@@ -71,7 +71,7 @@
               </div>
             </div>
           </a>
-          <a href="http://maps.apple.com/?daddr=17+N+Pennsylvania+Street+Indianapolis,+IN+46204&dirflg=w&t=m" target="_blank" class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+          <a href="http://maps.apple.com/?daddr=17+N+Pennsylvania+St+Indianapolis,+IN+46204&dirflg=d&t=m" target="_blank" class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
