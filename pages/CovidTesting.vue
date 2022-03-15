@@ -33,8 +33,8 @@
             />
           </div>
         </b-modal> -->
-        <div class="row  px-1">
-          <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+        <div class="row px-1" style="justify-content: center;">
+          <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
@@ -82,7 +82,7 @@
               </div>
             </div>
           </div>
-          <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+          <!-- <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12">
             <div class="ht-box-images style-06a">
               <div class="image-box-wrap">
                 <div class="content">
@@ -134,7 +134,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

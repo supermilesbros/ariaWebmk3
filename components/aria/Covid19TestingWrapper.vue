@@ -42,7 +42,7 @@
         </div>
       </div>
     </div>
-    <div class="container">
+    <!-- <div class="container">
       <div class="row">
         <div v-for="project in data.projects" :key="project.id" class="col-lg-6 col-md-6">
           <a href="https://ariadxs.stratusdx.net/testing/covid19.aspx?loc=jfi_pcr" class="projects-wrap style-01 wow move-up" @click="googleTrack('Same Day')">
@@ -83,7 +83,7 @@
           </a>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 
