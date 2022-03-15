@@ -13,7 +13,7 @@
     </div>
     <Covid19TestingWrapper />
     <div class="col-lg-12 text-center pt-5">
-      <h2>Testing Locations</h2>
+      <h2>Testing Location</h2>
       <h6 class="text-lg text-color-red">
         *Now Offering Same Day Testing*
       </h6>
