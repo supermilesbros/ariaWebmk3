@@ -15,7 +15,7 @@
     <div class="col-lg-12 text-center pt-5">
       <h2>Testing Location</h2>
       <h6 class="text-lg text-color-red">
-        *Now Offering Same Day Testing*
+        *Please note new testing location*
       </h6>
     </div>
     <div class="col-lg-12 align-center pb-5 text-center">
@@ -39,14 +39,14 @@
               <div class="image-box-wrap">
                 <div class="content">
                   <h4 class="heading">
-                    Carmel Faith Apostolic Church
+                    Aria Diagnostics
                   </h4>
                   <div class="text-left">
                     <h4 class="text-lg pt-5">
                       Address
                     </h4>
                     <a href="http://maps.apple.com/?daddr=1212+E+116th+St+Carmel,+IN+46032&dirflg=d&t=m" target="_blank">
-                      <h6 class="pb-3" style="color: #c12443; text-decoration: underline #c12443;">1212 E 116th St Carmel, IN 46032</h6>
+                      <h6 class="pb-3" style="color: #c12443; text-decoration: underline #c12443;"> 5635 W. 96th Street Suite 300 <br> Indianapolis, IN 46278</h6>
                     </a>
                   </div>
                   <div class="row">
@@ -70,7 +70,7 @@
                           <h6>Mon <br> Tues <br> Wed <br> Thurs <br> Fri</h6>
                         </div>
                         <div>
-                          <h6>8am - 1pm <br> 8am - 1pm <br> 8am - 1pm <br> 8am - 1pm <br> 8am - 1pm</h6>
+                          <h6>9am - 2pm <br> 9am - 2pm <br> 9am - 2pm <br> 9am - 2pm <br> 9am - 2pm</h6>
                         </div>
                       </div>
                       <p style="font-size: 14px;">
