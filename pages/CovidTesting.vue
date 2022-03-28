@@ -63,7 +63,7 @@
                     </div> -->
                     <div class="text-left col-lg-12 col-md-12 col-sm-12">
                       <h5 class="text-lg">
-                        Same Day and Next Day Results
+                        Same Day Results
                       </h5>
                       <div class="row">
                         <div class="ml-3" style="margin-right: 1.5em;">
@@ -74,7 +74,7 @@
                         </div>
                       </div>
                       <p style="font-size: 14px;">
-                        *Same Day results are available before 8pm and Next Day results are available by the end of the next business day.
+                        *Same Day results are available before 8pm*
                       </p>
                     </div>
                   </div>
