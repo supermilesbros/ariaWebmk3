@@ -70,7 +70,7 @@
                           <h6>Mon <br> Tues <br> Wed <br> Thurs <br> Fri</h6>
                         </div>
                         <div>
-                          <h6>9am - 11pm <br> 9am - 11pm <br> 9am - 11pm <br> 9am - 11pm <br> 9am - 11pm</h6>
+                          <h6>9am - 11am <br> 9am - 11am <br> 9am - 11am <br> 9am - 11am <br> 9am - 11am</h6>
                         </div>
                       </div>
                       <p style="font-size: 14px;">
