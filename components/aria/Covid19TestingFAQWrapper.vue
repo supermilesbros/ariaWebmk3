@@ -16,7 +16,7 @@
             <a href="/COVID-19FAQs.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn" style="width: 250px;">
               PCR Test FAQ
             </a>
-            <a style="width: 250px;" href="/pcrSampleResults.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn--outline">
+            <a style="width: 250px;" href="/pcrSampleResults.pdf" target="_blank" class="ht-btn ht-btn-md ht-btn">
               Sample PCR Test Results
             </a>
           </div>

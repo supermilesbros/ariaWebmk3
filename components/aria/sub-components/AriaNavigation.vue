@@ -7,7 +7,7 @@
     </li>
     <li>
       <n-link to="/resources">
-        <span>COVID 19</span>
+        <span>COVID-19</span>
       </n-link>
     </li>
     <li class="has-children has-children--multilevel-submenu">
@@ -40,11 +40,11 @@
             <span>Aria Advantage</span>
           </n-link>
         </li>
-        <li>
+        <!-- <li>
           <n-link to="/laboratory-forms">
             <span>Forms</span>
           </n-link>
-        </li>
+        </li> -->
         <li>
           <nuxt-link to="/FAQ">
             <span>FAQ</span>
@@ -72,11 +72,11 @@
             <span>Contact Us</span>
           </n-link>
         </li>
-        <li>
+        <!-- <li>
           <a href="https://ariadxs.bamboohr.com/jobs/?source=filesusr" target="_blank">
             <span>Careers</span>
           </a>
-        </li>
+        </li> -->
       </ul>
     </li>
     <!-- <li class="has-children has-children--multilevel-submenu">

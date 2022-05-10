@@ -1,5 +1,5 @@
 <template>
-  <n-link :to="`/${project.link}`" class="projects-wrap style-01 wow move-up">
+  <n-link :to="`/${project.link}`" class="projects-wrap style-01">
     <div class="projects-image-box">
       <div class="content text-color-primary">
         <h6 class="heading">

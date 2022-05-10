@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center pb-5">
-          <p>THE PURPOSE OF THIS PLAN IS TO OUTLINE THE STEPS THAT EVERY EMPLOYER AND EMPLOYEE CAN TAKE TO REDUCE THE RISK OF EXPOSURE TO COVID-19. THE PLAN DESCRIBES HOW TO PREVENT WORKER EXPOSURE TO CORONAVIRUS, PROTECTIVE MEASURES TO BE TAKEN AT WORK, AND WORK PRACTICE CONTROLS TO BE USED, CLEANING AND DISINFECTING PROCEDURES, AND WHAT TO DO IF A WORKER BECOMES SICK. </p>
+          <p>The purpose of this plan is to outline the steps that every employer and employee can take to reduce the risk of exposure to covid-19. The plan describes how to prevent worker exposure to coronavirus, protective measures to be taken at work, and work practice controls to be used, cleaning and disinfecting procedures, and what to do if a worker becomes sick. </p>
         </div>
       </div>
 
