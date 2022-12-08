@@ -35,30 +35,30 @@
         }
     ],
     "aboutDelivery": {
-        "sectionTitle": "We Deliver Fast Accurate Results.",
+        "sectionTitle": "Central Laboratory Services",
         "deliveryItems": [
             {
-                "title": "Specimens",
+                "title": "Routine / Specialty Chemistry",
                 "desc": "Are subjected to presumptive drug screen and validity testing through automated Enzyme-Linked Immunoassay."
             },
             {
-                "title": "Results",
+                "title": "Genomics / Genetics",
                 "desc": "Manually approved results determine if the specimens qualify for confirmation."
             },
             {
-                "title": "Process",
+                "title": "Hematology Coagulation",
                 "desc": "Using LC-MS/MS (liquid chromatography-tandem mass spectrometry), separation of more than 100 drugs and mass spectrometry analysis can be achieved in as little as six minutes per specimen. "
             },
             {
-                "title": "Laboratory Staff ",
+                "title": "Immunology",
                 "desc": "Our skilled team of lab personnel possesses over 70 years of clinical laboratory experience and review data a minimum of three times before reporting results to clients."
             },
             {
-                "title": "Quality",
+                "title": "Microbiology",
                 "desc": "Never compromising quality for an increased rate of production, all procedures are implemented following CAP standards of patient care and safety."
             },
             {
-                "title": "Our Mission",
+                "title": "Specimen Management / Biorepository",
                 "desc": "Our lab yields results that enable clinicians to make informed decisions regarding care that will ultimately reduce abuse, misuse, and diversion of harmful drugs."
             }
         ]

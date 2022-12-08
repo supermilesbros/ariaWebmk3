@@ -19,9 +19,12 @@
                 <h5 class="title">
                   {{ delivery.title }}
                 </h5>
-                <div class="desc">
+
+                <!-- Here is the subtext of the catagories that I am waiting on from aria -->
+
+                <!-- <div class="desc">
                   {{ delivery.desc }}
-                </div>
+                </div> -->
               </div>
             </div>
           </div>

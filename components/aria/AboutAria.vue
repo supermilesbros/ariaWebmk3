@@ -14,7 +14,7 @@
         </div>
       </div>
 
-      <div class="cybersecurity-about-box section-space--pb_70">
+      <!-- <div class="cybersecurity-about-box section-space--pb_70">
         <div class="row">
           <div class="col-lg-4 offset-lg-1">
             <div class="modern-number-01">
@@ -43,7 +43,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <div class="row">
         <div class="col-12">
@@ -64,10 +64,10 @@
                       <div class="text">
                         {{ about.desc }}
                       </div>
-                      <div class="box-images-arrow">
+                      <!-- <div class="box-images-arrow">
                         <a :href="about.link" class="button-text">Discover now</a>
                         <i class="far fa-long-arrow-right" />
-                      </div>
+                      </div> -->
                     </div>
                   </div>
                 </div>
