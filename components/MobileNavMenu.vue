@@ -8,47 +8,37 @@
           </n-link>
         </li>
         <li>
+          <n-link to="/">
+            <span>Laboratory</span>
+          </n-link>
+        </li>
+        <li class="mobile-nav-fix">
+          <n-link to="/about">
+            <span>Overview</span>
+          </n-link>
+        </li>
+        <li class="mobile-nav-fix">
+          <n-link to="/advantage-service">
+            <span>Aria Advantage</span>
+          </n-link>
+        </li>
+        <li class="mobile-nav-fix">
+          <n-link to="/scope-service">
+            <span>Toxicology</span>
+          </n-link>
+        </li>
+        <li>
           <n-link to="/resources">
             <span>COVID-19</span>
           </n-link>
         </li>
-        <li class="has-children has-children--multilevel-submenu">
-          <n-link to="/about">
-            <span>Laboratory</span>
-          </n-link>
-          <ul class="submenu">
-            <li>
-              <n-link to="/about">
-                <span>About Us</span>
-              </n-link>
-            </li>
-            <li>
-              <n-link to="/ToxEdu">
-                <span>Toxicology Education</span>
-              </n-link>
-            </li>
-            <li>
-              <n-link to="/scope-service">
-                <span>Testing Process</span>
-              </n-link>
-            </li>
-            <li>
-              <n-link to="/markets-service">
-                <span>Specialities</span>
-              </n-link>
-            </li>
-            <li>
-              <n-link to="/advantage-service">
-                <span>Aria Advantage</span>
-              </n-link>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <n-link to="/billing">
-            <span>Billing</span>
-          </n-link>
-        </li>
+
+        <!-- hide billing for the time being -->
+        <!-- <li>
+      <n-link to="/billing">
+        <span>Billing</span>
+      </n-link>
+    </li> -->
         <li>
           <n-link to="/Portal">
             <span>Results Portal</span>
@@ -59,11 +49,18 @@
             <span>Contact Us</span>
           </n-link>
         </li>
-        <li class="menu-item">
-          <n-link to="/billing">
-            Billing
+        <!-- <li class="has-children has-children--multilevel-submenu">
+      <n-link to="/blog">
+        <span>Blog</span>
+      </n-link>
+      <ul class="submenu">
+        <li>
+          <n-link to="/blog/blog-details">
+            <span>Blog Details</span>
           </n-link>
         </li>
+      </ul>
+    </li> -->
       </ul>
     </nav>
   </div>
@@ -109,6 +106,10 @@ export default {
     /* offcanvas mobile menu */
     .mobile-navigation {
         padding: 30px 20px;
+    }
+    .mobile-nav-fix {
+      padding-left: 10px;
+      margin-top: -10px;
     }
     .offcanvas-navigation {
          ul {

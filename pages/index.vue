@@ -6,6 +6,8 @@
 
     <ServiceStyleThree />
 
+    <AboutAriaFeatures />
+
     <AriaFooter />
 
     <OffCanvasMobileMenu />
@@ -16,6 +18,7 @@
 import HeaderAria from '@/components/aria/HeaderAria'
 import AboutPageHeader from '@/components/aria/AboutPageHeader'
 import ServiceStyleThree from '@/components/aria/sub-components/ServiceStyleThree'
+import AboutAriaFeatures from '@/components/aria/AboutAriaFeatures'
 import AriaFooter from '@/components/aria/AriaFooter'
 import OffCanvasMobileMenu from '@/components/OffCanvasMobileMenu'
 export default {
@@ -23,6 +26,7 @@ export default {
     HeaderAria,
     AboutPageHeader,
     ServiceStyleThree,
+    AboutAriaFeatures,
     AriaFooter,
     OffCanvasMobileMenu
   }

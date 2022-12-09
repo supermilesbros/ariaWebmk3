@@ -12,7 +12,7 @@
       <ul class="submenu">
         <li>
           <n-link to="/about">
-            <span>About Us</span>
+            <span>Overview</span>
           </n-link>
         </li>
         <!-- <li>
@@ -20,13 +20,13 @@
             <span>Toxicology Education</span>
           </n-link>
         </li> -->
-        <!-- <li>
-          <n-link to="/scope-service">
-            <span>Testing Process</span>
-          </n-link>
-        </li> -->
         <li>
           <n-link to="/advantage-service">
+            <span>Aria Advantage</span>
+          </n-link>
+        </li>
+        <li>
+          <n-link to="/scope-service">
             <span>Toxicology</span>
           </n-link>
         </li>

@@ -156,19 +156,19 @@
 
         {
             "id": 18,
-            "heading": "Testing Process",
+            "heading": "Aria Advantage",
             "icon": "images/aria/aria-clipboard.png",
             "link": "scope-service"
         },
         {
             "id": 19,
-            "heading": "Specialities",
+            "heading": "Toxicology",
             "icon": "images/aria/aria-folder.png",
             "link": "markets-service"
         },
         {
             "id": 20,
-            "heading": "Aria Advantage",
+            "heading": "Resulting",
             "icon": "images/aria/aria-expenses.png",
             "link": "advantage-service"
         },
