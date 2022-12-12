@@ -158,19 +158,19 @@
             "id": 18,
             "heading": "Aria Advantage",
             "icon": "images/aria/aria-clipboard.png",
-            "link": "scope-service"
+            "link": "advantage-service"
         },
         {
             "id": 19,
             "heading": "Toxicology",
             "icon": "images/aria/aria-folder.png",
-            "link": "markets-service"
+            "link": "scope-service"
         },
         {
             "id": 20,
-            "heading": "Resulting",
+            "heading": "Results Portal",
             "icon": "images/aria/aria-expenses.png",
-            "link": "advantage-service"
+            "link": "portal"
         },
         {
             "id": 21,

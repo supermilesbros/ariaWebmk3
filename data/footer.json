@@ -5,19 +5,19 @@
         "telephone": "317-733-9454",
         "email": "labsupport@ariadxs.com"
     },
-    "footerWidgetTitleOne": "Services",
+    "footerWidgetTitleOne": "Laboratory",
     "navListOne": [
         {
-            "navTitle": "Testing Process",
-            "navUrl": "/scope-service" 
-        },
-        {
-            "navTitle": "Specialities",
-            "navUrl": "/markets-service" 
+            "navTitle": "Overview",
+            "navUrl": "/about" 
         },
         {
             "navTitle": "ARIA Advantage",
-            "navUrl": "/advantage-service" 
+            "navUrl": "/advatage-service" 
+        },
+        {
+            "navTitle": "Toxicology",
+            "navUrl": "/scope-service" 
         }
     ],
     "footerWidgetTitleTwo": "Quick Links",
