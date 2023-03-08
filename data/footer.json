@@ -33,6 +33,10 @@
         {
             "navTitle": "Resources",
             "navUrl": "/resources" 
+        },
+        {
+            "navTitle": "Blog",
+            "navUrl": "/Blog" 
         }
     ],
     "footerWidgetTitleThree": "Support",

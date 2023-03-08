@@ -1,0 +1,75 @@
+<template>
+  <div class="main">
+    <HeaderAria />
+    <div class="projects-wrapper section-space--ptb_100">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <AriaSectionTitle class="text-center section-space--mb_40" title="Blog Articles" sub-title="Aria Diagnostics" />
+          </div>
+        </div>
+
+        <div class="row ">
+          <div class="col-lg-6 col-md-6">
+            <n-link to="/BlogOne" class="projects-wrap style-01">
+              <div class="projects-image-box">
+                <div class="content text-color-primary">
+                  <h6 class="heading">
+                    POC Advantages
+                  </h6>
+                  <div class="text">
+                    &quot;In-office diagnostic testing allows for more personalized and targeted
+                    treatment...&quot;
+                  </div>
+                  <div class="box-projects-arrow">
+                    <span class="button-text">View </span>
+                    <i class="fa fa-long-arrow-right ml-1" />
+                  </div>
+                </div>
+              </div>
+            </n-link>
+          </div>
+          <div class="col-lg-6 col-md-6">
+            <n-link to="/BlogTwo" class="projects-wrap style-01">
+              <div class="projects-image-box">
+                <div class="content text-color-primary">
+                  <h6 class="heading">
+                    Test
+                  </h6>
+                  <div class="text">
+                    Testing
+                  </div>
+                  <div class="box-projects-arrow">
+                    <span class="button-text">View </span>
+                    <i class="fa fa-long-arrow-right ml-1" />
+                  </div>
+                </div>
+              </div>
+            </n-link>
+          </div>
+        </div>
+      </div>
+    </div>
+    <AriaFooter />
+  </div>
+</template>
+
+<script>
+import data from '../data/resources.json'
+import AriaSectionTitle from '@/components/aria/sub-components/AriaSectionTitle'
+import HeaderAria from '@/components/aria/HeaderAria'
+import AriaFooter from '@/components/aria/AriaFooter'
+
+export default {
+  components: {
+    AriaSectionTitle,
+    HeaderAria,
+    AriaFooter
+  },
+  data () {
+    return {
+      data
+    }
+  }
+}
+</script>
