@@ -25,7 +25,7 @@
                   </div>
 
                   <h3 class="post-title text-center">
-                    Why centralized labs are the future of clinical trials?
+                    Why centralized labs are the future of clinical trials.
                   </h3>
 
                   <div class="post-excerpt mt-15">
