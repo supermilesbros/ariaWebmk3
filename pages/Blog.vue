@@ -34,10 +34,10 @@
               <div class="projects-image-box">
                 <div class="content text-color-primary">
                   <h6 class="heading">
-                    Test
+                    Centralized Labs
                   </h6>
                   <div class="text">
-                    Testing
+                    &quot;Standardization is key to ensuring the accuracy and reliability of clinical trial data....&quot;
                   </div>
                   <div class="box-projects-arrow">
                     <span class="button-text">View </span>
