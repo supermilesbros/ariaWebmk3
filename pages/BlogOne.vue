@@ -42,7 +42,7 @@
                         &quot;In-office diagnostic testing allows for more personalized and targeted
                         treatment, which can result in better outcomes for patients. By identifying the underlying cause of a
                         patient&#39;s symptoms quickly and accurately, healthcare providers can develop a treatment plan that is
-                        tailored to the individual patient&#39;s needs.&quot; - Adhlakha
+                        tailored to the individual patient&#39;s needs.&quot; - Vipin Adhlakha
                       </p>
                     </blockquote>
 

@@ -55,7 +55,7 @@
                     <blockquote>
                       <p class="p1">
                         &quot;Central labs can process a larger volume of samples more efficiently, which can reduce costs associated
-                        with sample collection, transportation, and processing at each individual site.&quot; - Adhlakha
+                        with sample collection, transportation, and processing at each individual site.&quot; - Vipin Adhlakha
                       </p>
                     </blockquote>
 
