@@ -146,6 +146,7 @@ export default {
     return {
       title: "Aria Blog - Vipin Adhlakha",
       meta: [
+        { hid: "og-type", property: "og:type", content: "website" },
         {
           hid: "description",
           name: "description",
@@ -155,13 +156,14 @@ export default {
         {
           hid: "og:title",
           property: "og:title",
-          content: "Aria Blog - Vipin Adhlakha",
+          content:
+            "The growing trend towards in-office or point-of-care (POC) clinical diagnostic testing.",
         },
         {
           hid: "og:description",
           property: "og:description",
           content:
-            "The growing trend towards in-office or point-of-care (POC) clinical diagnostic testing.",
+            "In recent years, there has been a growing trend towards in-office or point-of-care (POC) clinical diagnostic testing. This type of testing allows healthcare providers to diagnose a wide range of medical conditions quickly and accurately, often without the need for costly and time-consuming laboratory testing.",
         },
         {
           hid: "og:image",
@@ -194,6 +196,7 @@ export default {
           name: "twitter:card",
           content: "summary_large_image",
         },
+        { hid: "t-type", name: "twitter:card", content: "summary_large_image" },
       ],
     };
   },
