@@ -147,9 +147,52 @@ export default {
       title: "Aria Blog - Vipin Adhlakha",
       meta: [
         {
-          hid: "og-image",
+          hid: "description",
+          name: "description",
+          content:
+            "The growing trend towards in-office or point-of-care (POC) clinical diagnostic testing.",
+        },
+        {
+          hid: "og:title",
+          property: "og:title",
+          content: "Aria Blog - Vipin Adhlakha",
+        },
+        {
+          hid: "og:description",
+          property: "og:description",
+          content:
+            "The growing trend towards in-office or point-of-care (POC) clinical diagnostic testing.",
+        },
+        {
+          hid: "og:image",
           property: "og:image",
-          content: "https://www.ariadxs.com/images/aria/blogTwo.jpg",
+          content: "https://ariadiagnostics.com/images/aria/blogTwo.jpg",
+        },
+        {
+          hid: "og:url",
+          property: "og:url",
+          content: "https://ariadiagnostics.com/blog/POC-Advantages",
+        },
+        {
+          hid: "twitter:title",
+          name: "twitter:title",
+          content: "Aria Blog - Vipin Adhlakha",
+        },
+        {
+          hid: "twitter:description",
+          name: "twitter:description",
+          content:
+            "The growing trend towards in-office or point-of-care (POC) clinical diagnostic testing.",
+        },
+        {
+          hid: "twitter:image",
+          name: "twitter:image",
+          content: "https://ariadiagnostics.com/images/aria/blogTwo.jpg",
+        },
+        {
+          hid: "twitter:card",
+          name: "twitter:card",
+          content: "summary_large_image",
         },
       ],
     };
