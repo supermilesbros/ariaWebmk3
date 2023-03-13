@@ -173,7 +173,7 @@ export default {
         {
           hid: "og:url",
           property: "og:url",
-          content: "https://ariadiagnostics.com/blog/POC-Advantages",
+          content: "https://www.ariadxs.com/POC-Advantages",
         },
         {
           hid: "twitter:title",
@@ -189,7 +189,7 @@ export default {
         {
           hid: "twitter:image",
           name: "twitter:image",
-          content: "https://ariadiagnostics.com/images/aria/blogTwo.jpg",
+          content: "https://www.ariadxs.com/images/aria/blogTwo.jpg",
         },
         {
           hid: "twitter:card",
