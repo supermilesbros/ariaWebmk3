@@ -13,7 +13,6 @@
             <div class="post-feature blog-thumbnail wow move-up">
               <img
                 class="img-fluid"
-                og:image
                 src="/images/aria/blogTwo.jpg"
                 alt="Aria Blog - Vipin Adhlakha"
               />
@@ -146,7 +145,13 @@ export default {
   head() {
     return {
       title: "Aria Blog - Vipin Adhlakha",
-      ogImage: "/images/aria/blogTwo.jpg",
+      meta: [
+        {
+          hid: "og-image",
+          property: "og:image",
+          content: "https://www.ariadxs.com/images/aria/blogTwo.jpg",
+        },
+      ],
     };
   },
 };
