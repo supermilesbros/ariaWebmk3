@@ -168,7 +168,7 @@ export default {
         {
           hid: "og:image",
           property: "og:image",
-          content: "https://ariadiagnostics.com/images/aria/blogTwo.jpg",
+          content: "https://www.ariadxs.com/images/aria/blogTwo.jpg",
         },
         {
           hid: "og:url",
