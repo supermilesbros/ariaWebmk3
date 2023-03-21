@@ -32,7 +32,7 @@
             </n-link>
           </div>
           <div class="col-lg-6 col-md-6">
-            <n-link to="/BlogTwo" class="projects-wrap style-01">
+            <n-link to="/Central-Labs" class="projects-wrap style-01">
               <div class="projects-image-box">
                 <div class="content text-color-primary">
                   <h6 class="heading">Centralized Labs</h6>

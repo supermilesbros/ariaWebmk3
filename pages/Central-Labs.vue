@@ -76,8 +76,11 @@
                         &quot;Central labs can process a larger volume of
                         samples more efficiently, which can reduce costs
                         associated with sample collection, transportation, and
-                        processing at each individual site.&quot; - Vipin
-                        Adhlakha
+                        processing at each individual site.&quot; -<span
+                          ><a href="https://vipinadhlakha.com/" target="_blank"
+                            >Vipin Adhlakha</a
+                          ></span
+                        >
                       </p>
                     </blockquote>
 
@@ -157,6 +160,57 @@ export default {
   head() {
     return {
       title: "Aria Blog - Vipin Adhlakha",
+      meta: [
+        { hid: "og-type", property: "og:type", content: "website" },
+        {
+          hid: "description",
+          name: "description",
+          content: "Why centralized labs are the future of clinical trials.",
+        },
+        {
+          hid: "og:title",
+          property: "og:title",
+          content: "Why centralized labs are the future of clinical trials.",
+        },
+        {
+          hid: "og:description",
+          property: "og:description",
+          content:
+            "Clinical trials are an essential part of drug development and regulatory approval processes. These trials require rigorous data collection and analysis to ensure the safety and efficacy of new therapies.",
+        },
+        {
+          hid: "og:image",
+          property: "og:image",
+          content: "https://www.ariadxs.com/images/aria/blogTwo.jpg",
+        },
+        {
+          hid: "og:url",
+          property: "og:url",
+          content: "https://www.ariadxs.com/POC-Advantages",
+        },
+        {
+          hid: "twitter:title",
+          name: "twitter:title",
+          content: "Aria Blog - Vipin Adhlakha",
+        },
+        {
+          hid: "twitter:description",
+          name: "twitter:description",
+          content:
+            "Clinical trials are an essential part of drug development and regulatory approval processes.",
+        },
+        {
+          hid: "twitter:image",
+          name: "twitter:image",
+          content: "https://www.ariadxs.com/images/aria/blogTwo.jpg",
+        },
+        {
+          hid: "twitter:card",
+          name: "twitter:card",
+          content: "summary_large_image",
+        },
+        { hid: "t-type", name: "twitter:card", content: "summary_large_image" },
+      ],
     };
   },
 };
