@@ -48,6 +48,23 @@
               </div>
             </n-link>
           </div>
+          <div class="col-lg-6 col-md-6">
+            <n-link to="/ENFD-Testing" class="projects-wrap style-01">
+              <div class="projects-image-box">
+                <div class="content text-color-primary">
+                  <h6 class="heading">ENFD Testing</h6>
+                  <div class="text">
+                    &quot;ENFD testing is a crucial tool in the diagnosis and
+                    management of idiopathic peripheral neuropathy.....&quot;
+                  </div>
+                  <div class="box-projects-arrow">
+                    <span class="button-text">View </span>
+                    <i class="fa fa-long-arrow-right ml-1" />
+                  </div>
+                </div>
+              </div>
+            </n-link>
+          </div>
         </div>
       </div>
     </div>
