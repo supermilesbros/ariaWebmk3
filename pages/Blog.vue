@@ -65,6 +65,23 @@
               </div>
             </n-link>
           </div>
+          <div class="col-lg-6 col-md-6">
+            <n-link to="/Picking-The-Right" class="projects-wrap style-01">
+              <div class="projects-image-box">
+                <div class="content text-color-primary">
+                  <h6 class="heading">Picking the Right Partner</h6>
+                  <div class="text">
+                    &quot;Clinical trials are a complex and time-consuming
+                    process. From start to finish.....&quot;
+                  </div>
+                  <div class="box-projects-arrow">
+                    <span class="button-text">View </span>
+                    <i class="fa fa-long-arrow-right ml-1" />
+                  </div>
+                </div>
+              </div>
+            </n-link>
+          </div>
         </div>
       </div>
     </div>
