@@ -15,6 +15,24 @@
 
         <div class="row">
           <div class="col-lg-6 col-md-6">
+            <n-link to="/Chronic-Pain" class="projects-wrap style-01">
+              <div class="projects-image-box">
+                <div class="content text-color-primary">
+                  <h6 class="heading">Chronic Pain</h6>
+                  <div class="text">
+                    &quot;CChronic pain is a significant health concern in the
+                    United States.....&quot;
+                  </div>
+                  <div class="box-projects-arrow">
+                    <span class="button-text">View </span>
+                    <i class="fa fa-long-arrow-right ml-1" />
+                  </div>
+                </div>
+              </div>
+            </n-link>
+          </div>
+
+          <div class="col-lg-6 col-md-6">
             <n-link to="/POC-Advantages" class="projects-wrap style-01">
               <div class="projects-image-box">
                 <div class="content text-color-primary">
