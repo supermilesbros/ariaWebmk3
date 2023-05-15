@@ -20,7 +20,7 @@
                 <div class="content text-color-primary">
                   <h6 class="heading">Chronic Pain</h6>
                   <div class="text">
-                    &quot;CChronic pain is a significant health concern in the
+                    &quot;Chronic pain is a significant health concern in the
                     United States.....&quot;
                   </div>
                   <div class="box-projects-arrow">
