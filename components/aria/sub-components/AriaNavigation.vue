@@ -25,11 +25,11 @@
             <span>Aria Advantage</span>
           </n-link>
         </li>
-        <li>
+        <!-- <li>
           <n-link to="/scope-service">
             <span>Toxicology</span>
           </n-link>
-        </li>
+        </li> -->
         <!-- <li>
           <n-link to="/advantage-service">
             <span>Aria Advantage</span>

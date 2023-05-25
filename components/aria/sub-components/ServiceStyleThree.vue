@@ -18,7 +18,11 @@
         <div class="col-12">
           <div class="feature-images__two small-mt__10">
             <div class="modern-grid-image-box row row--30">
-              <div v-for="service in data.services.slice(17, 20)" :key="service.id" class="single-item wow move-up col-lg-4 col-md-6 section-space--mt_60">
+              <div
+                v-for="service in data.services.slice(17, 19)"
+                :key="service.id"
+                class="single-item wow move-up col-lg-6 col-md-6 section-space--mt_60"
+              >
                 <ServiceItemStyleFour :service="service" />
               </div>
             </div>
@@ -30,17 +34,17 @@
 </template>
 
 <script>
-import data from '../../../data/service.json'
+import data from "../../../data/service.json";
 
-import ServiceItemStyleFour from '@/components/aria/ServiceItemStyleFour'
+import ServiceItemStyleFour from "@/components/aria/ServiceItemStyleFour";
 export default {
   components: {
-    ServiceItemStyleFour
+    ServiceItemStyleFour,
   },
-  data () {
+  data() {
     return {
-      data
-    }
-  }
-}
+      data,
+    };
+  },
+};
 </script>

@@ -1,71 +1,67 @@
 {
-    "footerAboutData": {
-        "logo": "images/logo/ARIARed.png",
-        "address": "5635 W. 96th St, Suite 300 Indianapolis, IN 46278",
-        "telephone": "317-733-9454",
-        "email": "labsupport@ariadxs.com"
+  "footerAboutData": {
+    "logo": "images/logo/ARIARed.png",
+    "address": "5635 W. 96th St, Suite 300 Indianapolis, IN 46278",
+    "telephone": "317-733-9454",
+    "email": "labsupport@ariadxs.com"
+  },
+  "footerWidgetTitleOne": "Laboratory",
+  "navListOne": [
+    {
+      "navTitle": "Overview",
+      "navUrl": "/about"
     },
-    "footerWidgetTitleOne": "Laboratory",
-    "navListOne": [
-        {
-            "navTitle": "Overview",
-            "navUrl": "/about" 
-        },
-        {
-            "navTitle": "ARIA Advantage",
-            "navUrl": "/advatage-service" 
-        },
-        {
-            "navTitle": "Toxicology",
-            "navUrl": "/scope-service" 
-        }
-    ],
-    "footerWidgetTitleTwo": "Quick Links",
-    "navListTwo": [
-        {
-            "navTitle": "Testing Location",
-            "navUrl": "/CovidTesting" 
-        },
-        {
-            "navTitle": "COVID-19 Back to Work Toolkit",
-            "navUrl": "/BTWtoolkit" 
-        },
-        {
-            "navTitle": "Resources",
-            "navUrl": "/resources" 
-        },
-        {
-            "navTitle": "Blog",
-            "navUrl": "/Blog" 
-        }
-    ],
-    "footerWidgetTitleThree": "Support",
-    "navListThree": [
-        {
-            "navTitle": "FAQ",
-            "navUrl": "/FAQ" 
-        },
-        {
-            "navTitle": "Contact Us",
-            "navUrl": "/contact" 
-        },
-        {
-            "navTitle": "Privacy Policy",
-            "navUrl": "/privacy" 
-        }
-    ],
-    "footerAppData": {
-        "footerWidgetTitleFour": "Apps Store",
-        "android": "images/icons/google-play.jpg",
-        "androidUrl": "https://www.android.com/",
-        "apple": "images/icons/apple-store.jpg",
-        "appleUrl": "https://www.apple.com/"
-    },
-    "footerBottom": {
-        "copyright": "© 2022 Aria Diagnostics. All Rights Reserved.",
-        "fbUrl": "https://www.facebook.com/ARIADiagnostics",
-        "twitterUrl": "https://twitter.com/AriaDiagnostics",
-        "instagramUrl": "https://www.instagram.com/ariadiagnostics/",
-        "linkedinUrl": "https://www.linkedin.com/company/aria-diagnostics-llc/"
+    {
+      "navTitle": "ARIA Advantage",
+      "navUrl": "/advatage-service"
     }
+  ],
+  "footerWidgetTitleTwo": "Quick Links",
+  "navListTwo": [
+    {
+      "navTitle": "Testing Location",
+      "navUrl": "/CovidTesting"
+    },
+    {
+      "navTitle": "COVID-19 Back to Work Toolkit",
+      "navUrl": "/BTWtoolkit"
+    },
+    {
+      "navTitle": "Resources",
+      "navUrl": "/resources"
+    },
+    {
+      "navTitle": "Blog",
+      "navUrl": "/Blog"
+    }
+  ],
+  "footerWidgetTitleThree": "Support",
+  "navListThree": [
+    {
+      "navTitle": "FAQ",
+      "navUrl": "/FAQ"
+    },
+    {
+      "navTitle": "Contact Us",
+      "navUrl": "/contact"
+    },
+    {
+      "navTitle": "Privacy Policy",
+      "navUrl": "/privacy"
+    }
+  ],
+  "footerAppData": {
+    "footerWidgetTitleFour": "Apps Store",
+    "android": "images/icons/google-play.jpg",
+    "androidUrl": "https://www.android.com/",
+    "apple": "images/icons/apple-store.jpg",
+    "appleUrl": "https://www.apple.com/"
+  },
+  "footerBottom": {
+    "copyright": "© 2022 Aria Diagnostics. All Rights Reserved.",
+    "fbUrl": "https://www.facebook.com/ARIADiagnostics",
+    "twitterUrl": "https://twitter.com/AriaDiagnostics",
+    "instagramUrl": "https://www.instagram.com/ariadiagnostics/",
+    "linkedinUrl": "https://www.linkedin.com/company/aria-diagnostics-llc/"
+  }
 }
