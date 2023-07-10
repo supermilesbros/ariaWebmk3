@@ -180,19 +180,19 @@ export default {
           hid: "description",
           name: "description",
           content:
-            "Medical Necessity for Urine Drug Screens in Pain Management",
+            "In recent years, there has been a growing debate surrounding the need for D and L isomer testing",
         },
         {
           hid: "og:title",
           property: "og:title",
           content:
-            "Medical Necessity for Urine Drug Screens in Pain Management",
+            "Rethinking the Necessity of D and L Isomer Testing as a Follow-Up to Positive Methamphetamine Results in LCMS Urine Drug Testing",
         },
         {
           hid: "og:description",
           property: "og:description",
           content:
-            "Urine drug screens (UDS) are a critical tool in pain management, aiding healthcare providers in ensuring safe and effective treatment.",
+            "In recent years, there has been a growing debate surrounding the need for D and L isomer testing",
         },
         {
           hid: "og:image",
@@ -202,8 +202,7 @@ export default {
         {
           hid: "og:url",
           property: "og:url",
-          content:
-            "https://www.ariadxs.com/Reimbursemen-Medical-Necessity-for-UDS",
+          content: "https://www.ariadxs.com/rethinking-the-necessity",
         },
         {
           hid: "twitter:title",
@@ -214,7 +213,7 @@ export default {
           hid: "twitter:description",
           name: "twitter:description",
           content:
-            "Urine drug screens (UDS) are a critical tool in pain management, aiding healthcare providers in ensuring safe and effective treatment.",
+            "In recent years, there has been a growing debate surrounding the need for D and L isomer testing",
         },
         {
           hid: "twitter:image",
