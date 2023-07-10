@@ -122,6 +122,27 @@
               </div>
             </n-link>
           </div>
+          <div class="col-lg-6 col-md-6">
+            <n-link
+              to="/rethinking-the-necessity"
+              class="projects-wrap style-01"
+            >
+              <div class="projects-image-box">
+                <div class="content text-color-primary">
+                  <h6 class="heading">
+                    Rethinking the Necessity of D and L Isomer Testing as a
+                    Follow-Up to Positive Methamphetamine Results in LCMS Urine
+                    Drug Testing
+                  </h6>
+                  <div class="text" />
+                  <div class="box-projects-arrow">
+                    <span class="button-text">View </span>
+                    <i class="fa fa-long-arrow-right ml-1" />
+                  </div>
+                </div>
+              </div>
+            </n-link>
+          </div>
         </div>
       </div>
     </div>
