@@ -143,6 +143,30 @@
               </div>
             </n-link>
           </div>
+
+          <div class="col-lg-6 col-md-6">
+            <n-link
+              to="/pitfalls-high-complexity-pol"
+              class="projects-wrap style-01"
+            >
+              <div class="projects-image-box">
+                <div class="content text-color-primary">
+                  <h6 class="heading">
+                    The Pitfalls of a High Complexity POL for LCMS Urine Drug
+                    Testing
+                  </h6>
+                  <div class="text">
+                    Open communication and collaboration between healthcare
+                    providers and payers are essential
+                  </div>
+                  <div class="box-projects-arrow">
+                    <span class="button-text">View </span>
+                    <i class="fa fa-long-arrow-right ml-1" />
+                  </div>
+                </div>
+              </div>
+            </n-link>
+          </div>
         </div>
       </div>
     </div>
