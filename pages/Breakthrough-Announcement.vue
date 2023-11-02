@@ -141,14 +141,14 @@ export default {
   },
   head() {
     return {
-      title: "Aria Blog - Vipin Adhlakha",
+      title: "Aria Breakthrough Annoucnement - Vipin Adhlakha",
       meta: [
         { hid: "og-type", property: "og:type", content: "website" },
         {
           hid: "description",
           name: "description",
           content:
-            "The Pitfalls of a High Complexity POL for LCMS Urine Drug Testing",
+            "ARIA DIAGNOSTICS, SIGTUPLE, AND FDAMAP COLLABORATE ON DIGITAL PATHOLOGY BREAKTHROUGH",
         },
         {
           hid: "og:title",
@@ -160,17 +160,17 @@ export default {
           hid: "og:description",
           property: "og:description",
           content:
-            "The Pitfalls of a High Complexity POL for LCMS Urine Drug Testing",
+            "ARIA DIAGNOSTICS, SIGTUPLE, AND FDAMAP COLLABORATE ON DIGITAL PATHOLOGY BREAKTHROUGH",
         },
         {
           hid: "og:image",
           property: "og:image",
-          content: "https://www.ariadxs.com/images/aria/blogTwo.jpg",
+          content: "https://www.ariadxs.com/Breakthrough-Announcement",
         },
         {
           hid: "og:url",
           property: "og:url",
-          content: "https://www.ariadxs.com/pitfalls-high-complexity-pol",
+          content: "https://www.ariadxs.com/Breakthrough-Announcement",
         },
         {
           hid: "twitter:title",
@@ -181,12 +181,12 @@ export default {
           hid: "twitter:description",
           name: "twitter:description",
           content:
-            "The Pitfalls of a High Complexity POL for LCMS Urine Drug Testing",
+            "ARIA DIAGNOSTICS, SIGTUPLE, AND FDAMAP COLLABORATE ON DIGITAL PATHOLOGY BREAKTHROUGH",
         },
         {
           hid: "twitter:image",
           name: "twitter:image",
-          content: "https://www.ariadxs.com/images/aria/blogTwo.jpg",
+          content: "https://www.ariadxs.com/Breakthrough-Announcement",
         },
         {
           hid: "twitter:card",
