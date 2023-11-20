@@ -22,11 +22,7 @@
             <span>Aria Advantage</span>
           </n-link>
         </li>
-        <li class="mobile-nav-fix">
-          <n-link to="/scope-service">
-            <span>Toxicology</span>
-          </n-link>
-        </li>
+        
         <li>
           <n-link to="/resources">
             <span>COVID-19</span>
