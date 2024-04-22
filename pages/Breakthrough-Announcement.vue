@@ -82,7 +82,7 @@
             <p> Aria is a high complexity CLIA-certified & CAP-accredited commercial clinical laboratory that offers an integrated diagnostic approach to patient testing.</p>
             <p>Read more at <a style="text-decoration: underline;" href="https://www.ariadxs.com/" target="_blank"><span style="color: #810831;">ariadxs.com</span></a></p>
           </div>
-        
+
       </div>
       <div class="row company-card">
           <div class="col-2 card-content">
@@ -93,7 +93,7 @@
             <p> Sigtuple Technologies builds intelligent screening solutions to aid diagnosis through robotics and AI-powered analysis of visual medical data.</p>
             <p>Read more at <a style="text-decoration: underline;" href="https://sigtuple.com/" target="_blank"><span style="color: #de1a1b;">sigtuple.com</span></a></p>
           </div>
-        
+
       </div>
       <div class="row company-card">
           <div class="col-2 card-content">
@@ -104,7 +104,7 @@
             <p> FDAMap is a Maryland-based CRO that consists of a group of clinical industry experts in healthcare and food regulations, business, and public policy.</p>
             <p>Read more at <a style="text-decoration: underline;" href="https://fdamapclinical.com/" target="_blank"><span style="color: #fe9b02;">fdamapclinical.com</span></a></p>
           </div>
-        
+
       </div>
     </div>
   </div>
@@ -141,7 +141,7 @@ export default {
   },
   head() {
     return {
-      title: "Aria Breakthrough Annoucnement - Vipin Adhlakha",
+      title: "Aria Breakthrough Announcement - Vipin Adhlakha",
       meta: [
         { hid: "og-type", property: "og:type", content: "website" },
         {
