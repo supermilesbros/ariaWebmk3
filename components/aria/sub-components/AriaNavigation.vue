@@ -47,12 +47,6 @@
         </li> -->
       </ul>
     </li>
-    <li>
-      <n-link to="/resources">
-        <span>COVID-19</span>
-      </n-link>
-    </li>
-
     <!-- hide billing for the time being -->
     <!-- <li>
       <n-link to="/billing">

@@ -19,18 +19,6 @@
   "footerWidgetTitleTwo": "Quick Links",
   "navListTwo": [
     {
-      "navTitle": "Testing Location",
-      "navUrl": "/CovidTesting"
-    },
-    {
-      "navTitle": "COVID-19 Back to Work Toolkit",
-      "navUrl": "/BTWtoolkit"
-    },
-    {
-      "navTitle": "Resources",
-      "navUrl": "/resources"
-    },
-    {
       "navTitle": "Blog",
       "navUrl": "/Blog"
     }
