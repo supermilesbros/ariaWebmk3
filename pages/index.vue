@@ -4,7 +4,7 @@
 
     <AboutPageHeader/>
 
-    <HomeBreakthrough/>
+    <!-- <HomeBreakthrough/> -->
 
 
     <ServiceStyleThree />
@@ -20,7 +20,7 @@
 <script>
 import HeaderAria from '@/components/aria/HeaderAria'
 import AboutPageHeader from '@/components/aria/AboutPageHeader'
-import HomeBreakthrough from '@/components/aria/HomeBreakthrough'
+// import HomeBreakthrough from '@/components/aria/HomeBreakthrough'
 
 import ServiceStyleThree from '@/components/aria/sub-components/ServiceStyleThree'
 import AboutAriaFeatures from '@/components/aria/AboutAriaFeatures'
@@ -31,7 +31,6 @@ export default {
     HeaderAria,
     AboutPageHeader,
     ServiceStyleThree,
-    HomeBreakthrough,
     AboutAriaFeatures,
     AriaFooter,
     OffCanvasMobileMenu
