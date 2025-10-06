@@ -26,11 +26,8 @@
 <script>
 import data from '../../data/hero.json'
 
-import AppointmentForm from '@/components/aria/AppointmentForm'
 export default {
-  components: {
-    AppointmentForm
-  },
+
   data () {
     return {
       data

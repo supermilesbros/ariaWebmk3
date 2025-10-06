@@ -1,4 +1,5 @@
 <template>
+  
   <div class="about-banner-wrap banner-space about-us-bg bg-cover" :style="{ backgroundImage: `url('images/aria/about-hero.jpg')` }">
     <div class="container">
       <div class="row">
